@@ -1,0 +1,1878 @@
+﻿[00:01:22-0 @timpritlove] Ihr hört CRE Technik, Kultur, Gesellschaft mein Name ist Tim Pritlove und das hier ist die 201. Ausgabe vom CRE und (äh) ja. Mit "Ja" fängt man gute Vorträge an hab ich gerade 
+[00:01:37-7 @timpritlove] gelernt und (äh) anders soll es Heute auch nicht sein. Das Thema ist Heute Höhlenforschung und (äh) das ganze natürlich mal wieder mit so einer (äh) speziellen Nerd, Geek 
+[00:01:51-1 @timpritlove] Perspektive. Klingt ja auch erstmal so wieder nach was (äh) von dem man irgendwie noch garnichts gehört hat. mir gehts zumindest so und (ähm) ich glaub hier (äh) unserm Gast 
+[00:02:01-1 @timpritlove] gings auch irgendwann mal so. Ich begrüße Doobee.
+[00:02:04-6 @doobee] Hallo.
+[00:02:05-9 @timpritlove] Moin, was hat dich denn (lachen) dahin verschlagen? Aber nee so fang ih erstmal nicht an. Ich erstmal anders an, unzwar (äh) Du bist ja du bist ja ganz (äh) auch sagen wir mal 
+[00:02:19-1 @timpritlove] bekennender (äh) Nerd und bekennender (äh) Geek, kann man das so (äh) sagen?
+[00:02:23-9 @doobee] Ja
+[00:02:24-4 @timpritlove] Früh in den Topf gefallen und so? Was (äh) was was muss man denn (ähm) was muss man denn zu zu dir zu deinem Hintergrund (äh äh äh) wissen um den Teil danach auch 
+[00:02:36-5 @timpritlove] einordnen zu können?
+[00:02:38-6 @doobee] Ja also (räusper) es ist ganz spannend ich komm noch so eben aus der Mailbox-Zeit. Und sogar noch nen bisschen anders, meine erste Kommunikationsnetzterfahrung war mit Telex.
+[00:02:53-6 @doobee] Chat mit Telex.
+[00:02:56-0 @timpritlove] Was?
+[00:02:56-3 @doobee] Ja es gabs.
+[00:02:57-8 @timpritlove] Du hast mit Telex gechattet?
+[00:02:59-2 @doobee] Genau und ich hab den Ausdruck noch gefunden vor einigen Jahren. (ähm) Eine Erfahrung war mal die Telexauskunft, die war nämlich mehr oder weniger chatbasiert. Jedenfalls 
+[00:03:11-1 @doobee] stellte ich da Fragen und kriegt Antworten und die kamen mir seltsam vor. Ich muss damals auch irgendwie..
+[00:03:15-3 @timpritlove] Wie du kriegtest Antworten per Telex?
+[00:03:17-1 @doobee] Genau in Echtzeit.
+[00:03:18-6 @timpritlove] Es gab eine.. es gab eine Auskunft, eine Telexaus, also war das jetzt eine Auskunft für Telex oder eine Auskunft via Telex oder sowohl als auch?
+[00:03:27-0 @doobee] Eine Auskunft via Telex über Nummern und das Telexsystem. 
+[00:03:32-3 @timpritlove] Konnte ich da auch Telefonnummern erfragen oder war das?
+[00:03:35-3 @doobee] Das hab ich garnicht versucht
+[00:03:36-2 @timpritlove] Ach so
+[00:03:36-6 @doobee] aber Telexnummern konnte man da wohl auch erfragen und der Richtige der Groschen..
+[00:03:42-4 @timpritlove] Und das hat man so in Planetext gemacht?
+[00:03:44-0 @doobee] Genau
+[00:03:44-3 @timpritlove] So "Guten Tag ich hätte gerne die Nummer von hhmhmhm".
+[00:03:47-0 @doobee] Mit 50 Baud.
+[00:03:49-2 @timpritlove] Wow
+[00:03:49-9 @doobee] (ähm) Also man 
+[00:03:50-6 @timpritlove] Da hab ich noch nie drüber nachgedacht 
+[00:03:51-6 @doobee] Man hätte schneller tippen können 
+[00:03:52-8 @timpritlove] Ja (lachen)
+[00:03:53-9 @doobee] und es war, es schien mir ein halbautomatisiertes System oder ein ganz automatisiertes System also es sagt schon irgendwie "Bitte geben Sie das Land an. Bitte geben Sie die 
+[00:04:02-6 @doobee] Nummer an." so klassische Dialogführung wie man das ja nannte.
+[00:04:05-8 @timpritlove] Aber immer so Telex hin, Telex zurück?
+[00:04:07-2 @doobee] Genau
+[00:04:07-6 @timpritlove] Was kostete, was was war denn so der Kostenrahmen da?
+[00:04:10-2 @doobee] Keine Ahnung.
+[00:04:11-1 @timpritlove] War das so Flatrate irgendwie hatte man son Telexanschluss und hatte für den fest bezahlt?
+[00:04:14-6 @doobee] Nee nee nee
+[00:04:15-4 @timpritlove] Oder war es schon so pro Nachricht?
+[00:04:16-6 @doobee] Ich glaub der kostete einmal schon richtig Geld das also der Grundpreis (ähm) und dann noch Minutenpreis. Ich muss zehn oder elf gewesen sein, bin halt ins Büro 
+[00:04:27-8 @doobee] geschlichen und hab das Ding benutzt.
+[00:04:28-9 @timpritlove] (lachen)
+[00:04:29-7 @doobee] (äh) Und wir hatten ein ganz modernes mit Bildschirm. Das alte mit Lochstreifen war gerade rausgeflogen. 
+[00:04:34-9 @timpritlove] Ok, wir reden jetzt von Mitte der 80. Jahre?
+[00:04:38-0 @doobee] Nja irgendwo genau
+[00:04:39-3 @timpritlove] (ehem) 
+[00:04:39-6 @doobee] Hintere Hälfte 80. 
+[00:04:40-8 @timpritlove] Ok
+[00:04:41-6 @doobee] Ja und irgendwann fragte ich dann die Auskunft "Bist du ein Mensch oder eine Maschine?"
+[00:04:46-6 @timpritlove] (kichern)
+[00:04:47-4 @doobee] Und die Antwort war "Eine Maschine mit sehr menschlichen Zügen."
+[00:04:50-6 @timpritlove] (lachen)
+[00:04:53-7 @doobee] Und das war so für mich das DAS Ereignis.
+[00:04:56-1 @timpritlove] (lachen) Eine Maschine mit menschlichen Zügen.
+[00:04:58-5 @doobee] Mit sehr menschlichen Zügen.
+[00:04:59-9 @timpritlove] Mit sehr menschlichen Zügen, Siri sagt glaube ich aufen iPhone was ähnliches oder? (lachen) Hat sich nicht viel verändert.
+[00:05:07-2 @doobee] Und irgendwie der Sprung von ich hab ein Schneider CPC und programmier da son bisschen rum mit wir haben dieses gigantisches weltumspannende Ding 
+[00:05:17-4 @timpritlove] (ehem) 
+[00:05:18-0 @doobee] wo Menschen und Entitäten mit einander kommunizieren das war bei mir da so.
+[00:05:23-1 @timpritlove] Telex war glaub ich lange lange Zeit das  größte digitale Datennetz.
+[00:05:27-3 @doobee] Ja (..) also ich kenn es von anderen wo der Groschen viel als sie irgendwie in nen klassischen Freeking dann zwei Telefone hatten. In das eine rölpsen sie rein 
+[00:05:36-7 @doobee] und nach 10 Sekunden kommt der Rölpser aus der anderen raus weil die Verbindung drei mal um die Welt geht.
+[00:05:42-7 @timpritlove] Verstehe
+[00:05:43-3 @doobee] (ähm) Ja und dann irgendwie, ich wohnte aufen Land, war recht schwierig aber Vilonetz und Usenetgaytways und so weiter.
+[00:05:52-0 @timpritlove] Ja 
+[00:05:52-6 @doobee] (ähm) Ich hab dann auch ein bisschen was mit Computersicherheit gemacht (äh). Mein größtes Ergebnis war sicher, ich hab ein Zertifikat von West Point für irgendwie
+[00:06:04-7 @doobee] die beste Offensive in Information, Warefaretechnik auf der Konferenz.
+[00:06:09-7 @timpritlove] West Point? 
+[00:06:10-4 @doobee] West Point ist die United States Military Academy 
+[00:06:13-6 @timpritlove] Ah
+[00:06:14-0 @doobee] und (äh) das ist das Sigel von West Point und von der NSA unten drauf.
+[00:06:17-8 @timpritlove] Wow!
+[00:06:18-5 @doobee] Hab ich gerahmt (kichern)
+[00:06:19-3 @timpritlove] Du bist zertifizierter 
+[00:06:21-1 @doobee] NSA Hacker 
+[00:06:22-2 @timpritlove] Wow!
+[00:06:22-9 @doobee] (ähm) 
+[00:06:24-1 @timpritlove] Nicht schlecht
+[00:06:24-3 @doobee] Also im Rahmen der Universität und so haben wir den Kram gemacht. Hab auch ein bisschen geholfen den CCC in Deutschland zu verbreiten. Die Kölner die einer der ersten sehr
+[00:06:33-4 @doobee] aktiven nicht Hamburg, Berlinableger waren.
+[00:06:36-4 @timpritlove] (ehem) 
+[00:06:36-9 @doobee] (ähm) Da war ich zugange. also ich hab richtig viel mit Computern gemacht, meine Frau beim CCC kennen gelernt (äh).
+[00:06:42-6 @timpritlove] Genau, in der Zeit haben wir uns ja auch (äh) kennen gelernt als das so gerade (äh) los ging mit dieser regionalen Verbreitung des Clubs The sekend coming.
+[00:06:50-3 @doobee] Genau
+[00:06:51-4 @timpritlove] (ehem) 
+[00:06:52-0 @doobee] (ähm) Ich selber hab dann das mit der Informationssicherheit son bisschen sein lassen. Also einmal (ähm) im Club war ich nicht mehr so aktiv. Der wächst halt auch über einen hinaus,
+[00:07:01-7 @doobee] da gibts neue Leute mit neuen Ideen und wenn da die ganzen Graubärte immer rumhängen ist ja nicht schön. (ähm) In der Informationssicherheit selber fand ich nen bisschen (ähm) 
+[00:07:11-0 @doobee] destruktiv auf die Dauer. Also man kommt ja nie dahin und sag so machen wir das jetzt und dann ist sicher und alles ist gut. (ähm) Weil eigentlich wo immer man mit dem Finger 
+[00:07:18-5 @doobee] reinbohrt ist Mist. (ähm) 
+[00:07:20-7 @timpritlove] Geht auch immer wieder kaputt.
+[00:07:21-7 @doobee] Genau, kriegt man auch immer wieder kaputt. Also (äh) 
+[00:07:25-4 @timpritlove] Nja ist sone Sisyphosnummer eigentlich ne Security.
+[00:07:29-0 @doobee] Ja
+[00:07:29-3 @timpritlove] Und vor allem was ich auch immer mitbekomme von Leuten die solange in der Security waren das die auch extrem darunter leiden das obwohl sagen wir mal jetzt das eigentliche 
+[00:07:38-4 @timpritlove] Löcher finden und so an sich schon kreativer Vorgang ist und auch ne ganze  Menge Hirnschmalz und (ähm) Flexibilität und Ideenreichtum etc. und Pfiffigkeit braucht.
+[00:07:51-5 @timpritlove] Das man am Ende immer nichts baut, das irgendwie nichts bleibt und das das so der eigentliche kreative Teil immer nur so für den Moment ist aber eben nicht dazu führt 
+[00:08:01-7 @timpritlove] das man eben auch irgendwas hinterlässt was (äh) was weiß ich bei Open Source Entwicklung oder so.
+[00:08:06-9 @doobee] Destruktiv 
+[00:08:07-4 @timpritlove] (hm) 
+[00:08:08-4 @doobee] Ist ne destruktive Tätigkeit, man macht Sachen von anderen Leuten kaputt, die sind auch oft sehr sauer obendrein und nicht "danke das du mir gezeigt hast das ich da ein Problem hab"
+[00:08:17-1 @timpritlove] (lachen)
+[00:08:18-0 @doobee] (ähm) 
+[00:08:18-5 @timpritlove] So "Was fällt dir ein?" (hm) 
+[00:08:19-9 @doobee] und dann wird (äh) nachher gesagt ja von den Betroffenen immer "das ist jetzt gepatcht kein Problem, alle Sicherheitsprobleme sind weg" und dann geht das ganze von Vorne los.
+[00:08:28-0 @doobee] (äh) War nix was ich  machen  wollte bis  ich 70 bin. Ja (hm) jetzt irgendwie in die Wirtschaft gegangen und mach eigentlich was ohne Computer. Da kommt das ganze her.
+[00:08:41-4 @doobee] (ähm) 
+[00:08:43-4 @timpritlove] Dann brauchtest du sozusagen ein neues  Hobby was dein (äh) 
+[00:08:47-6 @doobee] Ja
+[00:08:47-8 @timpritlove] den inneren Nerd ansprach.
+[00:08:49-2 @doobee] Tatsächlich son bisschen. Also wir kennen das alles auch (ähm) viele unserer Hörer werden ja sicher auch immer der letzte bei den Bundesjugendspielen gewesen sein und 
+[00:08:58-3 @doobee] der Hang zur Bewegung ist (äh) nja nicht bei allen Nerds gegeben. (ähm) Ich selber bin auch überhaupt kein Fan so von Bewegung um des Bewegungswillen. Also so Jogger 
+[00:09:12-0 @doobee] kann ich überhaupt nicht verstehen. 
+[00:09:13-9 @timpritlove] (kichern)
+[00:09:14-5 @doobee] (ähm) 
+[00:09:15-4 @timpritlove] Probier es mal mit Inline Skating.
+[00:09:17-5 @doobee] Hab ich..
+[00:09:19-4 @timpritlove] Ok
+[00:09:20-2 @doobee] Die (ähm) wohin skaten gerne... auf die Zugspitze laufen weils da irgendwas gibt gerne... aber auf die Zugspitze laufen um zu zeigen das ich auf die Zugspitze laufen kann..(hmmm)
+[00:09:33-4 @doobee] (ähm) 
+[00:09:35-2 @timpritlove] Ja a-b ist interessanter als a-a so ne.
+[00:09:37-4 @doobee] Genau
+[00:09:37-9 @timpritlove] (hm) 
+[00:09:38-8 @doobee] Ich bin dann (ähm) interessanter Weise als ich auch nen bisschen historisches Interesse (äh) und die Faszination die ja auch  in der Nerdszene recht viel ist von so verfallenden Gebäuden
+[00:09:51-7 @doobee] und Infrastruktursachen. (ähm) Das fängt halt an bei der Fabrikruine und hört auf bei der Kanalisation. Da gibts auch ne ganze Szene rum die nennt sich Urban Exploration.
+[00:10:06-7 @doobee] Also nen anderes Szenen ganz verwand die nenn sich Infiltration. Also ich geh dahin wo ich nicht sein sollte. Und da sind wir wieder recht nah am Hacking und am 
+[00:10:21-6 @doobee] social engineering und ach hier bin ich in dem Personalonly Bereich,ha ich such nur die Toilette (ähm) Die Klassiker halt.
+[00:10:30-7 @timpritlove] (ehem) 
+[00:10:31-4 @doobee] Und was mich fasziniert hat neben der morbiden Faszination irgendwie halt von eingestürzten oder halb eingestürzten Fabriken ist (ähm) auf wie viel Infrastruktur wir eigentlich 
+[00:10:47-8 @doobee] sitzen, wie unglaublich aufwendig ist, oft im Boden liegt oder sonst wo und von der man nichts mitkriegt. Wo man (ähm) täglich drüber läuft. 
+[00:10:56-2 @timpritlove] Kanalisation
+[00:10:57-5 @doobee] Genau aber auch.. die fällt einem immer ein aber auch ganz andere Sachen. Also in Berlin ist der Verein Berliner Unterwelten da ja recht (ähm) aktiv die auch auf 
+[00:11:08-0 @doobee] legale Weise zu erschließen und es gibt auch jeden Menge Leute die auf illegale Weise darin rumspringen 
+[00:11:12-7 @timpritlove] (ehem) 
+[00:11:12-9 @doobee] oder sagen wir auf nicht genehmigte. (ähm) Zum Beispiel in der Stadt wo ich aufgewachsen bin und insgesamt über 20 Jahre gelebt hat, warum erfahre ich erst wenn ich über 30 bin 
+[00:11:26-9 @doobee] das es da mehrere Eisenbahntunnel aufen Stadtgebiet gibt. Hätt ich mal mit 16 doch wissen sollen.. stillgelegte. Oder dann das da rauskommt das das Stadtgebiet durchschneidend 
+[00:11:38-8 @doobee] irgendwie ein ich glaub 20km langer Frischwassertunnel ist, mörder Ding.. was halt quer durch die Landschaft geht und wenn mans einmal weiß findet man auch immer die
+[00:11:48-1 @doobee] Zugangsbauten also die Häuschen wo die Bergleute den Tunnel gegraben haben sich den Zugang gemacht haben. (ähm) Solche Infrastruktur gibts in Unmengen und 
+[00:11:58-8 @doobee] es ist schon faszinierend auch was für Aufwand und Geld wir als Gesellschaft darein investiert haben und dann siehts man nicht wieder. Was vielleicht auch  ganz gut ist weils die 
+[00:12:08-7 @doobee] Sachen schont. Anderer Bereich sind alte Bunker (ähm) und jetzt schlagen wir wieder den Bogen zur Mailboxszene und so. Die Computerszene ja oder die Netzwerkszene oder so
+[00:12:26-6 @doobee] hat ja immer wieder son Hang zum Geheimniskrämerei das ist mit Social Media nen bisschen besser geworden aber das in jeder besseren Webforumssoftware sieht mans noch.
+[00:12:37-9 @doobee] Wenn man sich da registriert ist man Einsteiger, wenn man irgendwie hundert postings  gemacht hat ist man advanced und irgendwie wenn man tausend postings gemacht hat 
+[00:12:48-0 @doobee] ist maan im golden club und in manchen Foren dürfen nur rein die mit advanced sind also ne ganze.. einmal die Geheimhalterei und anderer Seits diese ganz klar "du musst was 
+[00:12:58-7 @doobee] machen damit du dazu gehörst".
+[00:13:00-9 @timpritlove] (ehem) 
+[00:13:01-5 @doobee] (ähm) In manchen Subcommunitys so irgendwie creditcard trayding oder explorid trayding und sonst was (äh) wird das ja ganz doll betrieben aber eigentlich hat das fing im FidoNetz 
+[00:13:12-9 @doobee] schon an diese ganze (ähm) ja du musst dich Stück Stück hocharbeiten biste Elite bist. 
+[00:13:19-3 @timpritlove] Reputation based communitys
+[00:13:21-3 @doobee] nja genau
+[00:13:22-5 @timpritlove] könnte mans positiv ausdrücken.
+[00:13:24-5 @doobee] Njaa aber ist irgendwie du musst natürlich immer.. es wird bei dir von dir verlangt bei null anzufangen also in der Steinzeit weil wie es alles geht können wir dir nicht sagen.
+[00:13:34-2 @doobee] Oder lies doch das verdammte Menual. (ähm) Das meistens aber auch schlecht ist. Das (ähm) mein persönliches Leid ist, das ich mit diesen Communitys immer ganz schlecht zurecht 
+[00:13:45-6 @doobee] komme weil (äh) eins steht ja immer bevor du ne Frage im Forum postest informier dich, benutz die Suchfunktion, dann stell deine Frage.
+[00:13:57-5 @timpritlove] (hm) 
+[00:13:57-8 @doobee] Wenn man das ernsthaft macht kriegt man keine Antwort, sondern man muss so tun als hätte man recherchiert. Wenn du schreibst "ja mich interessiert wie man mit dem Auto 
+[00:14:09-3 @doobee] Pforten durchfährt, folgende 16 Punkte hab ich schon rausgefunden, jetzt frag ich mich was tue  ich wenn das Auto aufschwimmt also hochtreibt (ähm) und in welche Richtung 
+[00:14:20-9 @doobee] man am besten die durchfährt" da hat keiner bock drauf zu antworten weil du offensichtlich schon so viel Ahnung hast das wäre ja anstrengend. 
+[00:14:28-6 @timpritlove] (hm) 
+[00:14:28-8 @doobee] Wenn hingegen sagst "ich hab gehört das Pforten immer bei starken Regen durchfahren soll damit gut durchgleitet" dann kannst dir sicher sein das du viele Tips kriegst, gesagt 
+[00:14:36-1 @doobee] das du ein Idiot bist aber auch Antworten kriegst. Aber wenn du die Vorarbeit wirklich geleistet hast dann gibts oft auch keine Antwort also man darfs nicht zu weit treiben
+[00:14:43-9 @doobee] mit dem (äh) reputation hocharbeiten oder wie auch immer. Also auf jeden Fall diese Geheimniskrämerei die ist in der Computerszene da (ähm) gibt ja auch die full disclosure 
+[00:14:56-6 @doobee] Debatte nja gabs, ist ja auch schon lange durch eigentlich (äh) kann man auch sagen haben wir gewonnen also (ähm) das noch Leute ihren Job verloren haben in den 90 weil sie 
+[00:15:08-5 @doobee] Exploits veröffentlicht haben ist glaub ich inzwischen durch. Also Leute die in der Sicherheitsbranche arbeiteten.
+[00:15:14-5 @timpritlove] Ja
+[00:15:15-2 @doobee] Heute verlieren die vielleicht ihren Job weil die sagen "Moment das hätten wir ja verkaufen können den Exploit spinnst du"
+[00:15:19-4 @timpritlove] (kichern)
+[00:15:20-0 @doobee] "Das ganze Geld zum Fenster rauswerfen" aber diese Sprüche einen Exploit zu posten ist als würde man einen Maschinengewehr in Hände von Kindern geben ist ja nicht mehr ganz so.
+[00:15:29-3 @timpritlove] Aber es gibt natürlich auch noch die Responsible disclosure ja..
+[00:15:33-3 @doobee] Jaja also Riesen Debatte drumherum (ähm) und bei diesen ganzen infiltrationen also wo komm ich (ähm) (äh) oder wie komm ich, wo find ich Orte wo man eigentlich nicht sein 
+[00:15:48-4 @doobee] sollte Kanalisation und sonst was. Ist natürlich das gleiche Thema wenn da jede Menge Idioten durchtapern kann man ziemlich sicher sein das der Eingang bald zugeschweißt ist 
+[00:15:55-7 @doobee] weil die Stadtwerke oder wer auch immer zuständig ist einfach sauer sind und die Spritzen und die leeren Bierflaschen nicht mehr da haben wollen.
+[00:16:02-5 @timpritlove] Ja
+[00:16:03-5 @doobee] (ähm) Das ist also ne ganz seltsame Szene. Ich selber hab mich da viel rausgehalten weil viele der Sachen kann man auch selber finden, also es ist erstaunlich was es so für 
+[00:16:14-6 @doobee] Ressourcen gibt (ähm) zum Beispiel der Tunnel war dieser Frischwassertunnel unter meiner Stadt lang war auf alten topographischen Karten eingezeichnet auf neuen nicht. 
+[00:16:26-1 @timpritlove] Meinste absichtlich nicht? Oder einfach nicht also war es nicht relevant, nicht mehr bekannt oder bewusst rausgelassen worden? 
+[00:16:35-4 @doobee] Ich vermute nicht relevant weil der Tunnel wird halt noch benutzt da geht Frischwasser durch.
+[00:16:39-8 @timpritlove] Aber ist halt nichts was man so im täglichen Leben.. woran man sich orientieren konnte.
+[00:16:44-1 @doobee] Genau und die Leute die Karte rausgenommen haben sagen interessiert ja eigentlich hier keinen.
+[00:16:47-8 @timpritlove] Und ist ja auch nicht unbedingt jetzt son das Ausflugsziel der Wahl ne.
+[00:16:51-3 @doobee] Und macht die Karte nur unübersichtlicher wenn da noch ein Strich mehr durchgeht. Ganz lustig ist übrigens der Tunnel ist der Ersatz für einen anderen Frischwassertunnel. Der lief
+[00:17:02-3 @doobee] aber deutlich höher und schnitt immer nur die Flusskurven ab. Die sind auch noch begehbar. 
+[00:17:06-3 @timpritlove] Also Frischwassertunnel heißt genau was das es?
+[00:17:08-9 @doobee] Ja in den
+[00:17:09-8 @timpritlove] Wo kommt das Wasser her, wo geht es hin?
+[00:17:11-0 @doobee] Im Bergischen Land gibts jeden Menge große Talsperren und das Wasser aus den Talsperren in den großen Städten wie Wuppertal und Remscheid leiten dafür waren diese Tunnel.
+[00:17:20-8 @doobee] Und (ähm) am Anfang fingen die an die einfach über die Hügel pumpen da waren die Pumpen nicht stark genug. Also gingen die vom Tal irgendwie 50m hoch, dann Tunnel
+[00:17:30-5 @doobee] bis dahin schafften es die Pumpen und auf der anderen Seite wieder runter. Wenn man dadurch halt 4, 5km Rohrleitung sparen konnte weil man den Schleifen des Flusses 
+[00:17:39-5 @doobee] nicht folgen musste.
+[00:17:40-1 @timpritlove] (ehem) 
+[00:17:40-5 @doobee] Das war der alte Tunnel der musste irgendwie um 19hundert gebaut worden sein und in den 60gern haben sie dann gesagt jetzt Schluss mit dem Unsinn (äh) wir gehen an  der 
+[00:17:47-4 @doobee] Talsperre in die Erde und kommen in Wuppertal wieder raus. 
+[00:17:50-5 @timpritlove] (hm) 
+[00:17:51-4 @doobee] Das ist dann der neue Tunnel. 
+[00:17:52-8 @timpritlove] Verstehe
+[00:17:53-3 @doobee] Und da ist einfach ein dickes Rohr Meter Durchmesser drin und da läuft Wasser aus der Talsperre ins Wasserwerk.
+[00:18:00-2 @timpritlove] Und der andere Frischwassertunnel war aber größer?
+[00:18:02-4 @doobee] Nee eigentlich nicht mal (ähm) also 
+[00:18:06-4 @timpritlove] nen Meter
+[00:18:07-1 @doobee] Das Rohr, das Rohr liegt in dem Tunnel.
+[00:18:09-9 @timpritlove] Ja  
+[00:18:10-5 @doobee] Also
+[00:18:10-9 @timpritlove] Ach so denn Tunnel
+[00:18:12-0 @doobee] Tunnel 2m, 1m dickes Rohr oder 1,20m also  irgendwas dieser Hausordnung.
+[00:18:15-9 @timpritlove] Verstehe
+[00:18:16-5 @doobee] Ja also das (ähm) die ganzen Sachen kann man auch finden ohne andere Leute zu fragen. Muss man sich auf diese Szene garnicht einlassen. (ähm) Hab ich dann auch ganz gut 
+[00:18:29-7 @doobee] gemacht. Oft ist dann aber wenn man was gefunden hat guckt man mal im Internet was gibts denn so darüber. Und ich hatte ne ganz unerfreuliche Begegnung (ähm) da holen 
+[00:18:43-7 @doobee] wir weiter aus. Ich kriegte über son Forum mit das am Tag des Geotops, das gibts. 
+[00:18:49-4 @timpritlove] Des Geotops?
+[00:18:50-6 @doobee] Des Geotops, es gibt Biotope und Geotope.
+[00:18:52-9 @timpritlove] Ach?
+[00:18:53-5 @doobee] Und wahrscheinlich noch viele andere Tope.
+[00:18:56-2 @timpritlove] Ja 
+[00:18:57-0 @doobee] Also irgendwie wo die Erde hübsch ist, oder besonders, oder schützenswert. 
+[00:19:02-6 @timpritlove] Gebilde der unbelebten Natur.
+[00:19:04-4 @doobee] (ähm) Ist übrigens wir haben momentan gesellschaftlich so die letzten 30 Jahre die totale Dominanz der Biotopscchützer. Also wenn du sagst irgendwie hier ist ne seltene 
+[00:19:18-5 @doobee] Libelle dann darf da die Straße nicht lang gebaut werden aber wenn du sagst hier sind seltene Erdformationen (pff) tja
+[00:19:25-4 @timpritlove] scheiß drauf
+[00:19:25-4 @doobee] Pech gehabt. Beton rein ruhe. 
+[00:19:28-4 @timpritlove] Ja
+[00:19:29-9 @doobee] Am Tag des Geotopes kriegte ich über eins dieser Foren mit das es (äh) der Arbeitskreis Kluterthöhle den Zugang zur Bismarkhöhle in Ennepetal öffnen würde.
+[00:19:40-7 @doobee] Bismarkhöhle ist ganz interessant die war Luftschutz ja nicht Keller Luftschutzhöhle (äh) während des zweiten Weltkriegs und bin ich dann dahin getiegert (ähm) hab mir die 
+[00:19:53-9 @doobee] ganzen Sachen angehört natürlich wie das so typisch ist ne (äh) bei ner Kaffeefahrt erst muss man all die Sachen angucken die man nicht will, gucken wir hier einen schönen 
+[00:20:02-7 @doobee] Steilhang hier sieht man an dem Abbruch dies und jenes und hier seltene Pflanzen und dann Tschaka in die Höhle. Und die erklärten dann (ähm) son bisschen auch ihre Ideologie 
+[00:20:17-1 @doobee] wie sie arbeiten. (ähm) Nämlich das die Höhlen sehr empfindliche Räume wären also das (äh) man sich son Tropfstein vorstellt zum Beispiel der wachst um nen cm je nach Höhle 
+[00:20:33-1 @doobee] üblicherweise für cm braucht der 100 bis 1000 Jahre manchmal auch mehr. Das heißt wenn man son Tropfstein abbricht der 50cm lang ist einfach 50.000 Jahre warten 
+[00:20:43-7 @doobee] ist wieder in gut Ordnung.
+[00:20:45-0 @timpritlove] (hm) 
+[00:20:45-6 @doobee] Ist schon anders als ne Primel kaputt treten.
+[00:20:48-5 @timpritlove] Ja
+[00:20:50-3 @doobee] (ähm) 
+[00:20:51-7 @timpritlove] Gilt nicht unbedingt als erneuerbares (äh) Ding.
+[00:20:55-7 @doobee] Genau
+[00:20:56-4 @timpritlove] (ehem) 
+[00:20:57-0 @doobee] (ähm) 
+[00:20:57-8 @timpritlove] Nicht ohne weiteres (kichern)
+[00:20:59-1 @doobee] Und was es an Lebewesen in Höhlen gibt die sind auch halt ganz langsam unterwegs (äh) das heißt die sind sehr leicht zu stören. Der Arbeitskreis heißt Kluterthöhle 
+[00:21:07-8 @doobee] hat da eben massiv (äh) geht aktiv an das Problem und verschließt die Höhlen mit sogenannten Höhlenschutztoren. Ja hab ich mitgekriegt und (ähm) hab mir dann die Bismarkhöhle 
+[00:21:22-7 @doobee] angeguckt war toll. Da steht zum Beispiel noch Reste von nen Kinderkarussell und ner Wippe drin weil in den langen Luftschutznächten muss man ja die Kinder bei Laune halten.
+[00:21:30-9 @timpritlove] Oh verstehe
+[00:21:32-8 @doobee] (ähm) Also ist schon son bisschen morbide 
+[00:21:35-8 @timpritlove] Oha.. in der Tat
+[00:21:37-9 @doobee] Und hab dann nen halbes Jahr später bei sonen Erdbunker der bei uns in der Gegend war in der des KZ Kemna übrigens erste deutsche KZ waren im Bergischen mal wieder 
+[00:21:47-9 @doobee] ganz früh dabei.
+[00:21:48-8 @timpritlove] (ehem) 
+[00:21:49-1 @doobee] (ähm) Da saß mein Opa wohl auch kurz drin da in einem Bunker
+[00:21:55-2 @timpritlove] Kemna?
+[00:21:55-8 @doobee] Kemna!
+[00:21:56-6 @timpritlove] (ehem) 
+[00:21:57-1 @doobee] Wuppertal.. mehrere Feuersalamander und Fledermäuse gesehen. Und schrieb in sonen Forum irgendwie ja vielleicht sollte man da mal gucken das das dann doch zum Schutz der 
+[00:22:08-6 @doobee] Fledermäuse und Feuersalamander, so Leute haben in den Bunker auch Feuer angezündet und so was für die Fledermäuse extrem ungesund ist wenn die unter der Decke hängen.
+[00:22:17-5 @doobee] (äh) Vielleicht könnte man mit dem Arbeitskreis Kluterthöhle mal fragen die wüssten doch wie man das so mit den Behörden und so hinmacht das man die Sachen verschließt.
+[00:22:24-8 @doobee] Und da haben einige Leute total am Rad gedreht und (äh) also sich benommen als hätte ich gesagt ich würd jetzt Katzen erschießen und damit mit den toten Katzen Kinder schänden.
+[00:22:35-1 @doobee] (ähm) Inklusive (äh) Drohungen und das volle Programm und bei mir zu Hause vorbei kommen und übrigens du wohnst ja da..
+[00:22:45-5 @timpritlove] Weswegen jetzt?
+[00:22:46-1 @doobee] Weil ich vorgeschlagen hab man könnte doch vielleicht mit dem Arbeitskreis Kluterthöhle mal fragen wie man mit den Behörden sprechen kann wie man so was anstatt zu betonieren 
+[00:22:54-0 @doobee] irgendwie für alle Beteiligten ne Lösung findet.
+[00:22:56-5 @timpritlove] (hm) 
+[00:22:56-8 @doobee] So hatte ich jedenfalls verstanden was ich gesagt hab. (ähm) Wahrscheinlich hat jemand gelesen euch ganze schmutzige Assis muss man daraus halten, ich will den Schlüssel und 
+[00:23:05-5 @doobee] sonst darf keiner rein. Vermute ich mal aus der Reaktion. Naja (ähm) da hat ich mich so aus der rausgefunden das diese ganze Bunkerszene nicht so meine Leute sind. (ähm) 
+[00:23:18-0 @doobee] Ist auch nen bisschen das sind halt Leute die Militär mögen und so oft (äh) und Springerstiefel cool finden und oft auch Waffen (ähm) ist also hat son bisschen Hang zum Rechten.
+[00:23:28-9 @timpritlove] (hm) 
+[00:23:29-6 @doobee] Als nächstes hat ich dann nen Bergwerk gefunden, auch in meiner alten Heimatstadt von dem ich nichts wusste. Auf alten Unterlagen dann durch den Wald gestreift und tatsächlich 
+[00:23:38-3 @doobee] den Eingang gefunden und der Eingang war so verschlossen so "du kannst nicht sagen das dir keiner gesagt hat das du nicht reinkannst" konnte man schon drüber klettern.
+[00:23:46-4 @doobee] (ähm) Ich hatte aber die Kinder dabei und dachte ach ha ha andern mal. Nen Jahr später wars dann soweit und ich kam mit ner Bekannten wieder irgendwie und voller Ausrüstung 
+[00:23:58-0 @doobee] um ins Dunkle zusteigen und da war das Ding plötzlich professionell mit so was wie einem Höhlenschutztor verschlossen.
+[00:24:04-8 @timpritlove] (hm) 
+[00:24:05-0 @doobee] Dachte ich mir so jetzt reicht mir das irgendwie Bunkerspinner und so hat.. jetzt gehste zum Arbeitskreis Kluterthöhle und beschwerst dich die sollen dir den Schlüssel geben 
+[00:24:11-1 @doobee] und guckst dir die Leute mal an. tja und so bin ich zur Höhlenforschung gekommen.
+[00:24:14-9 @timpritlove] (kichern)
+[00:24:15-7 @doobee] Lange Geschichte also.
+[00:24:16-9 @timpritlove] Ja also wer hat dieses Schloss da angebracht?
+[00:24:19-5 @doobee] Keiner weiß es, also ich habs immer noch nicht rausgefunden. Der Arbeitskreis sagte "Nee wir nicht" (ähm) 
+[00:24:24-8 @timpritlove] Aha.. interessant also da war jetzt kein Briefsiegel irgendwie dran irgendeine Information 
+[00:24:30-7 @doobee] Nee
+[00:24:31-1 @timpritlove] auf wessen Geheis...
+[00:24:32-8 @doobee] Der nächste Spruch (äh) der nächste Idee wäre jetzt sich an die Stadt zuwenden da (äh) und mal sagen Leute was ist und da kommen wir schon son bisschen zu welche Stadt unter
+[00:24:43-1 @doobee] welchen Bedingungen wird einem das sagen. Also die haben ja natürlich dann auch Zweifel das man was tun will. Das andere was du angesprochen hast ist da steht nichts dran
+[00:24:54-5 @doobee] was das ist. (äh) Das sehe ich zum Beispiel auch als durchaus Problem also der Arbeitskreis Kluterthöhle hat irgendwie deutlich über hundert Höhlenschutztore verbaut.
+[00:25:08-2 @doobee] Da steht jeweils nichts dran. (ähm) Hat die Öffentlichkeit wobei es ist ja wahrscheinlich nicht die Öffentlichkeit die sich für so was interessiert, nicht nen Recht mitzukriegen was
+[00:25:24-0 @doobee] da ist? (ähm) Und profitieren da alle nicht von? Da können wir vielleicht nen längeren Haken schlagen. also die Höhlen sind empfindlich, das heißt wenn da Leute rumgehen
+[00:25:37-1 @doobee] drin dann leiden die andererseits jeden...
+[00:25:42-4 @timpritlove] Also die Höhlen nicht die Leute?
+[00:25:43-7 @doobee] Ja 
+[00:25:44-3 @timpritlove] Also die Leute vielleicht auch aber
+[00:25:45-8 @doobee] Genau
+[00:25:46-3 @timpritlove] Vor allem die  Höhlen
+[00:25:48-6 @doobee] Die Leute habens ja so gewollt. Also natürlich jede Bauernwiese wo ich drüber laufe leidet auch aber (ähm) das ist dann am nächsten Tag auch wieder in Ordnung für 
+[00:25:55-1 @doobee] die Bauernwiese. Die (ähm)..
+[00:25:58-9 @timpritlove] Also ums noch mal kurz zusammen zufassen, du bist sozusagen über diesen Wunsch in dieses Bergwerk reinzukommen wo du (äh) beim ersten mal logistisch und beim zweiten mal 
+[00:26:07-0 @timpritlove] technisch (äh) gescheitert bist (äh) quasi an diese Szene geraten die sich der Höhlenforschung 
+[00:26:13-2 @doobee] Jaa
+[00:26:13-3 @timpritlove] verschrieben hat. 
+[00:26:14-3 @doobee] Genau und ich muss auch sagen das ist sicher auch mit dem älter werden (ähm) 5 Jahre vorher hätte mich sone Stahltür nicht weiter behindert, Klassiker aufschweißen, 
+[00:26:24-8 @doobee] reingehen, angucken, rausgehen, zuschweißen (ähm) (kichern) das hatte ich schon im Programm aber der Respekt vor fremden Eigentum steigt doch mit dem Alter.
+[00:26:33-7 @doobee] Und ich wusste meine Schweißnähte sind nicht so gut also auch  eine zugeschweißte Tür ist von mir nachher nicht so gut wie sie vorher war. 
+[00:26:40-3 @timpritlove] (ehem) 
+[00:26:40-8 @doobee] (ähm) Also offen liegen lassen kam für mich schon ziemlich lange nicht mehr in frage weil (äh) hat schon nen Grund das Sachen zu sind.
+[00:26:47-2 @timpritlove] Ja
+[00:26:48-8 @doobee] Aber ja ich bin über irgendwie in dem Versuch in ein Bergwerk zukommen eigentlich zu  den Höhlenforschern gekommen die der Meinung sind Bergwerke sind langweilig 
+[00:26:54-8 @doobee] und gefährlich, bin ich auch inzwischen von überzeugt.
+[00:27:01-9 @timpritlove] Gefährlich weil es ja ein Ort ist wo einfach ja, Leute mit Bohrern irgendwie versucht haben alles zu lockern (äh) 
+[00:27:08-7 @doobee] Genau
+[00:27:09-0 @timpritlove] so weit es geht und dann so notdürftig zu sichern das einem nicht so zusammen knallt und wenn dann hundert Jahre vor sich hin gammelt dann ist halt nicht mehr so gut.
+[00:27:16-0 @doobee] Ja oder 30
+[00:27:16-9 @timpritlove] Ja
+[00:27:17-5 @doobee] Also da ist ja nicht gemeint nen Loch im Berg zusein und der Berg will das auch wieder zumachen. 
+[00:27:23-0 @timpritlove] Genau aber bei den Höhlen siehst natürlich dann anders aus, da frag ich mich natürlich jetzt erstmal wie viele Höhlen gibts denn so also ich meine liegen da so viele von 
+[00:27:30-2 @timpritlove] rum? (kichern) Man denkt ja immer nur es gibt so die eine und die andere.
+[00:27:34-3 @doobee] (ähm) Also es gibt Gegenden da  gibts Höhlen und es gibt Gegenden da kanns keine höhlen geben. Ne Höhle ist was (ähm) natürlich entstandenes wo ein Mensch rein passt.
+[00:27:45-4 @timpritlove] (ehem) 
+[00:27:47-6 @doobee] Also im märkischen Sand brauch man nicht zu suchen kann geologisch keine entstehen da kann mal jemand nen Loch gebuddelt haben  das kann auch jemand Höhle nennen 
+[00:27:53-7 @doobee] (ähm) in diesem Bereich Bergisches Land märkisches Sauerland das ist so ach ziemlich die Mitte von Nordrhein Westfalen östlich von Köln. Da reden wir glaub ich insgesamt  
+[00:28:09-7 @doobee] # von ah nicht im Kopf aber ich würde sagen 
+[00:28:14-1 @timpritlove] So ist in Ordnung
+[00:28:14-3 @doobee] 4 bis 4 bis  600 bekannte Höhlen. 
+[00:28:16-7 @timpritlove] (hm) 
+[00:28:17-7 @doobee] Mehr als man denkt denk ich. 
+[00:28:20-0 @timpritlove] Ist sone Zahl glaub ich über die man sich nie so richtig Gedanken macht so.
+[00:28:24-3 @doobee] Und (ähm) es sind davon würd ich sagen Dreiviertel nach 1970 entdeckt worden oder sogar sogar nach 1980. Also die Zahl der letzen Höhlen
+[00:28:36-1 @timpritlove] In den letzten 30 Jahren 
+[00:28:37-3 @doobee] ist richtig hoch gegangen 
+[00:28:39-0 @timpritlove] (ehem) Das heißt man könnte auch davon ausgehen das es vielleicht noch sehr viel mehr gibt?
+[00:28:43-5 @doobee] Ja
+[00:28:43-9 @timpritlove] Oder wars das jetzt schon wiederum durch?
+[00:28:45-8 @doobee] Nja das ist die große Diskussion, vermutlich sind fast alle die man mit jetzigen Methoden und vertretbaren Aufwand entdecken kann entdeckt. Also es wird immer schwerer welche 
+[00:29:00-4 @doobee] zu finden, na vielleicht ist da einfach Zeit für nen Technologiesprung. (ähm) Sone Berühmte Sache ist, ne Höhle kann ja mehrere Eingänge haben, klar kann an  zwei Stellen 
+[00:29:15-1 @doobee] rausgucken.
+[00:29:15-6 @timpritlove] Ja
+[00:29:16-0 @doobee] Jetzt guckt man sich an wie viele Höhlen gibts mit 4 Eingängen, wie viele gitbs mit drei Eingängen viel mehr, wie viele gibts mit zwei Eingängen noch viel mehr, wie viele 
+[00:29:26-6 @doobee] gibts mit einem Eingang noch viel mehr, wie viel sollte es dann mit null Eingängen geben?
+[00:29:32-8 @timpritlove] (hm) Ok interessante Hochrechnung.
+[00:29:36-8 @doobee] Ja.. kann man natürlich auch sagen irgendwie ist wissenschaftlich nen bisschen wackelig aber sehr viele Höhlen werden bei so was wie Tunnelbauten entdeckt 
+[00:29:45-8 @timpritlove] (ehem) 
+[00:29:46-5 @doobee] weil sie keinen Eingang hatten.
+[00:29:47-9 @timpritlove] Ja
+[00:29:48-2 @doobee] Scheinen also noch einige da zusein. Und das ganze den Boden Röntgen oder Analysieren oder so (ähm) ist viel weniger weit als man sich so denkt. Also..
+[00:29:59-1 @timpritlove] Röntgen?
+[00:29:59-7 @doobee] Nja tiefer Herzstrahlung 
+[00:30:01-9 @timpritlove] Jaja
+[00:30:02-5 @doobee] und was auch immer also alles mögliche 
+[00:30:04-3 @timpritlove] irgendeine Frequenz rein senden 
+[00:30:05-9 @doobee] Genau
+[00:30:06-1 @timpritlove] umzugucken was passiert ja
+[00:30:07-5 @doobee] Also es wird auch noch richtig viel mit Wünschelrutengängern zusammen gearbeitet. Um mal so den Stand der Technik zu beschreiben.
+[00:30:12-9 @timpritlove] Ist nicht dein ernst? Wünschelrutengänger?
+[00:30:15-3 @doobee] Wünschelrutengänger
+[00:30:16-3 @timpritlove] Und wie was ist so deren (äh) Trefferquote liegt die so nicht eher so im homöopathischen Bereich?
+[00:30:21-2 @doobee] Jedenfalls nicht niedriger als die Leute die mit Bodenradar und son Zeugs unterwegs sind.
+[00:30:26-1 @timpritlove] Oh das heißt das es ist Glück.
+[00:30:28-6 @doobee] Ja sehr nahe dran also (ähm) mein Verein hat zum Beispiel..
+[00:30:31-9 @timpritlove] Aber hat hat sich denn in der Wünschelrutentechnik denn soviel getan in den letzten 30 Jahren (kichern) das das allein das vermehrte auffinden von Höhlen (äh) erklären kann?
+[00:30:40-9 @doobee] Nee aber die Wünschelrutengänger hat niemand angestellt Höhlen zu suchen.
+[00:30:43-6 @timpritlove] (hm) Aber sucht denn also ich meine suchen vielleicht einfach nur mehr Leute danach? 
+[00:30:48-5 @doobee] Das ist sicher tatsächlich so in den 70  und 80 der Fall gewesen und sind bereit Zeit darein zu investieren. Also es ist halt eigentlich nen recht beknacktes Hobby.
+[00:30:59-7 @doobee] Andererseits mit 22 Leuten hinter einem Ball herlaufen obwohl sich jeder nen eigenen kaufen könnte ist ja auch total beknacktes Hobby.
+[00:31:06-2 @timpritlove] (lachen) Ja ich glaub bei beknackten Hobby ist diese Welt nicht (äh) arm.
+[00:31:11-5 @doobee] Also wenn wir jetzt zum Beispiel Höhlen suchen gehen würden bei mir hinterm Rücken auf der Wiese sind wahrscheinlich sogar welche 
+[00:31:20-0 @timpritlove] (ehem) 
+[00:31:21-3 @doobee] Wenn wir mal gucken wo ist der Schnee den geschmolzen weil vielleicht Wärme irgendwo außem Boden kommt. Das wäre ja garnicht unwahrscheinlich das dann da was ist wo die 
+[00:31:30-2 @doobee] Wärme herkommt.
+[00:31:30-8 @timpritlove] (hm) 
+[00:31:31-2 @doobee] Also Schaufel raus. Irgendwie matschigen Grasboden nachdem wir das mit dem Bauern abgeklärt haben natürlich wegschaufeln. Nach zwei Metern kommen wir auf Stein, 
+[00:31:43-6 @doobee] Lehm und Wasser kann ja immer noch ne Höhle drunter sein. Auspumpen? Taucher holen? Der buddelt.. Also du kannst beliebig viel Aufwand rein investieren in die Suche.
+[00:31:55-7 @doobee] Und sagen wir ist uns zu nass, ja das nächste Loch wo der Schnee geschmolzen ist 5 Meter weg also du kannst schon sehr viel Energie in die Suche investieren. (ähm) Und da 
+[00:32:08-0 @doobee] gabs wohl einfach lange Zeit nicht Leute keine Leute die das gemacht haben. Oder nicht genug Leute die das gemacht haben, von Österreichern gibs den berühmten Spruch
+[00:32:15-8 @doobee] "Stört euch das nicht das bei  euch so viele Ausländer in euren Höhlen rumforschen?" und die sagen " Ja wir haben deutlich mehr Höhlen als Höhlenforscher bekannte Höhlen
+[00:32:26-0 @doobee] Wir sind froh wenn die uns helfen." 
+[00:32:27-5 @timpritlove] (ehem) Ok  an der Stelle sehe ich natürlich auch wieder son  Technologiesprung weil so die Zahl von so Kleinbaggern und (äh) ähnlichen Gerät (äh) ist ja auch deutlich 
+[00:32:36-1 @timpritlove] gestiegen.
+[00:32:36-9 @doobee] Ja ja ja 
+[00:32:39-3 @timpritlove] Oder kommen die garnicht so zum Einsatz?
+[00:32:40-8 @doobee] (ähm) Wir eiern da noch rum als was mich total als ich dann aktiv bei den Höhlenforschern mitgemacht hab beeindruckt hat ist die Zahl der einfachen ganz grundsätzlichen 
+[00:32:57-7 @doobee] technischen Probleme. Also im Computerbereich kannste eigentlich alle deine technischen Probleme mit Grips oder mehr Rechenleistung lösen und nennen wir mehr Rechenleistung 
+[00:33:07-8 @doobee] mehr Geld.
+[00:33:08-9 @timpritlove] Ja
+[00:33:10-7 @doobee] In der Höhlenforscherei ist das nicht so, also die Baustelle die wir  momentan zum Beispiel haben das ist eine ganz schöne Geschichte "Der Rasenmäher Erdfall". Der rüstige Rentner 
+[00:33:24-2 @doobee] "R." mähte in seinem Garten den Rasen mit seinem Qualitätsrasenmäher von Sabo der einen Leistungsstarken Antrieb hat und von selber fahren kann. Warum weil Abends mit seinen 
+[00:33:37-9 @doobee] Kumpels Grillen wollte. Familie war weg und er wollte den Garten noch in Ordnung bringen. Plötzlich tut sich unter seine Füßen ein Schlund auf steckt bis zu den Ellenbogen 
+[00:33:49-7 @doobee] im der Wiese.
+[00:33:52-2 @timpritlove] Samt Rasenmäher?
+[00:33:53-2 @doobee] Nee der Rasenmäher eben nicht das ist der Witz bei  der Geschichte.
+[00:33:56-8 @timpritlove] (ehem) 
+[00:33:57-2 @doobee] Und die Füße übrigens baumeln auch ne also der steht nicht irgendwie oder kann die rechts oder links an die Wand tun sondern der ist in sonem Glockenförmigen Hohlraum gefangen.
+[00:34:04-4 @doobee] Aber der Leistungsstarke Motor des Rasenmähers zieht ihn raus. Also ohne den Rasenmäher meinte er wäre er nicht wieder aus dem Loch gekommen. 
+[00:34:10-7 @timpritlove] Ok also es ist jetzt kein Rasenmäher wo man sich reinsetzt sondern so
+[00:34:13-7 @doobee] zum  hinterher laufen 
+[00:34:14-5 @timpritlove] zum hinterher laufen ok das heißt denn ist sozusagen unter ihm ein (äh) hat sich ein Loch aufgetan und er wäre fast reingefallen.
+[00:34:19-8 @doobee] Ja er ist reingefallen.
+[00:34:20-6 @timpritlove] Also er ist reingefallen aber er konnte auch schnell wieder raus kommen.
+[00:34:23-0 @doobee] Er kann das auch sehr schön erzählen "Ich dachte der Leibhaftige wollte mich holen."
+[00:34:26-6 @timpritlove] (lachen) Aha 
+[00:34:31-5 @doobee] Gut (ähm) dann das ist halt sone Fähigkeit der Höhlenforscher (äh) die sind ganz gut im mitkriegen wenn so was passiert.
+[00:34:39-8 @timpritlove] Spricht sich rum.
+[00:34:40-6 @doobee] Nja nicht zuletzt weil man sich ja auch (äh) in der Gegend etabliert hat als die Höhlenforscher irgendein Journalist ruft schon an und sagt "Was meint ihr denn dazu?".
+[00:34:50-5 @timpritlove] (ehem) 
+[00:34:50-8 @doobee] Dann sagt man "Ahja ganz typischer bekannter Fall (äh) wie war noch die Adresse von der Stelle?"
+[00:34:58-5 @doobee] (ähm) Ja und  (äh) dann gehts darum den Grundstückseigentümer zu überzeugen das er gerne jede Menge Höhlenforscher in seinem Garten haben will die sich das mal 
+[00:35:08-6 @doobee] Näher angucken. 
+[00:35:09-5 @timpritlove] Anstatt der Grillwurstpaty die er eigentlich hat.
+[00:35:12-1 @doobee] Genau (äh) das ist natürlich immer ein geben und nehmen, kann auch sagen ja wenn du hier irgendwie das sanieren willst den Erdfall also ist ja schnell mal nen 5 Stelliger Betrag
+[00:35:21-5 @doobee] weg oder der Verein macht dir das für Ömme. 
+[00:35:24-2 @timpritlove] (ehem) 
+[00:35:25-9 @doobee] Ja also jetzt in dem Garten von sonem Altbau mit Schuppen und verwinkelt und steile Hanglage ist son Loch. Und das Loch war von Anfang an 3m tief und der Erdfall also die 
+[00:35:42-1 @doobee] Erde ist abgesackt die muss ja irgendwo hingekommen sein. Unser Gedanke ist da muss ne Höhle sein da muss das zeug rein gesackt sein weil..
+[00:35:46-5 @timpritlove] (ehem) 3 Meter Erde verschwinden mal nicht soeben.
+[00:35:50-8 @doobee] Genau, gibts natürlich.. "War da vielleicht eine Luftblase?" Ja das nennt man Höhle (äh) wenns unter Erde ist.
+[00:35:57-5 @doobee] (äh) Kann natürlich irgendwie ne fiese kleine Spalte sein wo nie jemand reinpasst. Nja und (ähm) dann gehts darum wie graben wir jetzt die lose abgesackte Erde daraus. Natürlich 
+[00:36:11-5 @doobee] wäre ein Bagger super und wir könnten sogar sonen kleine Bagger besorgen so wie der auf Friedhöfen und so unterwegs sind. Den würde man aber kaum da in den Garten kriegen 
+[00:36:22-4 @doobee] ohne richtig viel kaputt zumachen. Alles was wir nachher wieder reparieren müssen und drei Meter tief kann der eh nicht buddeln. Klar mit sonem richtig großen Baustellenbagger 
+[00:36:31-5 @doobee] könnte man das aber dann müsste man den Garten nachher renovieren oder sich nen Autokran mieten und den übers Haus heben also ganz schnell..
+[00:36:37-1 @timpritlove] Oder man hätte danach ne Höhle mit nem Bagger drin und das ist ja auch nicht unbedingt das was man haben möchte.
+[00:36:40-8 @doobee] Ja oder dann brauch man den Autokran um den Bagger wieder rauszuziehen also ganz schnell kommt man in so einfache Machbarkeitssachen die wir aus der Softwarebanche nicht
+[00:36:48-5 @doobee] kenne ne. Gib dir nen bisschen mehr Mühe, gib nen bisschen mehr Geld aus für Speicherplatz und Rechenzeit wird schon.
+[00:36:52-9 @timpritlove] (hm) 
+[00:36:53-6 @doobee] (ähm) Und selbst wenn man sagt ich bring den Garten nachher wieder in Ordnung, wie überzeuge ich den Besitzer davon das ich das auch wirklich mache.
+[00:37:00-4 @timpritlove] Das ist dieses RL von dem man immer soviel hört.
+[00:37:02-3 @doobee] Genau
+[00:37:02-9 @timpritlove] (ehem) 
+[00:37:03-0 @doobee] Das Real Life, in dem Fall sind wir jetzt übrigens schon fast 9 Metern. Alles irgendwie mit der Schaufel in nen Eimer mit der Seilwinde hoch, auskippen.
+[00:37:13-2 @timpritlove] Bei diesem Rasenmäherloch?
+[00:37:14-7 @doobee] Genau und immer noch keine Höhle.
+[00:37:16-8 @timpritlove] Das heißt das war dann sozusagen der Deal, ihr seit da irgendwie komplett angerückt und habt danneinfacch mal gebuddelt.
+[00:37:21-9 @doobee] Seit nem halben Jahr jetzt.
+[00:37:23-2 @timpritlove] Aha
+[00:37:23-9 @doobee] Die sind Leidensfähig die Leute. (äh) 
+[00:37:26-4 @timpritlove] 9 Meter?
+[00:37:26-8 @doobee] Ja
+[00:37:28-3 @timpritlove] Und ist da schon irgendwas außer diesem einen Schlund?
+[00:37:32-1 @doobee] Nein immer nur weiche Erde also  rundherum, rechts und links ist die Erde hart und fest und da wo wir graben ist sie weich weil sie halt mal runter gestürzt ist kürzlich.
+[00:37:40-4 @timpritlove] Ah
+[00:37:40-9 @doobee] Also letztendlich ist da 9 Meter Erdsäule ab anscheinend abgesackt.
+[00:37:44-4 @timpritlove] Ah
+[00:37:45-2 @doobee] Das wird dann auch ganz interessant da sind wir wieder beim Real Life also wo tue ich den Kram hin den ich ausschachte.
+[00:37:50-1 @timpritlove] Ja
+[00:37:50-5 @doobee] Nachdem wir da ne Lkw..
+[00:37:51-5 @timpritlove] Von was für einem Durchmesser reden wir jetzt so ist das so?
+[00:37:54-0 @doobee] der Wird nah unten breiter (ähm) drei Meter war er oben 2,50 uns jetzt sind wir vielleicht bei 4m.
+[00:38:03-4 @timpritlove] Verstehe das ist schon richtig viel Masse
+[00:38:06-7 @doobee] Kubikmeter 
+[00:38:07-2 @timpritlove] (ehem) 
+[00:38:07-4 @doobee] Genau.. Dann (ähm) nachdem wir den Garten vollgekippt hatten und dann mal nen Lkw haben kommen lassen das Zeug mit der Schubkarre alles vors Haus in den Lkw
+[00:38:17-5 @timpritlove] Oha
+[00:38:17-8 @doobee] Uns was anderes überlegt und jetzt (ähm) eine einen wandernden Ausbau. Das hat man beim Brunnenbau früher gemacht. Unten saß jemand im Brunnen und buddelte, lässt sich 
+[00:38:33-0 @doobee] übrigens fast nicht Googlen (kichern) wenn du das grad versuchts.
+[00:38:36-4 @timpritlove] Nee aber notieren tue ich es. (ehem) 
+[00:38:37-9 @doobee] (äh) Und oben machte jemand die Ziegelmauer um das Brunnenloch auszubauen und wenn der unten unter der Ziegelmauer weg buddelte sackte die ganze Mauer von dem Brunnen
+[00:38:50-8 @doobee] nen Stück runter und da oben wieder ne Reihe rauf bauen.
+[00:38:54-7 @timpritlove] (ehem) 
+[00:38:55-1 @doobee] Ist viel bequemer als unten irgendwie da w man gegraben hat die Ziegel drunter zu schieben.
+[00:38:58-8 @timpritlove] Genau oder nen bisschen modern mit so Beton (äh) Ringen 
+[00:39:02-3 @doobee] Genau
+[00:39:02-7 @timpritlove] die man dann von Oben einfach immer wieder nach Unten lässt.
+[00:39:04-5 @doobee] Brunnenringe
+[00:39:05-0 @timpritlove] (ehem) 
+[00:39:05-6 @doobee] Und ganz genau das machen wir jetzt, wir haben erstmal ne Betonplatte gegossen. Also sozusagen den Boden von dem Loch ausgegossen (äh) da auch (ähm) richtig mit Statik 
+[00:39:16-9 @doobee] und vollem Programm denn momentan glauben wir das auf der Platte inzwischen 80 Tonnen lasten. Also Betonplatte, Brunnenringe drauf das sind die die man aus dem Kanalbau 
+[00:39:28-0 @doobee] kennt, in der Betonplatte natürlich nen Loch wo die Brunnenringe sind, runter geklettert, Erde unter der Platte weg gegraben und Oben drauf geschüttet.
+[00:39:37-7 @timpritlove] Also das Loch in der Platte sozusagen so groß das man darunter noch graben kann?
+[00:39:41-1 @doobee] Ja das man so durch passt so 80cm 
+[00:39:43-9 @timpritlove] Ja
+[00:39:44-3 @doobee] und dann halt unter der Platte weg graben.
+[00:39:45-9 @timpritlove] Ah ok gut das wäre jetzt meine nächste Frage gewesen.
+[00:39:48-7 @doobee] Ja und dann kippt man die das Zeug was man ausgegraben hat Oben auf die Platte. 
+[00:39:53-4 @timpritlove] (hm) 
+[00:39:53-8 @doobee] Und die ganze Konstruktion arbeitet sich langsam nach Unten.
+[00:39:57-4 @timpritlove] Verstehe
+[00:39:57-8 @doobee] Halt jetzt 8 Meter inzwischen.
+[00:40:00-5 @timpritlove] (ehem) 
+[00:40:01-5 @doobee] Da ist man das Entsorgungsproblem los aber unter der Platte ist schon son bisschen gruselig weil ja inzwischen der lose Teil breiter ist als die Platte. Die Platte haben wir ja gegossen 
+[00:40:11-3 @doobee] als das Ding drei Meter breit war jetzt sind wir bei 4 Meter.
+[00:40:13-3 @timpritlove] (ehem) 
+[00:40:14-1 @doobee] (ähm) Und nun ja wenn die so anfängt zum Teil bewegt die sich so  mit 15 bis 20cm die Stunde abwärts.
+[00:40:23-4 @timpritlove] (ehem) 
+[00:40:24-4 @doobee] Das ist schon Real Life.
+[00:40:27-0 @timpritlove] Vor allem ich meine man hat ja die Erwartung das ja dann Unten irgendwann mal einfach nen Loch ist.
+[00:40:32-2 @doobee] Nja Fels, nen Loch im Fels also ne Höhle in Erde gibts eigentlich kaum.
+[00:40:38-1 @timpritlove] Ja 
+[00:40:38-6 @doobee] Sondern eigentlich stellen wir uns vor da ist ein Höhlengang und da ist die Decke an einer Stelle eingebrochen.
+[00:40:43-0 @timpritlove] Naja gut aber da kommt man ja dann zwangsläufig irgendwann hin und wenn das jetzt schon auf 4 Meter ist denn ist das Loch da ja größer also würde dann nicht..
+[00:40:51-4 @doobee] Nja wir vermuten eher kleiner sogar wieder weils sozusagen darein gespült wurde aber tatsächlich das ist (ähm) 
+[00:40:56-7 @timpritlove] Kann man jetzt nicht ausschließen.
+[00:40:57-8 @doobee] Wir haben jetzt auch vor einigen Wochen plötzlich angefangen uns Gedanken zu machen nicht nur wie kommen wir runter sondern was machen wir denn dann wenn wir unten 
+[00:41:04-0 @doobee] ankommen
+[00:41:05-2 @timpritlove] Naja weil denn.. hab ihr da sozusagen son kompletten Ring der dann da so..
+[00:41:10-5 @doobee] Nja also letztendlich müssen wir dann schnell wenn Fels kommt mauern oder Stützpfeiler ziehen damit die Platte nicht bis auf den Fels runter fährt und möglicher eise die Löcher 
+[00:41:19-5 @doobee] dann nicht übereinander sind sondern kurz vor dem Fels dann anhält soweit wie möglich. Oben haben wir son paar Betonierstützen und so für solche Fälle liegen aber 
+[00:41:27-2 @doobee] es ist halt so richtig Hardware richtig Real Liefe (ähm) und richtig dreckig. Also man denkt auch immer irgendwie muss man die Erde doch eleganter als mit Eimern an der Seilwinde
+[00:41:38-1 @doobee] nach Oben kriegen, ach sone Spindel oder verflüssigen und absaugen (äh) aber es ist alles (äh) garnicht so einfach im echten Leben. Also verflüssigen und absaugen geht bloß wo 
+[00:41:50-5 @doobee] kippt man das Zeug dann hin was man mit sonem Güllewagen abgepumpt hat. Nja es kostet irgendwie richtig Geld pro Tonne das korrekt zu deponieren, in die Landschaft kippen 
+[00:42:00-0 @doobee] mach einem auch keine Freude. Wir können es oben wieder auf unsere Baustelle drauf kippen aber dann wird ja die ganze Flüssigkeit sofort wieder runterlaufen 
+[00:42:07-1 @timpritlove] (hm) 
+[00:42:07-5 @doobee] (ähm) (hm hm hm)
+[00:42:10-1 @timpritlove] Alles nicht so einfach und derzeit grabt das sozusagen einfach in in in das Teil selber rein und das heißt da ist dann sozusagen von Innen noch mal so alles Erde 
+[00:42:19-1 @doobee] Genau
+[00:42:19-3 @timpritlove] umlagert?
+[00:42:20-4 @doobee] Relativ weiche Erde und außen rum ist harte Erde. Ich mein klar 8 Meter da ist schon Ordentlich Druck drauf.
+[00:42:25-8 @timpritlove] Ja ok 
+[00:42:27-1 @doobee] Ja das ist irgendwie so die Freuden des Höhlenforschens, jeden Samstag (äh) entweder Oben Eimer auskippen oder Seilwinde bedienen was auch erstaunlich lästig ist weil du dich 
+[00:42:37-3 @doobee] Total konzentrieren musst. In sonem Bergwerg der da den Förderkorb fuhr der Maschinist das war ja auch ganz angesehener Beruf oder halt Unten in der Suhle liegen und in dem,
+[00:42:47-2 @doobee] ja wenn wir ankommen Samstags ist der Raum meistens so 40, 50cm hoch hocken und Sachen in Eimer schaufeln das ist das Hobby momentan.
+[00:42:59-3 @timpritlove] Diese Gruppe da von Leuten das ist nen Verein oder was das ist son?
+[00:43:04-2 @doobee] Genau das ist ein eingetragener Verein so das typische Deutsche halt.
+[00:43:08-9 @timpritlove] Mehr als drei wahren mal in einem Raum zack Verein gegründet.
+[00:43:11-9 @doobee] Ja die haben es sogar geschafft sich als Spin Off zumachen  die waren erst ein Arbeitskreis im Fremden und Verkehrsverein und wollten die Kluterthöhle, die ist im Ennepetal
+[00:43:20-8 @doobee] (ähm) die ist schon touristisch seit 400 Jahren genutzt und als Kurort wollten die son bisschen nach Vorne bringen (ähm) und haben sich dann immer mehr auf das (äh) 
+[00:43:31-5 @doobee] sag ich mal richtige Höhlenforschen und nicht Luftkurort promoten
+[00:43:36-3 @timpritlove] Konzentriert (hm) 
+[00:43:37-9 @doobee] und sind dann zum Verein geworden.
+[00:43:39-5 @timpritlove] (ehem) 
+[00:43:41-4 @doobee] (ähm) Das ist auch recht typisch der Verein hat (äh) ich glaub so um die 60 Mitglieder. Ganz viele Höhlenvereine sind so in der Größenordnung bis auf den (ähm) 
+[00:43:53-6 @doobee] ich glaub der Münchner hat 1000 Mitglieder oder so und dann gibts noch son paar Orte (ähm) in Höhlenreichen Gebieten wo halt das ganze Dorf Mitglied ist so wie in andern 
+[00:44:04-0 @doobee] Dörfern alle bei der Freiwilligen Feuerwehr Mitglied sind und die dann auch auf einige hundert kommen. Insgesamt gibts einige tausend organisiertet Höhlenforscher in Deutschland.
+[00:44:14-9 @timpritlove] Und was treibt so die diese Leute und was treibt dich da jetzt so hin abgesehen davon das du dich mal nen bisschen im (äh) Real Life mit physikalischen Dingen (äh) neuen 
+[00:44:24-6 @timpritlove] Herausforderungen ich meine was kann man denn am Ende erwarten. Am Ende ist man in sonem dunklen Loch und sitzt dann so drin und es irgendwie nass und kalt und
+[00:44:33-5 @timpritlove] dunkel und (äh) (lachen)
+[00:44:35-7 @doobee] Eng und schmutzig
+[00:44:37-2 @timpritlove] und schmutzig und dreckig und (äh) ja klingt jetzt erstmal nicht so prickelnd.
+[00:44:44-6 @doobee] Ja fangen wir mit dem dreckig an. (ähm) Wann dürfen wir Erwachsenen uns noch mal komplett einsauen? 
+[00:44:52-0 @timpritlove] Beim Fußball deswegen machen das ja so viele (kichern)
+[00:44:55-5 @doobee] Aber nicht beim Hallenfußball.
+[00:44:57-8 @timpritlove] Nee weniger
+[00:44:59-0 @doobee] (ähm) Das ist schon auch ganz lustig. Also die Kinder haben ja heutzutage irgendwie ne Matschhose und haben sone coole Ausrüstung
+[00:45:07-4 @timpritlove] (ehem) 
+[00:45:08-1 @doobee] (äh) die gibts alle auch für Höhlenforscher die gibts sogar noch in besser. Das macht schon spaß (äh) also so richtig das physikalische Schuften wenn man sich jetzt mal vorstellt 
+[00:45:18-9 @doobee] (ähm) es ist halt oft sehr eng was zu Problemen führt. Also man liegt so unter der Küchenbank um mal nen Höhengefühl zukriegen und soll jetzt graben. Wie kann ich da meine 
+[00:45:33-1 @doobee] Schaufel bedienen wenn irgendwo liege wo ich eh nur die Arme nach Vorne ausstrecken kann, wie kriegt ich das wo rein, wie kriegt ich das Gefäß an mir vorbei dann.
+[00:45:41-0 @timpritlove] (ehem) 
+[00:45:41-4 @doobee] Alter Höhlenforscherspruch die Wampe kann man immer vorbei schwabbeln also der dicke Bauch ist garnicht das Problem (ähm) dieses sehr physikalische ist schon ganz nett.
+[00:45:50-5 @doobee] (äh) Dann Boys need Toys also Ausrüstung finden Geeks ja auch sehr attraktiv und das ist ganz spannend das die Höhlenforscher..
+[00:45:59-3 @timpritlove] Ist das denn jetzt ein reiner Männersport also ich meine?
+[00:46:02-4 @doobee] Ungefähr so wie Computer 5% bis 10% Frauen.
+[00:46:05-9 @timpritlove] (hm) 
+[00:46:06-8 @doobee] Die Klassische Nummer. Ich vermute beim Geländewagen fahren oder so kommen wir wiederum auf gleiche Zahlen. 
+[00:46:13-8 @timpritlove] Ok aber ist jetzt auch nicht so das es jetzt son ausschließlicher Männer (äh) Verein wäre wo jetzt Frauen irgendwie überhaupt kein Interesse zeigen.
+[00:46:19-9 @doobee] Nee genau der (ähm) Frauenanteil ist also tatsächlich (äh) keine Umstellung für mich
+[00:46:24-1 @timpritlove] Ok
+[00:46:24-4 @doobee] als Nerd (ähm) ist übrigens ganz lustig das (äh) meine Frau zum Beispiel sagt Höhlen wären langweilig weil sie nicht bunt wären um das mal radikal zusammen zufassen.
+[00:46:35-7 @timpritlove] Außer wenns Höhlenmalerei gibt.
+[00:46:38-4 @doobee] Njaa..
+[00:46:39-2 @timpritlove] Aber sind eher selten ne?
+[00:46:40-4 @doobee] Auch dann nicht bunt. 
+[00:46:41-9 @timpritlove] Ja (räusper)
+[00:46:45-0 @doobee] Nja also es ist irgendwie ne reine Männersache und das mit dreckig machen und es gibt tatsächlich (äh) die typische Kleidung die der Höhlenforscher so trägt ist der Schlatz,
+[00:46:56-3 @doobee] der Schliefanzug und schliefen ist das aufen Bauch wodurch sich pressen
+[00:47:01-4 @timpritlove] (hm) 
+[00:47:01-8 @doobee] (ähm) und der ist getrennt in Oberschlatz und Unterschlatz 
+[00:47:07-6 @timpritlove] (lachen)
+[00:47:09-7 @timpritlove] Klingt wie son Dorf in 
+[00:47:13-9 @doobee] Nja ne
+[00:47:14-3 @timpritlove] Brandenburg ja.
+[00:47:15-4 @doobee] Der Unterschlatz ist meistens nen Vlies Overol 
+[00:47:18-7 @timpritlove] (ehem) 
+[00:47:19-3 @doobee] (ähm) und der Oberschlatz ist irgendwie der große Bruder vom Arbeitsoverol also aus hoch reißfestem irgendwie gedoppelten vierfach vernähten Material. Hat auch zum Beispiel
+[00:47:33-4 @doobee] nicht solche Sachen wie Reisverschlüsse und sonst was wo man mit irgendwo hängen bleiben könnte und tatsächlich (äh) mit der Ausrüstung kann man auch mal 4 Stunden 
+[00:47:41-8 @doobee] im nassen Matsch liegen bei 8 Grad und einem ist nachher nicht kalt. Ist ja erstmal ne gute Sache.
+[00:47:47-5 @timpritlove] (hm) 
+[00:47:48-7 @doobee] (ähm) 
+[00:47:50-6 @timpritlove] Schlatz
+[00:47:51-0 @doobee] Ja
+[00:47:51-2 @timpritlove] Krass
+[00:47:51-9 @doobee] Also das ist der Dreck. Dann sind ganz viel Höhlenforscher ganz doll getrieben vom Gedanken des Neulands. Weiße Flecken auf der Karte gibts ja nicht mehr spätestens seit es 
+[00:48:05-5 @doobee] Satelitenbilder gibt und Orte wo noch nie jemand war sind auch richtig rar auf unserer Erde. 
+[00:48:14-3 @timpritlove] Das stimmt
+[00:48:15-5 @doobee] Als Höhlenforscher hab ich ganz gut Chancen welche zu finden und tatsächlich der erste irgendwo zusein und (ähm) das ist bei ganz vielen da leuchten die Augen schon sehr.
+[00:48:27-7 @doobee] Wenn sie von Neuland reden und so das ist also ganz tief drin der Entdeckergeist.
+[00:48:34-4 @timpritlove] Im Schlatzland
+[00:48:35-3 @doobee] Nja genau am schönsten ist es natürlich wenn man auch im stehen rein kann 
+[00:48:39-0 @timpritlove] (lachen) Ja 
+[00:48:40-3 @doobee] (ähm) Also Neuland Riesen Thema und auch die Vereine veröffentlichen Jahresstatistiken wie viel Neuland sie (äh) entdeckt haben pro Jahr. Ich glaub mein Verein kommt auf
+[00:48:52-2 @doobee] irgendwie knapp 40 in den letzten 30 Jahren 40km Neuland.
+[00:48:55-8 @timpritlove] Kilometer?
+[00:48:56-7 @doobee] Kilometer!
+[00:48:57-8 @timpritlove] Weil die die Höhlen auch wirklich so enorme Ausdehnungen haben oder?
+[00:49:03-5 @doobee] Haja 
+[00:49:04-8 @timpritlove] Oder hat einmal 30km gefunden und seit dem ist nichts mehr? (kichern)
+[00:49:07-4 @doobee] Bei uns bei uns in der Gegend ist das mehr mühsam irgendwie..
+[00:49:11-9 @timpritlove] Also gemessen ist die Länge der Höhle sozusagen.
+[00:49:14-4 @doobee] Aufaddiert genau genau
+[00:49:16-0 @timpritlove] 40km nur der eine Verein?
+[00:49:17-4 @doobee] Ja
+[00:49:18-8 @timpritlove] Klingt aber schon nach ner Menge.
+[00:49:20-0 @doobee] Ja insbesondere wenns sich oft aus mühsam (ähm) erkämpften Stücken pro Wochenende 5m zusammen setzt.
+[00:49:27-5 @timpritlove] Ja 
+[00:49:28-4 @doobee] Also das ist für viele ne richtig große Triebfeder (ähm) ich hab immer behauptet das ich fänds jetzt nicht so wahnsinnig interessant (äh) also hab ich behauptet bis ich das erste mal 
+[00:49:46-1 @doobee] mein erstes Neuland hatte und (äh) schaufelst und machst und kommst nicht um die Ecke und drehst dich und wendest dich und schob ich mich durch sone Pfütze also im Prinzip 
+[00:49:59-1 @doobee] wie son Sifon am (äh) Waschbecken da der ganze Körper runter und wieder hoch kommst aufen Rücken in dieses in den neuen Raum und der war vielleicht 4m hoch und an der 
+[00:50:12-8 @doobee] Decken waren weiße Bakterien die glitzerten und Wassertropfen und weil ja mit der Helm und Kopflampe das oben anstrahlst also du denkst plötzlich irgendwie du hast den 
+[00:50:22-0 @doobee] Sternenhimmel über dir.
+[00:50:23-3 @timpritlove] Weiße Bakterien?
+[00:50:24-4 @doobee] (ehem) 
+[00:50:25-7 @timpritlove] Die
+[00:50:26-4 @doobee] Also Bakterienfilme 
+[00:50:27-6 @timpritlove] Ja 
+[00:50:29-4 @doobee] Ja und denkst so jetzt weißt du plötzlich was die Schamanen in den Höhlen gemacht haben mit dem richtigen Kraut und so das ist schon sehr besonders und denkst dir 
+[00:50:38-7 @doobee] dann da ist noch nie ein Mensch vor mir gewesen. War übrigens ein Reinfall nachher haben wir rausgefunden das war ein altes Bergwerk (lachen) oder ein Teil davon.
+[00:50:48-1 @doobee] Da waren sogar noch Hausspuren an den Wänden 
+[00:50:51-9 @timpritlove] Sehe schon also in sonem Senzustand oh Gott und wir sind die ersten und dann macht irgendjemand das Licht an und sagt was mach ihr denn hier.
+[00:50:59-5 @doobee] Ja das Bergwerk wir vermuten das war 17. hundert verlassen worden.
+[00:51:02-5 @timpritlove] Ok
+[00:51:02-8 @doobee] Also so gesehen Licht an
+[00:51:03-6 @timpritlove] Zumindest schonmal sehr lange nicht mehr 
+[00:51:05-3 @doobee] war nicht. (ähm) Und sie hatten die Gänge größtenteils  verfüllt bis fast unter die Decke so das die Höhlenforscher noch so eben durch passten. Ja vielleicht kommen 
+[00:51:14-8 @doobee] wir mal dazu wo die höhlen eigentlich her kommen.
+[00:51:16-7 @timpritlove] Ja wollt ih auch grad fragen.
+[00:51:17-6 @doobee] Also die Höhlen sind ja eigentlich die Abwesenheit von etwas. Vorhin schonmal gesagt irgendwie muss 5m groß sein und nen Mensch reinpassen (ähm) was man obendrein 
+[00:51:30-5 @doobee] noch sagt muss länger als breit sein also wenn ich in soner Felswand auf 30 Meter irgendwie 6 Meter nach innen eher keine Höhle.
+[00:51:41-4 @timpritlove] (ehem) 
+[00:51:42-5 @doobee] (ähm) 
+[00:51:45-5 @timpritlove] Also technisch betrachtet schon aber..
+[00:51:47-8 @doobee] Nee ich glaub nicht mal 
+[00:51:48-7 @timpritlove] So als Forscher nimmt das dann nicht ernst oder was?
+[00:51:50-6 @doobee] Genauer Definition (äh) auch technisch betrachtet da müsst ich das Lehrbuch zurate ziehen.
+[00:51:55-7 @timpritlove] Gibts da wirklich sone genaue Definition?
+[00:51:57-3 @doobee] Timmel da steht alles drin auch wie die Länge einer Höhle zu berechnen ist und so.
+[00:52:01-8 @timpritlove] Länger als 5 Meter sagt die (äh) allwissende Müllhalde.
+[00:52:05-1 @doobee] Die allwissende Müllhalde hab größten Teils ich geschrieben zu dem Thema, trau der nicht.
+[00:52:08-4 @timpritlove] Ahh verstehe wir drehen uns im Kreis sozusagen (lachen)
+[00:52:12-7 @doobee] Ja so  so stellt man Fakten her und demnächst werd ich diesen Podcast in Wikipedia wieder zitieren.
+[00:52:19-8 @timpritlove] Wo alles belegt ist 
+[00:52:23-1 @timpritlove] Ah das ist gut. 
+[00:52:24-6 @doobee] (ähm) 
+[00:52:28-0 @doobee] Also die Höhle ist da wo wo kein Berg ist.
+[00:52:31-1 @timpritlove] Was zu beweisen war.
+[00:52:32-1 @doobee] Und das führt übrigens dazu das der Berg (äh) die Höhle auch richtig schwer zu vermessen ist. (kichern) Was vermisst du da nicht die Höhle eigentlich sondern den umgebenen Berg.
+[00:52:39-8 @doobee] (ähm) Das typische ist das also die Standarthöhle ist im Kalkstein erstmal, wenn ich kein Kalkstein hab hab ich auch keine Höhle. (äh) Bis so auf so ganz bizarre Sonderfälle 
+[00:52:51-8 @doobee] wie Lavahöhlen und so was.
+[00:52:53-3 @timpritlove] (ehem) 
+[00:52:54-1 @doobee] Und das führt dazu das ich in Brandenburg halt irgendwie keine Höhlen suchen muss weil da kein Kalkstein ist. 
+[00:53:00-4 @timpritlove] Aber hier ist schon die Rede von primären und sekundären Höhlen also sozusagen 
+[00:53:05-8 @doobee] Nja
+[00:53:06-3 @timpritlove] also diese Lavageschichte ist sozusagen schon so die eigentliche Definition von Höhle weil so ist es da mal erstarrt und dann war da halt die Blase und dann ist da jetzt ne Höhle 
+[00:53:15-9 @timpritlove] und mit Kalkstein ist es so irgendwann wars mal alles voll und dann hat sich das irgendwie ausgewaschen.
+[00:53:21-5 @doobee] Genau.. aber irgendwie wahrscheinlich sind Kalksteinhöhlen 99% der Höhlen oder sonst was also so gesehen der Rest ist alles unter ferner liefen.
+[00:53:29-1 @timpritlove] Ok
+[00:53:29-7 @doobee] (ähm) Kalkstein wird aufgelöst was man zum Beispiel am Kölner Dom oder sonst wo sehen kann mit dem sauren Regen 
+[00:53:38-3 @timpritlove] (ehem) 
+[00:53:38-6 @doobee] ist ja auch die Grusel Geschichte der 80 das all unseren klassischen Bauten verschwinden. Wenn er mit CO2 in Kontakt kommt und da irgendwie so der Fels nicht durchweht ist
+[00:53:50-9 @doobee] gehts um CO2 haltiges Wasser.
+[00:53:53-8 @timpritlove] (ehem) 
+[00:53:54-8 @doobee] Ganz spannend ist das Regenwasser üblicher Weise nicht CO2 haltig ist sonst wird ja überall der Fels aufgelöst wo es drauf regnet. 
+[00:54:05-4 @timpritlove] (ehem) 
+[00:54:06-0 @doobee] (ähm) Aber wenn das Wasser durch Erde gekommen ist Bakterien und sonst was dann wird CO2 haltig.
+[00:54:13-0 @timpritlove] Aja
+[00:54:13-6 @doobee] Das ist auch ganz gut weil sonst hätten wir nie Höhlen sondern die Berge würden von oben sich abtragen weg regnen sozusagen.
+[00:54:20-0 @timpritlove] (ehem) 
+[00:54:20-4 @doobee] Also wenn du aufen Haufen Zucker oder Salz irgendwie oben Wasser drauf gießt entstehen ja auch keine Höhlen. Sondern das CO2 haltige Wasser dringt durch feine Risse
+[00:54:29-6 @doobee] in den Berg ein und hat dann irgendwo Zeit die den Kalk aufzulösen. Irgendwann ist der Kalk dann (äh) ist das Wasser dann gesättigt und kann nicht mehr Kalk auflösen.
+[00:54:45-1 @doobee] Dann haste so so Strömungsphysik Sachen also die Form der Gänge (ähm) ergibt sich daraus (äh) wie das Wasser Sättigung und Gewicht sich verhält gerne son Schlüssellochprofil
+[00:54:56-6 @doobee] oben relativ rund und dann abfallend 
+[00:54:59-3 @timpritlove] (ehem) 
+[00:54:59-9 @doobee] und (äh) unten nen Rinnsal insbesondere wenn das Wasser nicht mehr in dem gesamten Berg drin stand. Oder solche Sachen wie wenn Wasser sich mit unterschiedlichen CO2
+[00:55:10-8 @doobee] Gehalt dann mischt dann passieren in dem Bereich halt entstehen größere Räume oder sonst was.
+[00:55:16-2 @timpritlove] (ehem) 
+[00:55:16-9 @doobee] Und dann (äh) wenn die Höhle mal da ist hab ich vielleicht noch Erosionen also wenn da ein Fluss durchläuft mit ordentlich Kieseln dann schleift der weiter am Berg ab 
+[00:55:23-5 @doobee] da kommt erstmal die Höhle zu. Lavahöhlen (ähm) sind noch einigermaßen verbreitet da wo man Lava hat so ganz sicher ist man sich noch nicht wie die entstehen. Also auch da
+[00:55:34-5 @doobee] ist noch richtig viel Forschung zutun 
+[00:55:36-1 @timpritlove] (ehem) 
+[00:55:36-8 @doobee] (ähm) aber es ist wohl so das die fließende Lava an der Luft schneller abkühlt und dadrunter noch flüssig ist und dann eigentlich schön lange warm bleibt unten weil ist ja 
+[00:55:48-3 @doobee] nen Steindeckel drauf.
+[00:55:49-9 @timpritlove] (ehem) 
+[00:55:50-5 @doobee] Aus schönen Bimsstein und das heißt die flüssige Lava kann dann rauslaufen sozusagen unter der erstarrten Lava 
+[00:55:56-2 @timpritlove] (hm) 
+[00:55:56-5 @doobee] deshalb sagen die klassischen Höhlenforscher oft Lavahöhlen sind total langweilig weil ist im Prinzip nen langes Rohr
+[00:56:03-8 @timpritlove] Verstehe
+[00:56:04-7 @doobee] meistens. Das sehen die Lavahöhlenforscher aders
+[00:56:07-5 @timpritlove] (kichern) Naklar
+[00:56:09-8 @doobee] (ähm) 
+[00:56:10-3 @timpritlove] Die kennen wahrscheinlich die wahre Lehre.
+[00:56:12-0 @doobee] Ja genau auf jeden Fall
+[00:56:13-0 @timpritlove] Blicken verächtlich auf diese ganzen Kalksteinis 
+[00:56:16-0 @doobee] Unter der Hand sagen sagen einem die Lavahöhlenforscher jedenfalls muss man nicht so blöd rumkrabbeln und ehrlich gesagt sind die ganzen Vulkane da wo es ganz nett ist
+[00:56:24-0 @doobee] lass uns doch Lavahöhlen forschen.
+[00:56:25-8 @timpritlove] (lachen)
+[00:56:27-1 @doobee] War letztes Jahr in der Jordanischen Wüste mit nem Haufen Lavahöhlenforscher und das war sehr nett. 
+[00:56:31-3 @timpritlove] In soner Lavahöhle 
+[00:56:33-0 @doobee] Jaja in einigen dann 
+[00:56:34-5 @timpritlove] Ahja 
+[00:56:35-6 @doobee] (ähm) Ja wobei die Höhlen tatsächlich son bisschen langweilig sind (ähm) 
+[00:56:42-1 @timpritlove] Hier sind sie spektakulärer aber dreckiger also..
+[00:56:44-8 @doobee] Ja  ja wobei die hatten noch mal andere Probleme (ähm) also in der Wüste wenn da nen Loch in der Wüste ist dann läuft natürlich wenn es regnet auch das Wasser rein und (ähm) 
+[00:56:55-0 @doobee] wenn ne schattige Stelle in der Wüste ist dann wollen da ja alle hin. Die größeren Höhlen wurden als Schafstall benutzt.
+[00:57:04-1 @timpritlove] (lachen) Ohje
+[00:57:06-4 @doobee] Die nicht so gut zugänglich sind da haben die Hyänen immer Kamele rein geschleppt 
+[00:57:13-1 @timpritlove] ahh
+[00:57:13-8 @doobee] und sie verspeist und das mal 20.000 Jahre lang machst kannste dir vorstellen wie das da riecht?
+[00:57:19-6 @timpritlove] Ei..
+[00:57:20-8 @doobee] Und die ganze Menge Kamelknochen ist gruselig auch cool aber auch sehr gruselig (ähm) und dann ist nen Problem ne Höhle hat ziemlich genau üblicherweise die Tempera.. 
+[00:57:32-4 @doobee] die Durchschnittsumgebungstemperatur. Die war da 28 Grad. Bei 28 Grad und stehender Luft, körperlicher Anstrengung ist schon..
+[00:57:45-0 @timpritlove] Mit den Überresten von 20.000 Jahre Kamelabschlachtung und Schafkot 
+[00:57:49-0 @doobee] Genau (äh) 
+[00:57:51-3 @timpritlove] (lachen)
+[00:57:52-9 @doobee] Da sind mir ehrlich gesagt unsere 8 Grad kalten schmierigen Höhlen lieber.
+[00:57:57-3 @timpritlove] Ok nachvollziehbar 
+[00:57:58-1 @doobee] Und natürlich tierisch staubig auch noch das ganze.
+[00:57:59-8 @timpritlove] Ja
+[00:58:00-8 @doobee] Furz trocken im wahrsten Sinne des Wortes (ähm) 
+[00:58:04-1 @timpritlove] Das heißt die Lavahöhlenforscher die sitzen dann auch eher mit nem Cocktail am FFuße des Berges
+[00:58:11-8 @doobee] Ja da war ich auch wieder in der Gruppe der Jüngste dass ist ganz interessant die Höhlenforscher sind son bisschen überaltert. In den 70. ging das groß rund und war mal In.
+[00:58:22-3 @doobee] (ähm) Die Franzosen haben vielleicht noch nen bisschen früher in den 60. angefangen und seit dem haben die nen Nachwuchsproblem.
+[00:58:28-3 @timpritlove] (hm) 
+[00:58:28-8 @doobee] (ähm) Das heißt das sind alles eigentlich Silberrücken die da unterwegs sind oder ganz viele.
+[00:58:33-3 @timpritlove] Weil da kam dann die Computer und Internet war dann irgendwie interessanter sozusagen.
+[00:58:36-7 @doobee] Ja oder ich mein Tennis ist ja auch  nicht mehr In.
+[00:58:39-8 @timpritlove] Ja
+[00:58:40-1 @doobee] Keine Ahnung (ähm) und gleichzeitig ist das schon sehr beeindruckend wenn du so 50jährige hast die dich als Mitdreißiger in die Tasche und wieder rausstecken irgendwie bei
+[00:58:52-8 @doobee] körperlich und sonst was. Ist auch (ähm) die ganze Höhlensache ist körperlich sehr Herausfordernd (ähm) soll übrigens tierisch Gesund sein.
+[00:59:05-5 @timpritlove] (kichern) Was soll tierisch Gesund sein?
+[00:59:07-1 @doobee] Das Höhlenforschen 
+[00:59:07-8 @timpritlove] Ach so also das herum Krackseln in den selben.
+[00:59:10-3 @doobee] Genau das (ähm) also die Franzosen haben ja noch mal bisschen andere Sicht (äh) die sehen das son bisschen als Sport an. Also wenn du nem Franzosen sagt ja ich
+[00:59:18-2 @doobee] mach Höhlenforschung Speläologie dann sagen die och ja hm das ist son bisschen wie wenn du in Deutschland sagen würdest du spielst Golf oder so ist nen bisschen abseitiges 
+[00:59:25-3 @doobee] Hobby aber kennt man macht man 
+[00:59:27-2 @timpritlove] (ehem) 
+[00:59:27-9 @doobee] nix gegen zu sagen und in Deutschland wie Höhlenforschung auch der Begriff schon (ähm) in Speläologie und Höhlenforschung, die Deutschen müssen da immer Wissenschaft 
+[00:59:39-1 @doobee] draus machen.
+[00:59:39-8 @timpritlove] Ja
+[00:59:40-2 @doobee] Sind in vielen Bundesländern dann sogar nötig weil das Betreten von Höhlen grundsätzlich Verboten ist.
+[00:59:44-6 @timpritlove] Es sei denn man hat einen Akademischen Auftrag.
+[00:59:46-9 @doobee] Genau in (nuschel nuschel) aus Forschungs und Wissenschaftsgründen unterwegs.
+[00:59:50-0 @timpritlove] (ehem) 
+[00:59:50-5 @doobee] Hin gegen gibts in Frankreich ganze Reiseführer so Speläologie spotiv düdupos.
+[00:59:55-5 @timpritlove] (ehem) 
+[00:59:56-3 @doobee] Höhlen drin was für Ausrüstung du da brauchst (äh) und Tourist also so richtig Touristenführer.
+[01:00:02-4 @timpritlove] Verstehe
+[01:00:04-2 @doobee] Ja wir Deutschen haben ja den Akademischen Ansatz aber (ähm) in großen Teilen bestehts halt aus kriechen und aus um Ecken rumkommen, du kannst jeder Zeit anhalten also es ist 
+[01:00:15-6 @doobee] nicht nen Leistungssport sondern Ausdauersport und du verbiegst deinen Körper in alle denkbaren Richtungen und Ecken.
+[01:00:21-9 @timpritlove] Oder wie man so schön sagen würde im Computerdeutsch Turn based. (kichern)
+[01:00:26-2 @doobee] Ja genau Turn based.. die Spiele die ich 
+[01:00:29-9 @timpritlove] Haben wir hier vor zwei Ausgaben irgendwie NetHack son bisschen 
+[01:00:32-4 @doobee] Ahh ja ja 
+[01:00:32-7 @timpritlove] glaub ich der Vergleich ne? (lachen) Hat son bisschen was ne?
+[01:00:36-7 @doobee] Ja genau
+[01:00:37-0 @timpritlove] So NetHack und Höhlenforschung 
+[01:00:38-0 @doobee] Jaja
+[01:00:38-5 @timpritlove] weiß man ja auch immer erstmal so richtig und man muss ins Dungeon irgendwie rein aber wenn man halt nichts macht macht die Höhle halt auch nichts.
+[01:00:44-2 @doobee] Genau also (äh) außer du bist halt an soner Stelle wo du dich eben grad halten kannst aber im großen und ganzen kannste einfach liegen bleiben. Ich find das auch total beruhigend 
+[01:00:52-7 @doobee] (ähm) im Zweifel halt wenns nicht mehr geht kannst halt liegen bleiben und die nächste kommende Gefahr ist dann Unterkühlung die viele Stunden weg liegt.
+[01:01:02-2 @timpritlove] Ja oder verhungern ist wahrscheinlich auch noch nen bisschen hin.
+[01:01:04-3 @doobee] Ja ja genau (äh) kannst halt immer noch "KAMARADENRETTUNG" rufen
+[01:01:10-3 @doobee]  und dir denken das die andern irgendwie das Problem schon lösen werden.
+[01:01:14-5 @timpritlove] (lachen) Ach ich jetzt kein bock zurück zu klettern ich lass mich mal retten.
+[01:01:19-3 @doobee] Ja hm die finden dann meistens Wege eine zu motivieren.
+[01:01:23-5 @timpritlove] (lachen)
+[01:01:24-2 @doobee] (ähm) Aber also alle Dehnübungen des Lebens haste nachher gemacht irgendwie du hast Muskelkater an Stellen wo du es nie wusstest.
+[01:01:31-7 @timpritlove] Ja verstehe
+[01:01:32-3 @doobee] (ähm) 
+[01:01:33-2 @timpritlove] Also son bisschen so auch son Jogerersatz.
+[01:01:35-1 @doobee] Ja genau
+[01:01:35-4 @timpritlove] (ehem) 
+[01:01:36-0 @doobee] Ist tatsächlich ziemlich jogisch. Also es ist halt Engstellen (ähm) dann gibts auch physikalische Grenzen die..
+[01:01:42-2 @timpritlove] Ist das nicht also ich meine wie ist das mit der Klaustrophobie bei dir so?
+[01:01:45-6 @doobee] Klaustrophobie (ähm) hab ich nicht, es gibt ja die Platzangst angst vor großen freien Plätzen die damit lachen Höhlenforscher oft "Diese höhle ist mir zu groß da trau ich mich 
+[01:01:58-3 @doobee] nicht rein." 
+[01:01:58-7 @timpritlove] (lachen)
+[01:01:59-2 @doobee] (ähm) Das es gibt wohl Leute die können nicht anders als darüber nachdenken irgendwie wie viel tausend Tonnen Fels da jetzt über einem sind.
+[01:02:07-1 @timpritlove] Ja
+[01:02:07-3 @doobee] (ähm) Wenn man das hat dann ist das nix für einem aber ansonsten ist es halt tatsächlich (äh) zum Beispiel beim Felsklettern
+[01:02:16-2 @timpritlove] Ich hätt hätt eher sone Reusenangst weist du.. das man so irgendwo reinklettert wo man zwar gut rein kommt aber nicht wieder raus.
+[01:02:22-3 @doobee] Ja und das ist ja ne Sache der Erfahrung. (ähm) 
+[01:02:27-6 @timpritlove] Naja das macht man ein mal ne?
+[01:02:29-1 @doobee] Nja deshalb gehst du halt nicht alleine oder gehst mit Leuten die sich auskennen und ich und du dann wahrscheinlich nicht als erster.
+[01:02:36-5 @timpritlove] Ja 
+[01:02:36-8 @doobee] (ähm) Und dann ist ja halt auch die Sache wenn du nicht in der Reuse ganz doll steckst hm müssen die andern halt Hammer und Meißel holen (äh) son Berg kriegt man ja auch 
+[01:02:46-2 @doobee] immer weg wenn man nur will. Das kann allerdings recht bitter werden also tatsächlich wenn man Unfälle in der Höhle hat (ähm) ist das doof. Unzwar auf Grund der 
+[01:03:00-0 @doobee] Platzprobleme die dann zu Transportproblemen führen. Wenn du jetzt (ähm) durch ne Stelle soeben durch gekommen bist und jetzt bist du auf ner Bare, wie willst du wieder 
+[01:03:12-4 @doobee] durch die Stelle durch kommen? Im Zweifel halt garnicht also ich glaub letztes Jahr war das  da ist 5 6 hundert Meter vom Eingang in Italien ne Frau hat sich das Bein gebrochen 
+[01:03:23-3 @doobee] hat was weiß ich son ein Meter hohen Stein runter gesprungen, deswegen nie springen in der Höhle, Bein gerochen konnte halt selber selber sich nicht mehr bewegen. Die haben
+[01:03:32-8 @doobee] irgendwie 6 oder 8 Tage gebraucht um die da raus zu holen. 
+[01:03:35-9 @timpritlove] Wow weil sie da erst was frei bohren mussten oder...
+[01:03:38-5 @doobee] Ja tatsächlich die mussten Strecken frei Sprengen 
+[01:03:40-6 @timpritlove] Oh
+[01:03:41-0 @doobee] und (ähm) 
+[01:03:42-6 @timpritlove] Krass
+[01:03:43-0 @doobee] da ist ja auch dann die Frage wen rufst du dann? Die Höhlenforscher weil damit beschäftigt sich halt keiner. Die..
+[01:03:54-2 @timpritlove] Auch die Bergrettung nicht sozusagen weil die Bergrettung kümmert sich nur auf was auf dem Berg ist 
+[01:04:00-1 @doobee] Genau
+[01:04:00-4 @timpritlove] und nicht im Berg.
+[01:04:01-2 @doobee] Alter Klassiker wenn man bei der Feuerwehr anruft dann schickt die einem die Höhenrettung 
+[01:04:07-4 @doobee] Nicht die Höhlenrettung.. irgendwie sollte man immer sagen ein Unfall unter Tage. (ähm) Was einem die Feuerwehr ansonsten vielleicht schickt ist die Grubenwehr.
+[01:04:16-9 @timpritlove] (ehem) 
+[01:04:17-7 @doobee] Die halt für Bergwerke zuständig ist aber die sind das auch nicht gewöhnt das man nicht stehen kann. 
+[01:04:21-1 @timpritlove] (ehem) 
+[01:04:21-7 @doobee] (ähm) Also tatsächlich machen die Höhlenforscher eigentlich die (ähm) retten sich untereinander und ich glaub den letzten größeren Fall in Deutsch hatten wir vor 3 Jahren oder 
+[01:04:32-5 @doobee] so in Hessen im Herbstlabyrinth und (ähm) wenn man dann weiß das der Verein sich nicht mehr selber helfen kann dann telefoniert er halt nach München oder so und sagt kommt 
+[01:04:42-6 @doobee] ihr doch bitte auch mal vorbei wir müssen hier zu mehreren sein. 
+[01:04:45-2 @timpritlove] München zu anderen Vereinen meinst du jetzt?
+[01:04:46-8 @doobee] Jaja genau also Münchener sind die Großen und die Süddeutschen haben eh (äh) große schwierige Höhlen (äh) da gibts auch irgend so eine Maltesertruppe in nem Dorf die sich 
+[01:04:54-9 @doobee] halt die Malteserhöhlenrettung nennt weil sie Höhlenforscher und Malteser sind. (ähm) Das ist halt tatsächlich dann einfach ein Transportproblem und (ähm) dann halt wenn 
+[01:05:04-4 @doobee] du jemanden Tagelang transportierst wie hältst du den davon ab auszukühlen und so das geht alles aber das wird dann richtig schwierig. Das ist tatsächlich so die Gefahr, 
+[01:05:13-3 @doobee] es ist nicht die Gefahr das du irgendwie plötzlich ganz viele Steine auf dich runter fallen und wenn das so ist dann ist halt auch vorbei (ähm).
+[01:05:20-5 @timpritlove] Also würdest du meinen das ist jetzt nicht so (ähm) also es ist schon gefährlich aber es ist beherrschbar wenn man.
+[01:05:27-4 @doobee] Also die Höhlenforscher selber haben führen Unfallstatistik (ähm) die Anfahrt ist deutlich gefährlicher als das in die Höhle gehen und (ähm) man hat halt auch nicht das Gefühl von 
+[01:05:39-2 @doobee] Gefahr. Also wenn in der Höhle die tief runter geht und so und du Kletterstellen hast, bin gut mit Höhlen (äh) Höhenangst ausgestattet da ist natürlich das Gefahr aber in soner 
+[01:05:49-3 @doobee] engen Stelle eigentlich nicht (äh) weil halt alles ganz langsam und jogamäßig ist (ähm) und ist halt auch die ganze Szene ist überhaupt nicht Leistungsorientiert. Also dieses 
+[01:06:03-3 @doobee] komm das schaffst du schon irgendwie stell dich nicht so an, ist garnicht und ich glaub tatsächlich bei keinem der Vereine natürlich gibts son paar Leute die immer irgendwie 
+[01:06:13-7 @doobee] höher, weiter, schneller aber im Großen und Ganzen ist das, hab ja auch schon gesagt das sind alles ältere Herrschaften eigentlich (äh) die (äh) gehen bedacht und langsam.
+[01:06:25-1 @timpritlove] Aber steht ja im Prinzip demnächst son (ähm) son son Generationswechsel an zwangsläufig ich meine irgendwann sind dann die Herren wahrscheinlich auch nicht mehr 
+[01:06:34-9 @timpritlove] biegsam genug. Ich meine mit 70 und 80 (äh) quält man sich dann wahrscheinlich dann doch nicht mehr ganz so 
+[01:06:39-5 @doobee] Nja du glaubst nicht der in (äh) Jordanien war einer der war 75. Der war mit 
+[01:06:44-9 @timpritlove] Die Ausnahme bestätigt die Regel aber irgendwann gibts ja dann son Genrationsgab bzw. den gibt jetzt schon.
+[01:06:52-7 @doobee] Ja und die werden wohl weniger die Höhlenforscher ja.
+[01:06:55-2 @timpritlove] (hm) 
+[01:06:57-4 @timpritlove] Also gibts sozusagen auch eine Gelegenheit (äh) 
+[01:07:00-0 @doobee] Autoreatch junge Leute genau, könne ja mit den Hackern zusammen was machen.
+[01:07:05-1 @timpritlove] (hm) 
+[01:07:07-8 @timpritlove] (ähm) Was mich jetzt mal interessieren würde ist so ich meine du jetzt vorhin schon betont naja Eimer Schaufel tralala so das ganz einfache  Zeug das (ähm) ist quasi immer 
+[01:07:19-6 @timpritlove] das das Wertvollste aber wenn man jetzt wirklich in sone Höhle rein marschiert muss ja jetzt nicht immer unbedingt gleich sone total (ähm) unerforschte ja (äh) first lite (äh äh) mäßig
+[01:07:33-1 @timpritlove] da (äh äh äh) etwas so so son weißer Fleck auf der Inneren Landkarte sein sondern das man vielleicht überhaupt mal in was reingeht wo normaler Weise Leute jetzt nicht so häufig 
+[01:07:42-7 @timpritlove] reingehen weils halt nicht so einfach ist weil eben schon ne (äh) physische (äh) Herausforderung ist (räusper) was nimmt man denn mit also was ist denn sozusagen die die 
+[01:07:53-5 @timpritlove] Technik die jetzt hier (ähm) mit dran ist. Ich meine du bist ja ganz Nerd wirst ja dann sicherlich trotzdem auch irgendwie son bisschen immer latent so dieses Gefühl haben 
+[01:08:01-9 @timpritlove] hm da könnte  man doch sicherlich mal mit diesem und jenen was (äh) zum ausrichten so also was weiß ich Vermessung (äh) Beleuchtung oder ist das eh alles schon so high-endig
+[01:08:14-4 @timpritlove] was was ist denn so die Standart Ausrüstung und was ist so das was man sich da noch aus einfallen lassen könnte?
+[01:08:20-9 @doobee] Aha sowohl als auch Highendig und Lowendig
+[01:08:23-9 @timpritlove] (ehem) 
+[01:08:24-3 @doobee] Also Standart Ausrüstung ist dieser Schlatz (äh) ist halt viel schöner als ausgekühlt in Baumwollkleidung.
+[01:08:30-9 @timpritlove] Ja
+[01:08:31-4 @doobee] Lustiger Weise der Stiefel des Höhlenforschers ist der Gummistiefel irgendein billiger Gummistiefel ist anscheinend immer noch das beste.
+[01:08:37-7 @timpritlove] (ehem) 
+[01:08:38-4 @doobee] Und natürlich der Helm und an dem Helm das der Bergmann nenns Geleucht.
+[01:08:45-5 @timpritlove] Geleucht (kicher) 
+[01:08:47-2 @doobee] Da hat sich unglaublich viel getan (ähm) es gibt tatsächlich noch Leute gerade in Frankreich, Belgien und den Alpen die immer noch mit Flammen unterwegs sind also Karbid.
+[01:09:00-4 @doobee] Das heißt die haben nen Kanister am Gürtel da ist Karbid drin das Zeug mit dem man auch die Dampfmaschine betreiben kann und dadrüber ist ein Wassertank und mit ner kleinen
+[01:09:13-2 @doobee] Schraube lässt man Wasser auf das Karbid tropfen und dann entsteht Acetylengas und dann haben die son Schlauch der führt an den Helm und da oben ist ne kleine Düse 
+[01:09:23-3 @doobee] und ne Flamme. 
+[01:09:25-3 @timpritlove] Ist ja nicht sonderlich Hell.
+[01:09:27-1 @doobee] Naaa es geht guck dir mal nen Acetylenschweißbrenner an.
+[01:09:32-1 @timpritlove] Aha Verstehe
+[01:09:33-5 @doobee] (ähm) 
+[01:09:34-4 @timpritlove] Das Zeug (kicher) 
+[01:09:35-3 @doobee] Selbst wenn du keine Sauerstoffflasche dabei hast (ähm) ja es ist nach Heutigen Standart nicht mehr ganz so hell (ähm) aber die Gewichtszu.. also die Leuchtdauer zu Gewicht 
+[01:09:49-7 @doobee] Werte sind eigentlich ganz gut. Dann kannst du auch (ähm)  also nimmste einfach mehr Karbid mit um nachzufüllen unterwegs.
+[01:10:00-6 @timpritlove] (ehem) 
+[01:10:03-1 @doobee] Problem was irgendwie zum Beispiel ganz klassischer weise gemacht wird das verbrauchte Karbid kippste in die Höhle. Kriegt man nie wieder raus die Sauerei also weil es  ein Pulver 
+[01:10:11-3 @doobee] ist ist auch obendrein irgendwie nen bisschen ungesund für irgendwie falls da noch irgendwelche Würmer oder so leben.
+[01:10:18-6 @timpritlove] (ehem) 
+[01:10:19-5 @doobee] Und man sieht vor allem wie Sau aus und mach mal irgendwie verschütte mal Mehl in Lehm und versuch den Lehm wieder in Ordnung zu bringen nachher geht nicht. 
+[01:10:27-3 @doobee] (ähm) Das wird heute noch verwendet also wegen der Dauer und (ähm) also wenn du zum Beispiel 3 Wochen unter Tagen bleiben willst oder auch nur 10 Tage Akkus sind richtig
+[01:10:40-4 @doobee] schwer.
+[01:10:40-7 @timpritlove] Das stimmt
+[01:10:42-1 @doobee] (äh) Obendrein erzeugt der Karbid dieser Tank wo das Wasser mit dem Karbid reagiert zu Acetylen erzeugt Wärme. Ne Wärmequelle ist wo Unterkühlung nen Problem ja auch 
+[01:10:54-3 @doobee] ne nette Sache.
+[01:10:55-5 @timpritlove] Aber es wird sozusagen diese dieser Tank wird warm?
+[01:10:59-2 @doobee] Genau und kannste ja auch unter die Jacke tun also in den Schlatz wenn du irgendwie warten musst und solche Sachen.
+[01:11:05-3 @timpritlove] Ok aber ist jetzt nicht so das man die Wärme da explizit draus noch ableitet und
+[01:11:09-2 @doobee] Nee
+[01:11:09-2 @timpritlove] irgendwie 
+[01:11:10-6 @doobee] Nee
+[01:11:10-7 @timpritlove] unter den Stoff bringt oder so Ok.
+[01:11:12-4 @doobee] (ähm) Ja ich hab jetzt letztens die Tage hatte jemand zu mir gemeint wie du bist noch nie mit Karbid unterwegs gewesen. Er will jetzt eine Romantik Führung mit mir 
+[01:11:21-6 @doobee] mit Karbidbeleuchtung machen.
+[01:11:22-7 @timpritlove] Ah ok.
+[01:11:23-9 @doobee] (ähm) 
+[01:11:24-8 @timpritlove] So wie mit nem Akustikkoppler Online gehen ja?
+[01:11:27-1 @doobee] Ja ganz genau. Der (ähm) das Problem ist wenn die Flamme ausgeht. Viel Spaß mit den Streichhölzern im Dunkeln. Also wenn du durch zugige Stellen oder so musst deshalb 
+[01:11:40-4 @doobee] fingen die dann ziemlich schnell an zusätzlich noch irgendwie son Fahrradlämpchen an dem Helm zuhaben. Dass wurde zu Halogen und da hatte man relativ große Akkus
+[01:11:53-7 @doobee] das kennt man so von Bergleuten aus den Filmen der Zechenschließungen in den 80. die hatten auch immer son Schlauch ähnlich wie der Schlauch fürs Acetylen und am 
+[01:12:03-0 @doobee] Gürtel den Akku. (ähm) Da gabs wohl eine Firma war Weltmarktführer Cerg, C, E, R, G. also auch son ganz bizarren Namen irgendwie totaler Fnord. Das dumme war das die Cerg 
+[01:12:19-8 @doobee] die Lampen nicht verkaufte sondern die vermietete die an Zechen.
+[01:12:24-0 @timpritlove] (ehem) 
+[01:12:25-1 @doobee] So das die Höhlenforscher leider auf illegale Beschaffungsmethoden angewiesen waren also man musste nen Bergmann kennen der irgendwie seine Beleuchtung verlor
+[01:12:35-5 @doobee] und dann muss man halt die Akkus dauernd pflegen und so war nen großes rumgeeire. 
+[01:12:40-2 @timpritlove] Verstehe
+[01:12:41-9 @doobee] Ja und dann wurden die Akkus kleiner und irgendwann kam die LED Technik. (ähm) Das ging dann ziemlich schnell und es gibt jetzt halt sehr ordentliche  LED-Lampen wobei das 
+[01:12:53-1 @doobee] (äh) was so an den irgendwie in den Outdoor Shops und so ist halt nicht das ist was die Höhlenforscher wollen (ähm) es sollte Wasserdicht sein und es sollte unglaublich robuste Technik 
+[01:13:05-8 @doobee] sein weil ohne die Lampe bist du nahezu verloren. (ähm) Da gibts dann halt auch Höhlenforscher die Technikbegeistert sind und sehr viele Gedanken sich um die (äh) richtige 
+[01:13:17-9 @doobee] Lichttechnik machen und die Diskussion um die Lichttechnik ist halt wie die Diskussion um den optimalen Editor zum programmieren. Die ich würde sagen der Marktführer 
+[01:13:27-3 @doobee] zumindest in den Alpenländern hat fast jeder die ist die Firma Scurion und (ähm) deren Lampen gehen hoch bis so knapp unter 1000 Euro.
+[01:13:39-4 @timpritlove] 1000 Euro?
+[01:13:40-4 @doobee] 1000 Euro ist andererseits für..
+[01:13:42-8 @timpritlove] Für ne LED-Lampe?
+[01:13:43-7 @doobee] Ja
+[01:13:46-1 @timpritlove] Ok
+[01:13:46-7 @doobee] Für ne ordentliche Sportausrüstung (pf)
+[01:13:50-2 @timpritlove] Naja
+[01:13:50-7 @doobee] gibts auch andere Leute die soviel ausgeben. (ähm) Das Ding ist dann allerdings auch deutlich heller als ne 100 Watt Birne.
+[01:13:57-7 @timpritlove] 1500 lumen das ist ja schon da kann man schon schon so das ist so das was man bei den Beamern (äh) gerne hätte.
+[01:14:05-3 @doobee] (hm) (ähm) Und was wichtig für Höhlenlampen ist sie brauchen nicht wie die Taschenlampen son Spott weil du willst ja nen Raum ausleuchten 
+[01:14:13-2 @timpritlove] (hm) 
+[01:14:13-3 @doobee] du willst ja nicht irgendwie halb blind auf einer Stelle sein
+[01:14:16-4 @timpritlove] Sondern möglichst gleichmäßig viel Licht überall.
+[01:14:18-9 @doobee] Genau
+[01:14:20-7 @timpritlove] Das heißt sie haben auch son Fischauge dadrauf.
+[01:14:22-4 @doobee] Ja in der Regel haben die  nen Spott und Fischauge und irgendwie nen (ähm) Microcontroler und dann wild mischen und programmieren und sonst was.
+[01:14:33-3 @timpritlove] Verstehe.
+[01:14:34-1 @doobee] (ähm) Was du im Gegensatz zum Beispiel zur leistungsfähigen Fahrradlampe auch überhaupt nicht haben möchtest das wenn die leer ist aus geht. 
+[01:14:44-1 @timpritlove] Das sie überhaupt ausgeht.
+[01:14:45-3 @doobee] (äh) Ja genau (kicher) (ähm) Also ne Höhlenlampe macht halt so was wie fährt nicht den Akkus bis an die Belastungsgrenze sondern 5% vorher geht sie dann vielleicht auf 2 lumen.
+[01:14:58-3 @timpritlove] (hm) 
+[01:14:59-3 @doobee] Was nach dem sich deine Augen dran gewöhnt haben nicht schön ist aber völlig ausreicht noch aus der höhle zukommen. 
+[01:15:04-9 @timpritlove] Ah
+[01:15:05-5 @doobee] Und (ähm) viele Lampen haben dann indem diesen Notmodus noch 30, 40, 50 Stunden Laufzeit. 
+[01:15:12-5 @timpritlove] Verstehe
+[01:15:14-0 @doobee] Das ist halt..
+[01:15:15-1 @timpritlove] Und wie lange (äh) wie lange brauch sie bis sie dahin also wie lange halten die Dinger dann überhaupt ich meine LED ist ja schon..
+[01:15:21-3 @doobee] Also der..
+[01:15:22-5 @timpritlove] hält schon lange eigentlich
+[01:15:23-4 @doobee] Ja in diesem vollgepimten Modus also wenn 1500 lumen rauskommen reden wir glaub ich über ein zwei Stunden 
+[01:15:29-9 @timpritlove] Ok
+[01:15:30-3 @doobee] und das was man so üblicher Weise benutzt liegt im Bereich 10, 20 Stunden also du machst diesen das viele Licht ja eigentlich nur um den Raum mal anzugucken aber wenn 
+[01:15:42-6 @doobee] in nem niedrigen Loch liegst und (äh) Lehm schaufelst dann braucht du ja nicht soviel Licht.
+[01:15:46-4 @timpritlove] (kicher)
+[01:15:46-8 @doobee] Also ich muss meine irgendwie alle zwei bis drei Höhlentouren aufladen. 
+[01:15:51-9 @timpritlove] Ok das ist gut und man muss danach kein Pulver irgendwo rein kippen wo 
+[01:15:57-6 @doobee] Genau und kein Pflegeaufwand 
+[01:15:59-9 @timpritlove] irgendwelche Tiere sterben.
+[01:16:00-5 @doobee] Da kommen wir übrigens wieder zum Sozialen und zur Technik. (ähm) Einmal ist es relativ wichtig das ne Gruppe ungefähr die gleiche Lichtleistung hat.
+[01:16:09-1 @timpritlove] Also sozusagen die gleiche Helligkeit mit führen?
+[01:16:12-5 @doobee] Ja zumindest über den Daumen.
+[01:16:14-3 @timpritlove] Warum weil die sich sonst in die Haare kriegen?
+[01:16:16-1 @doobee] Nja du machst den andern blind der zu helle.
+[01:16:18-3 @timpritlove] Ah
+[01:16:18-8 @doobee] Der guck in deinen Lichtkegel also nicht mal in die Lampe (äh) sonder da wo du hinguckst und dann guckt er dahin wo seine Lampe hinzeigt und sieht nix mehr 
+[01:16:27-6 @timpritlove] (ehem) 
+[01:16:28-0 @doobee] weil die viel schwächer ist.
+[01:16:28-9 @timpritlove] Verstehe
+[01:16:29-4 @doobee] (ähm) Ne andere Sache ist Höhlenforscher in der Höhle wenn die sich unterhalten gucken die sich halt nicht an, weil sie ja Lampen aufen Kopf haben.
+[01:16:36-6 @timpritlove] Ja
+[01:16:36-7 @doobee] Fast zu nerdig aber statt in den Monitor gucken alle immer leicht zur Seite um sich zu unterhalten.
+[01:16:43-6 @timpritlove] Das ist ja eigentlich so das Verhalten mit dem man andere Leute so (äh) auf die Palme bringt nicht ne.
+[01:16:47-4 @doobee] Ja
+[01:16:47-5 @timpritlove] Auf ner Party zum Beispiel.
+[01:16:49-1 @doobee] Und irgendwie die Lampen Nerds arbeiten jetzt...
+[01:16:51-7 @timpritlove] Kann man das dann auch abschalten wenn man dann mal auf ner Party ist oder gucken dann auch an alle aneinander vorbei? (kichern)
+[01:16:56-3 @doobee] Ach em manchmal schaff ich es.
+[01:16:59-8 @doobee] Ja die Lampen Nerds sind jetzt als nächstes dran. Die Helligkeitsabstufung machte man ja dadurch das man (ähm) pulsiert also Pulsweitenmodulation mit der LED macht.
+[01:17:11-4 @doobee] Da kann ich auch Daten drin kodieren.
+[01:17:14-6 @timpritlove] (ehem) 
+[01:17:15-7 @doobee] Das die Lampen untereinander nen Handshake machen und zum Beispiel wenn man sich anguckt automatisch runter dimmen.
+[01:17:22-7 @timpritlove] Ah
+[01:17:23-4 @doobee] Da basteln halt Leute dran.
+[01:17:24-6 @timpritlove] Aha ich wollt grad fragen naja klar also ich war eben noch so bei Augenerkennung aber ist ja klar man muss ja eigentlich nur die andere Lampe erkennen. Das heißt wenn man 
+[01:17:30-9 @timpritlove] sozusagen in dem (wa) also wenn man noch mal nen Sensor hat und darin in dem ankommenden Licht irgendein pettern erkennt 
+[01:17:38-0 @doobee] Ja
+[01:17:38-5 @timpritlove] dann.. ah pfiffig.
+[01:17:40-8 @doobee] Da wäre ja natürlich jetzt Raum für nen Standart der deren Herstellerstandart 
+[01:17:44-6 @timpritlove] Ohja
+[01:17:45-0 @doobee] also (ähm) ist ne relativ große Baustelle und die Lampen sind nen Riesen Thema. 
+[01:17:49-9 @timpritlove] Aha so was könnt auch ne schöne Kunstinstallation ergeben.
+[01:17:54-4 @doobee] Nja...ja
+[01:17:57-4 @timpritlove] Ist auf jeden Fall ne Herausforderung cool.
+[01:17:59-9 @doobee] So damit hat man eigentlich alles was man hier in Nordrein Westfälischen Breiten braucht zusammen was man wirklich braucht. (ähm) 
+[01:18:09-5 @timpritlove] an Licht
+[01:18:10-0 @doobee] an Gedöns.. Schuhe
+[01:18:12-1 @timpritlove] Das wars schon?
+[01:18:12-6 @timpritlove] Helm?
+[01:18:14-0 @doobee] Unterschlatz, Oberschlatz Unterhose ist auch hilfreich
+[01:18:16-6 @timpritlove] Ja
+[01:18:17-1 @doobee] (äh) Helm, Licht drauf, Handschuhe und ich hab früher unglaublich viel Kram in die höhle mit geschleppt (ähm) und immer weniger weil das ganze Zeug musste ja auch 
+[01:18:27-5 @doobee] transportieren 
+[01:18:28-2 @timpritlove] (ehem) 
+[01:18:28-5 @doobee] und wir stellen uns wieder vor unter der Küchenbank her mit nen Rucksack ist deutlich weniger lustig als ohne Rucksack das (äh) was der Höhlenforscher für sein Gepäck
+[01:18:37-3 @doobee] mit nimmt ist der Schliefsack.
+[01:18:39-5 @timpritlove] (ehem) 
+[01:18:40-7 @doobee] Wir haben den Schliefanzug und den Schliefsack.
+[01:18:42-4 @timpritlove] Ja
+[01:18:42-8 @doobee] Der heißt so weil man den hinter sich her schleift.
+[01:18:44-9 @timpritlove] Ah
+[01:18:46-0 @doobee] Also (ähm) wenns eng wird dann haste halt ne lange Schnur dran, schmeißt den hinter dir aufen Boden (äh) und krabbelst vor
+[01:18:52-9 @timpritlove] Zieht ihn halt einfach hinterher damit man sozusagen so dünn wie nur irgendwie geht.
+[01:18:56-0 @doobee] Genau klar ist aber das das blöde Ding natürlich immer hängen bleibt irgendwo.
+[01:18:59-9 @timpritlove] Ja
+[01:19:00-5 @doobee] (ähm) Ja wenn du es nicht dabei hast ist es besser. Jetzt gehts  aber wenn man was spezielles vor hat. Also ist klar zum graben brauchen wir ne Schaufel und was um den Lehm 
+[01:19:08-8 @doobee] wegzutun (ähm) zum Vermessen das ist halt so das klassische was Höhlenforscher auch machen (äh). Es gibt so den Spruch "Eine nicht dokumentierte Befahrung ist eine verlorene 
+[01:19:24-2 @doobee] Befahrung." also Befahren ist das was man mit Höhlen macht wie die Bergleute die fahren ein, wir befahren die Höhlen.
+[01:19:30-2 @timpritlove] Ah verstehe
+[01:19:31-0 @doobee] (ähm) Und wenn man die Höhle entdeckt sollte man sie auch dokumentieren, nicht oft genug (äh) oft genug ist auch so wenn die Höhlen irgendwie nicht  ganz großartig sind 
+[01:19:37-8 @doobee] geht eh danach nie wieder jemand rein, ist ja gut wenn man vermessen  hat und nicht jemand anders kann ja mal vermessen. Da sind wir gerade in Ennepetal noch total low tech
+[01:19:50-2 @doobee] drauf. Ich bin der erste der mal versucht hat Pläne nicht mit Tusche und Lineal zu zeichnen in dem Verein und ich muss sagen die kriegen das mit tusche und Lineal 
+[01:20:00-5 @doobee] wesentlich besser hin als ich mit allerlei Computertechnik. Also so gesehen.
+[01:20:04-8 @timpritlove] Was für Pläne sind denn das? Sind das einfach so normale flache Draufsichten oder gehts da auch schon um sone dreidimensionale Erfassung?
+[01:20:12-3 @doobee] Nee Draufsichten und Schnitte also von der Seite und so aber kein dreidimensionales Model. 
+[01:20:19-9 @timpritlove] Also ich meine wenn man sich jetzt so (äh) im aktuellen Youtube (äh) Fernsehen so die technische Entwicklung mal anschaut dann sieht man jetzt überall fensi Quadrocopter 
+[01:20:32-1 @timpritlove] die in irgendwelche Höhlen eindringen also in irgendwelche Gebäude eindringen und dann mit Laser (äh) scannen in null Kommer nix dort nen dreidimensionales Model machen.
+[01:20:41-2 @timpritlove] Ich mein das wäre doch eigentlich für son Höhlending auch mal ganz fenzi oder?
+[01:20:45-2 @doobee] Ja arbeite ich dran aber ist noch ein weiter Weg.
+[01:20:49-5 @timpritlove] (hm) 
+[01:20:49-7 @doobee] Ich beschreib mal erst den Stand der Technik.
+[01:20:51-2 @timpritlove] Ok
+[01:20:51-6 @doobee] (ähm) 3D ist erstmal eh nen Problem. Du hast jetzt son Höhlenplan da sind die Gänge eingezeichnet son bisschen wie son Straßenplan und was ich dann immer im Kopf hatte 
+[01:21:06-5 @doobee] ja dann gehste da lang, aber wie Hoch die Gänge sind siehste ja garnicht auf dem Plan.
+[01:21:12-5 @timpritlove] (hm) 
+[01:21:12-8 @doobee] Und dann merk ich immer zu meinem Entsetzen da kriechste dann lang. Ich bin berühmt für mein Ausspruch "Wie hier kann man garnicht stehen?" 
+[01:21:22-2 @timpritlove] (lachen)
+[01:21:23-1 @doobee] Genau das ruft auch immer Gelächter hervor.
+[01:21:30-9 @doobee] Wenn mir dann mitgeteilt wird in 10m kommt aber ne Stelle wo du dich auf deine Knie aufrichten kannst 
+[01:21:35-6 @timpritlove] och
+[01:21:35-8 @doobee] also Hände aufen Boden, Kine aufen Boden, Hintern aber doch hoch.
+[01:21:39-2 @timpritlove] (ehem) 
+[01:21:39-7 @doobee] (ähm) Ja das sind die Pläne und das ganze das ist auch was was mir ziemlich Freude gemacht hat. Ich hab mich immer gefragt, wie schaffen die das wenn die nen Tunnel bauen 
+[01:21:48-4 @doobee] sich zu treffen? Oder wie schaffen die das in der U-Bahnbaustelle zusagen so und hier sind wir jetzt unter der Kruppstraße.
+[01:21:53-7 @timpritlove] Ja Laser
+[01:21:54-2 @doobee] (ähm) Neeja das machen die doch seit hunderten von Jahren.
+[01:21:58-9 @timpritlove] Ja
+[01:21:59-3 @doobee] Sogar die Römer haben das schon gemacht.
+[01:22:00-9 @timpritlove] Stimmt.. die hatten noch keinen Laser?
+[01:22:02-3 @doobee] Nein
+[01:22:03-1 @timpritlove] (kichern)
+[01:22:03-5 @doobee] Die haben Maser eingesetzt 
+[01:22:04-7 @timpritlove] (lachen)
+[01:22:05-6 @doobee] (ähm) Ja und das ist irgendwie die Kunst der Markscheiderei.
+[01:22:11-6 @timpritlove] (ehem) 
+[01:22:12-5 @doobee] Das sind die Bergwerksvermesser und der Markscheider war oft garnicht von den Bergwerken angestellt sondern von sonst wem so wie son Landvermesser, er musste ja trennen 
+[01:22:21-1 @doobee] wer darf wo graben. 
+[01:22:22-6 @timpritlove] Ja
+[01:22:23-1 @doobee] Denn sonst könntste ja immer sagen "Mohr ich hab hier, wusste ja garnicht das ich in das Fremde Grundstück gegraben  hab." und da die (äh) Kohle Öl, Gold was auch immer 
+[01:22:29-8 @doobee] mir besorgt hab. Das heißt die machen eigentlich (ähm) schöne Vektorgrafik. Die messen von einem Punkt zum nächsten das ist 5m in dem und dem Winkel und dem und dem 
+[01:22:40-1 @doobee] Gefälle und dann der nächste Punkt und der nächste das ist was mit dem (Com) Computerleute ja wieder (zu a) zurecht schön. Nen Schöner Graf (ähm) wenn du den also wenn 
+[01:22:51-3 @doobee] die Höhle irgendwie Verbindungen hat oder das Bergwerk, kannste auch ein Rundzug machen also einen geschlossenen Grafen. (äh) Dann hast lustig Mathematik zutun weil 
+[01:23:00-7 @doobee] natürlich kommen die Werte nie hundert Prozent hin. Also du sagst ich geh hundert Grad nach rechts, hundert Grad nach rechts, hundert Grad nach rechts, hundert Grad nach rechts
+[01:23:09-5 @doobee] und bin am  Ausgangspunkt
+[01:23:10-8 @timpritlove] (ehem) 
+[01:23:11-3 @doobee] und das kommt dann nicht so ganz hin zumindest wenn du mit der normalen Gradskaler arbeitest.
+[01:23:16-7 @timpritlove] Nja
+[01:23:17-2 @doobee] Also musst halt irgendwie Fehler verteilen und dann haste das Klassische und wie wir das in Ennepetal machen ist mit einem das nennt sich Freiberger Hängezeug. Freiberg hat 
+[01:23:27-9 @doobee] man klar immer im Kopf große Bergwerkstadt allerdings seit vielen Jahren nicht mehr.
+[01:23:32-8 @timpritlove] Wieso?
+[01:23:33-6 @doobee] Ist da noch was?
+[01:23:34-9 @timpritlove] In Freiberg?
+[01:23:35-7 @doobee] Ja
+[01:23:36-2 @timpritlove] Na da findet vor allem so die ganze Bergwerkausbildung der Welt statt also.
+[01:23:39-6 @doobee] Ach immer noch?
+[01:23:40-0 @timpritlove] Ja Freiberg ist (äh) Führend (äh) Weltweit und anerkannt also.
+[01:23:44-1 @doobee] Siehste was dazu gelernt.
+[01:23:45-0 @timpritlove] Sogar in (äh) Afrika bin ich auf Leute gestoßen die irgendwie.. naja. Nja also Afrika also konkret war ich da irgendwie (äh äh) in Sambia wo sozusagen da auch viel Exploration 
+[01:23:55-9 @timpritlove] noch (äh) statt findet 
+[01:23:57-1 @doobee] (ehem) 
+[01:23:57-2 @timpritlove] ne so die Ausbeutung Kultan ähnliche Sachen und (äh) die fahren alle nach Freiberg zur zur Ausbildung.
+[01:24:05-1 @doobee] Was dazu gelernt und ich dachte als treuer Hörer das man Braumeister werden  wollte wenn man ins Ausland will. Ah Markscheider wohl geht auch.
+[01:24:13-5 @timpritlove] Das geht (äh) auch noch. Ja ich weiß nicht obs jetzt primär die Markscheiderei ist aber sagen wir mal das ganze Bergwerkwesen das (äh) kann man da immer noch vortrefflich 
+[01:24:20-6 @timpritlove] erlernen.
+[01:24:21-3 @doobee] Also wir machen das so wir spannen ne dicke Schnur von einem Punkt zum nächsten.
+[01:24:25-3 @timpritlove] (ehem) 
+[01:24:25-9 @doobee] Gehen da erst mit nem Zentimetermaßband lang um die Länge zu ermitteln, hängen dann da son Winkelmesser ein also im Prinzip nen Lot.
+[01:24:35-9 @timpritlove] (ehem) 
+[01:24:36-3 @doobee] (ähm) Wo man ablesen kann halt wie schräg das Band ist muss man genau gucken weil die Schnur hängt ja durch wenn ich das Ding dran hänge 
+[01:24:44-9 @timpritlove] Ja
+[01:24:45-2 @doobee] muss man aber berechnen wo der Punkt ist wo sich die Durchhängung aufhebt 
+[01:24:49-3 @timpritlove] (ehem) 
+[01:24:49-9 @doobee] und dann hängen wir ein Kompass darein. Der halt auch an der Schnur hängt und ablesen und die Genauigkeit ist bisher unübertroffen.
+[01:24:59-4 @timpritlove] (hm) Einfach Winkelmesser plus Kompass
+[01:25:02-5 @doobee] (ehem) 
+[01:25:03-0 @timpritlove] plus Schnur
+[01:25:04-1 @doobee] (ähm) Das könnte man besser hinkriegen auch mit dem klassischen eigentlich noch überwiegend analogen Technik der Totalstation wie die Landvermesser haben aber sone 
+[01:25:16-8 @doobee] Totalstation also diese Dinger ne die auf den Dreibeinen rumstehen wo die in der Gegend rum gucken was überwiegend auch nur optische Effekte sind die die da ausnutzen 
+[01:25:24-3 @doobee] wie du halt besonders genau ne Gradskaler ablesen kannst (ähm) aber die kriegste halt nicht in die Höhle rein obendrein sone ordentliche Totalstation irgendwie kommt auch 
+[01:25:33-8 @doobee] mal auf Hunderttausend Euro und wenn du die nach nem halben Jahr mit dem Lehm versaut hast (ähm) ist nen bisschen schade drum.
+[01:25:41-4 @timpritlove] (ehem) 
+[01:25:41-7 @doobee] Dies Freiberger Hängezeug (ähm) das was wir haben war sicher auch mal knackig teuer also kommt im Holzkasten daher und so aber (äh) kriegste halt immer wieder sauber 
+[01:25:50-8 @doobee] kann nix dran kaputt gehen (äh) Batterien sind nicht leer. Was die Leute inzwischen haben sind so gepimpte Laser Distanzmesser. 
+[01:26:01-0 @timpritlove] (ehem) 
+[01:26:02-3 @doobee] Die die stattdessen einsetzen zum Teil (ähm) mit nem PDA wo sie dann sozusagen direkt drauf legen können was sie da gemessen haben. Die nehmen den Laser Distanzmesser 
+[01:26:14-9 @doobee] und bauen den um das da nen Kompass und nen Neigungsmesser drin ist. 
+[01:26:19-5 @timpritlove] (ehem) 
+[01:26:20-2 @doobee] Jetzt ist aber schon fängts an das du mit nem Laser Distanzmesser nicht besonders genau zielen kannst, über längere Strecken musste auflegen das heißt du kannst wieder nur 
+[01:26:28-7 @doobee] vom Punkt aus messen wo du auflegen kannst und (äh) nen schönes Beispiel für die Probleme einer kleinen Community für die keiner Produkte macht. Diese Umbaukits,
+[01:26:38-9 @doobee] Kompass einbauen und Neigungsmesser einbauen die gabs für ein Model Laika Distro D7 oder so.
+[01:26:47-4 @timpritlove] (ehem) Das sind diese kleinen Hand (äh) Laserpointer 
+[01:26:50-9 @doobee] Genau
+[01:26:51-4 @timpritlove] Laservermesser hab ich auch einen ganz toll.
+[01:26:53-6 @doobee] Die den Distro D7 hat Laika aber längst eingestellt.
+[01:26:57-7 @timpritlove] (hm) 
+[01:26:57-9 @doobee] Für das Nachfolgemodel wass eigentlich für die Höhle viel besser geeignet wäre weils abwaschbar war und so hat die Community aber die Sache nie ans laufen gekriegt 
+[01:27:06-4 @doobee] weil der Kompass spann (äh) sponn also der Kompass arbeitete nicht genau. Alles versucht, Abschirmung um die Batterie, andere Batterien (äh) alle4 Schrauben gegen nicht 
+[01:27:21-6 @doobee] metallische an dem gerät ausgetauscht, der Kompass war halt immer ungenau.
+[01:27:24-6 @timpritlove] (ehem hi hi) 
+[01:27:25-3 @doobee] Jetzt gibts das Nachfolgemodel schon wieder nicht mehr und das Nachfolgenachfolgemodel also wir mögen einen Modelzyklus von 3, 4 Jahren haben. Wir kommen mit der
+[01:27:34-0 @doobee] Entwicklung nicht nach als Höhlenforscher Community.
+[01:27:36-4 @timpritlove] Verstehe 
+[01:27:37-3 @doobee] Und
+[01:27:37-5 @timpritlove] Disto heißt das Ding übrigens nicht Distro 
+[01:27:39-6 @doobee] Ohja
+[01:27:39-8 @timpritlove] Disto (ehem) 
+[01:27:40-7 @doobee] Wegen der Distorschen beim Kompass (höhö)
+[01:27:43-4 @timpritlove] (lachen)
+[01:27:43-4 @doobee] (ähm) Ja und der Weil sind irgendwie Altforderen mit ihrem Freiberger Hängezeug sagen irgendwie ja nen 10tel Grad Genauigkeit kein Problem.
+[01:27:51-5 @timpritlove] (ehem) 
+[01:27:52-2 @doobee] Und halt mal diesen Laserpointer mit nem 10tel grad Genauigkeit aufen Ziel.
+[01:27:56-4 @timpritlove] (hm) 
+[01:27:56-6 @doobee] Also da (ähm) gibts (äh) es geht technich voran aber es ist erstaunlich schwierig aber am Anfang hab ich natürlich auch gesagt wir brauchen hie ne Drohne fliegen durch,
+[01:28:06-8 @doobee] vermessen das alles, ich hab hier irgendwas aufen Helm, taumel durch die Höhle, zieh das nachher in Computer und schon haben wir nen ordentlichen Plan.
+[01:28:13-2 @timpritlove] (ehem) 
+[01:28:14-7 @doobee] (ähm) 
+[01:28:15-6 @timpritlove] Ganz einfach
+[01:28:16-1 @doobee] Genau was stellt ihr euch so an. 
+[01:28:18-8 @timpritlove] Nja ich meine wenn Google das irgendwie mit den Deutschen Straßenzügen machen kann dann.
+[01:28:23-2 @doobee] Genau 
+[01:28:24-1 @timpritlove] Muss es doch iner Höhle gehen.
+[01:28:25-3 @doobee] Das erste war genau das was Google einsetzt. Ich hatte tatsächlich loch ein Lida rumliegen. (ähm) Wie Radar mit Licht
+[01:28:35-4 @timpritlove] Bloß mit Licht.
+[01:28:35-8 @doobee] Genau das ist letztendlich das ist zum Beispiel an diesen ganzen autonomen Fahrzeugen (ähm) nen Laserpointer der sich schnell dreht oder nen Laser Distanzmesser bzw.
+[01:28:46-4 @doobee] wo nen Spiegel ist der sich schnell dreht 
+[01:28:47-8 @timpritlove] (hm) 
+[01:28:48-1 @doobee] und der macht einem halt Winkel und Entfernung. Aus meinem kommen 1024 Werte raus also im Prinzip drittel Kreis Grad jeweils mit der Entfernung. (ähm) 
+[01:29:02-0 @doobee] Das fängt jetzt an das die Dinger einigermaßen empfindlich sind weil da ist halt nen Spiegel der sich dreht 
+[01:29:05-8 @timpritlove] (ehem) 
+[01:29:06-7 @doobee] und das ganze musste halt von der Distanz stimmen. Na gut das hab ich noch hin gekriegt jetzt war der Gedanke, fährste im Prinzip das Ding durch die oder schiebst das langsam 
+[01:29:15-7 @doobee] durch die Höhle das tastet die Wände ab, nachher haste das ganz Ding. 
+[01:29:22-4 @timpritlove] Problem ist das da überhaupt erstmal da rein zu kriegen wahrscheinlich.
+[01:29:24-8 @doobee] Nja das Lida ist irgendwie so groß wie nen Scchnapspinchen das ich hab.
+[01:29:30-1 @timpritlove] (hm) 
+[01:29:30-8 @doobee] Geht auch vom Stromverbrauch auch noch einiger maßen ok. (ähm) Aber erstmal die Software zum testen läuft natürlich aufen Notebook und das in die höhle rein zu kriegen 
+[01:29:41-1 @doobee] ist schon wieder son bisschen unhandlich und vor allem wieder lebend raus zu kriegen.
+[01:29:44-2 @timpritlove] Ja
+[01:29:44-8 @doobee] (ähm) Da gibts (äh) son sehr robusten Koffer für hab ich mir besorgt aber dann ist das ganze schon wieder ziemlich groß also kann ich nur in Gänge wo der 
+[01:29:54-1 @doobee] aufgeklappte Koffer rein passt oder muss mit langen USB Verlängerungskabeln oder die Stromversorgung war nen riesen Rumgeeiere weil das Ding beim anlaufen zuviel für 
+[01:30:03-0 @doobee] USB zog halt diese scheiß Detailprobleme.
+[01:30:07-0 @timpritlove] Nja
+[01:30:07-4 @doobee] (ähm) Ja und irgendwann gesagt Leute so  ich zeig euch jetzt mal wie das läuft, erstmal haben wir gesagt so langsam durch die Höhle regelmäßig bewegen ist ja bisschen schwierig,
+[01:30:16-4 @doobee] ich sag vielleicht können wir Modelbahnschienen (HA HA HA) (ähm) machen wir erstmal nur ein Profil ein Schnitt und in der Praxis war das bisher alles dann doch recht schwierig.
+[01:30:29-8 @doobee] Wenn die Höhlenwände nass oder Lehmig sind dann reicht die Reflexion nicht dann misst der da nicht.
+[01:30:34-5 @timpritlove] (ehem) 
+[01:30:35-1 @doobee] Dann kann er ja im Prinzip nur den Schnitt nehmen wenn er aus von einer Stelle Blick auf alles hat. Wenn son bisschen sone Verwerfung im Boden hab kann ich da 
+[01:30:42-3 @doobee] nicht hinter gucken.
+[01:30:43-7 @timpritlove] (ehem) 
+[01:30:44-2 @doobee] Dann muss ich im Prinzip zwei mal peilen also dass Ding vielleicht einmal nach unten halten und von der Decke und einmal von oben und dann alles ganz einfach kann man 
+[01:30:51-3 @doobee] ja im Computer übereinander schieben. Jetzt im Gegensatz zum Gebäude aber die Höhle ja halt massiv unregelmäßig halt so felsige Wände. das heißt wenn ich das Messding 
+[01:31:00-4 @doobee] nur nen halben Grad verkannte zum Beispiel krieg ich ganz andere Werte, wenn ich es in nem Flur oder so die Messung nen bisschen verkannte hab ich immer noch gerade Wände 
+[01:31:10-6 @doobee] aber wenn die Wände halt total unregelmäßig sind ist mit automatisch übereinanderlegen mal garnichts mehr. Jetzt könnte man viele Probleme lösen, also ich könnte mir 2 Lidageräte 
+[01:31:21-4 @doobee] kaufen die aneinander schrauben dann weil die Dinger machen kein..
+[01:31:25-2 @timpritlove] Stereoblick ja
+[01:31:26-4 @doobee] Genau
+[01:31:26-6 @timpritlove] Na so mit so wird ja auch der Mars vermessen.
+[01:31:28-8 @doobee] Nja (ähm) dann es gibt größere Lidageräte die halt auf Lehm und nassem Wänden wahrscheinlich auch Signale kriegen könnten (ähm) aber dann die brauchen ne 12 Volt 
+[01:31:42-4 @doobee] Stromversorgung ne ordentliche und so kommt man halt dann vom Hölzchen aufs Stöckchen und es wird plötzlich unglaublich aufwendig wieder (ähm) und wir habens an dem Teil
+[01:31:53-7 @doobee] jetzt an dem Punkt jetzt erstmal abgebrochen weil wir gesagt haben das ist der Aufwand nicht wert weil zum Beispiel für diesen Gangprofil also wir sagen hier ist jetzt nen Schnitt
+[01:32:02-7 @doobee] durch den gang sieht so aus, nen geübter Zeichner irgendwie braucht da halt 5min für 
+[01:32:08-4 @timpritlove] (kichern)
+[01:32:09-0 @doobee] das ist exakt und ordentlich (äh) Batterie und Stromversorgung sind kein Thema 
+[01:32:14-0 @timpritlove] (hm) 
+[01:32:14-5 @doobee] und die die sich dafür interessierten waren halt die Österreicher und Schweizer die so große Gänge haben das sie die Decke nicht sehen können und da brauchste halt wiederum 
+[01:32:22-3 @doobee] sehr größere teurere Lidageräte und da reden wir plötzlich für das Gerät über 40.000 Euro nur das Lida also wieder die ganz dummen Real Life Praxisprobleme.
+[01:32:33-0 @timpritlove] Ach verdammt..
+[01:32:33-6 @doobee] (ähm) Nächster Gedanke war Fotos. Gibts ja auch inzwischen so schön aus Fotos bau ich mir im Prinzip 3D Objekte.
+[01:32:39-9 @timpritlove] Ja
+[01:32:40-8 @doobee] Der Algorithmus da heißt Feature extraction, Gebäudekanten und so.
+[01:32:48-4 @timpritlove] Ja
+[01:32:48-8 @doobee] Na und wenn du jede Menge lehmige Wände hast ist auch nicht wieder...
+[01:32:52-2 @timpritlove] Ist einfach feature less
+[01:32:53-4 @doobee] Genau jetzt meine nächste Idee ist Kameras die Distanzen messen können auf der ganzen Größe was zum Beispiel in dem Microsoft Connect ist.
+[01:33:00-5 @timpritlove] (ehem) 
+[01:33:01-1 @doobee] Ja aber irgendwie muss ich sagen die Nerdigkeit lässt nach, ich Schaufel lieber momentan.
+[01:33:07-7 @timpritlove] (lachen)
+[01:33:11-6 @timpritlove] Und lass die Anderen zeichnen.
+[01:33:13-1 @doobee] Ja
+[01:33:13-5 @timpritlove] Aber das Problem muss sich doch lösen lassen, was ist mit Radar?
+[01:33:15-7 @doobee] Radar mal eben bauen also..
+[01:33:19-6 @timpritlove] Naja gut also ich meine ich sag ja nicht das es (äh) Herausforderungsfrei ist aber ich meine so so werden Planeten (äh äh) vermessen so die haben auch teilweise sehr ähnliche 
+[01:33:29-4 @timpritlove] Strukturen (räusper)
+[01:33:32-5 @doobee] Ja dann ist halt son bisschen die Motivation warum sollten wir? 
+[01:33:35-7 @timpritlove] Weiß ich nicht damit da so schicke Quake Level draus bauen kann irgendwie
+[01:33:38-3 @doobee] (lachen)
+[01:33:40-4 @doobee] Genau because we can.
+[01:33:41-4 @timpritlove] Ja genau mal son Quake wo man sich durch so Höhlen(äh)spalten zwängen muss, wäre ja auch mal was neues. Du kannst hier leider nicht durchgehen mit der dicken Wumme 
+[01:33:48-8 @timpritlove] weil die passt da nicht durch (lachen)
+[01:33:51-3 @doobee] Ja das hat schon Scham aber (ähm) die ganze Community denk auch nicht in 3D. Wenn die in 3D denken, dann denken die dieser Gang geht unter dem her. 
+[01:33:59-4 @timpritlove] Ja
+[01:34:00-1 @doobee] Aber die Form und so die wird eigentlich bisher überhaupt nicht erfasst. Man hat sonen Höhlenplan und alle 10, 20 Jahre (äh) Meter zeichnet man mal wie der Gang aussieht,
+[01:34:07-7 @doobee] das wars aber.
+[01:34:08-5 @timpritlove] (hm) 
+[01:34:09-0 @timpritlove] (ähm) Aber trotzdem das möchte man doch irgendwie haben.
+[01:34:12-7 @doobee] Ja fürn Anfang hab ich immer gesagt "Leute lasst uns doch mal bei vermessen nicht nur den Winkel und die Länge und die Steigung messen sondern auch den Abstand zu den 
+[01:34:20-4 @doobee] Wänden. 
+[01:34:22-2 @timpritlove] Ja
+[01:34:22-6 @doobee] Nach oben, unten rechts. links da könnt ich ja schon mal son 3D Kastenmodel machen, ja kam aber raus in der Praxis machen wir unsere Punkte wo die Vermessung immer 
+[01:34:29-9 @doobee] lang geht an den Seiten. Klar weil man da die Schnur anhalten kann.
+[01:34:33-6 @timpritlove] Ja
+[01:34:33-9 @doobee] Da ist der Gang dann aber wenn du ganz in der Seite der Höhle bist 10cm hoch und Abstand zur einen Wand null und zur anderen halt nen 1,50m oder so.
+[01:34:44-2 @timpritlove] (hm) 
+[01:34:44-6 @doobee] Kriegste halt kannste auch wieder keinen sinnvolles 3D Model machen. Es ist erstaunlich schwierig und dann ist halt ne Sache du musst die anderen dafür motivieren können 
+[01:34:52-4 @doobee] das sind keine Techis die sagen "Du hast doch dieses Ding jetzt bring mal mit ich will die und die Höhle komplett vermessen." und man sagt "Hähäh ich würd jetzt gern mal 
+[01:34:59-9 @doobee] nen Test und Beta und also für die Entwicklungszyklen die wir Nerds so haben ist da recht wenig Verständnis. (ähm) Ist spannend und interessant und nicht zu letzt weil 
+[01:35:12-3 @doobee] (äh) die Community auch nicht son großen Bedarf sieht wofür brauch ich jetzt die 3D Pläne außer Leuten die zu zeigen (äh) die nicht in der Höhle waren dann lass uns doch 
+[01:35:21-4 @doobee] lieber in die Höhle gehen. 
+[01:35:22-9 @timpritlove] Ja naja stimmt. Ja gut also (räusper) knifflig ich meine jetzt das nächste was man noch anbringen könnte was wahrscheinlich (äh) erstmal auf ganz andere Probleme stößt 
+[01:35:33-2 @timpritlove] wäre natürlich nicht selber darein zu gehen sonder irgendwelche Roboter (äh) vorzuschicken das (äh) dürfte aktuell wahrscheinlich schon im wesentlichen so an der Fortbewegung 
+[01:35:41-7 @timpritlove] scheitern die vermutlich recht komplex ist.
+[01:35:44-8 @doobee] Ja da wahr mein Gedanke mal nen Wettbewerb zu machen. (höhö) Den jährlichen Höhlenfortbewegungswettbewerb wo Universitäten ihre (nuschel nuschel)
+[01:35:52-4 @timpritlove] Ja.. Ja weil das ist so für autonome Systeme natürlich auch ne (äh) interessante Herausforderung, ich meine so (äh) Copter die so durch die Luft fliegen na die habens da an 
+[01:36:01-2 @timpritlove] Stelle irgendwie relativ einfach und die scheitern derzeit auch noch so wenn da mal son Baum ist dann ich schon schwierig (lachen) aber auch das wird ja langsam (äh äh) 
+[01:36:08-5 @timpritlove] gemeistert und (ähm) ich hab neulich in das war das was ich vorhin angesprochen habe eben auch schon so dieses erste Coptersystem gesehen was eben tatsächlich die Gebäude 
+[01:36:17-2 @timpritlove] eben während es fliegt (äh) vermisst und daran auch schon selber weiß (äh) wo es lang fliegen kann und wo (äh) nicht. Der flog dann irgendwie durch son Parkhaus mit tausend 
+[01:36:25-4 @timpritlove] Säulen mit ner Affen Geschwindigkeit und (äh) hat sich da sozusagen on the fly (äh) gemapt.
+[01:36:31-3 @doobee] Ja also die fahrenden Roboter haben das ja schon, komm ich wieder auch mal Gedanke irgendwas aufen Helm (ähm) aber es ist ein weiter Weg für Fortbewegung glaub ich jetzt 
+[01:36:39-3 @doobee] momentan eher an (ähm) schlangenartige Roboter da gibts ja auch einiges. Im Bereich von großen Flusshöhlen haben die das schon da schon sehr passive Roboter also im Prinzip
+[01:36:51-8 @doobee] (äh) kleine Bälle die man ins Wasser schmeißt und die beim daher treiben vermessen. Das scheint son bisschen zu klappen aber selbst Tauchroboter haben schon wieder nen Problem 
+[01:37:01-5 @doobee] in Höhlen im offenen Meer (ähm) klappen die ganz gut aber diese Tauchroboter sind ja eigentlich immer an der Schnur für Fernsteuerung und so Elektrizitätsversorgung. 
+[01:37:11-5 @doobee] Die müsstest du in der Höhle ja hinter dir herziehen oder der Roboter müsste ne riesige Rolle haben von der er abspult.
+[01:37:19-5 @timpritlove] (hm) 
+[01:37:20-4 @doobee] Das mit der Rolle ist schon wieder schwierig weil beim Rückwärtsfahren auch aufspulen muss und hinter dir herziehen wird nach der nächsten Ecke..
+[01:37:27-6 @timpritlove] schwierig 
+[01:37:28-3 @doobee] genau
+[01:37:29-1 @timpritlove] bis unmöglich
+[01:37:29-9 @doobee] also irgendwie ich guck mir das Openroff-Projekt da sehr genau an die arbeiten mit Tauchrobotern und haben die auch schon in Höhlen getestet allerdings in relativ großen 
+[01:37:38-9 @doobee] Wasserhöhlen.
+[01:37:40-4 @timpritlove] Aber so oder so (ähm) auch auch wenn jetzt (äh) hier mit so der aktuellen herkömmlichen Automatisierungstechnik da noch ne Menge (äh) Probleme sind so oder so hat sich 
+[01:37:50-2 @timpritlove] dort das haste ja auch am Anfang schon gesagt, es hat sich an sich technisch da schon eine Menge getan also jetzt nicht nur diese Lampentechnik vermutlich ne das es überhaupt 
+[01:37:59-7 @timpritlove] son in den letzten 30 Jahren da son (äh) Boom gab (ähm) normalerweise ist das ja immer so wenn wenn irgendwo sone spezielle Herausforderung sind und man so seine eigenen 
+[01:38:09-8 @timpritlove] Lösungen finden muss werden dort dann (äh äh) Dinge für diese Problemdomaine gebaut von denen man dann später feststellt das man die auch (äh) woandern (äh) woanders 
+[01:38:19-3 @timpritlove] einsetzen kann. Gibts da irgend son Austausch son Feedback?
+[01:38:22-9 @doobee] Ja also der große Technologiesprung war (ähm) und der ist unter anderem ganz verbunden mit Ferdinand Petzl, Petzl kennt man als 
+[01:38:33-2 @timpritlove] Das sind diese Headbands auch immer ne mit den Lampen dran.
+[01:38:36-1 @doobee] Genau der hat die Stirnlampe erfunden.
+[01:38:37-7 @timpritlove] Ahja ok (ehem) 
+[01:38:38-7 @doobee] Und Bergsteigerausrüstung aber der Mann war eigentlich Höhlenforscher. 
+[01:38:43-9 @timpritlove] Ah ok
+[01:38:44-6 @doobee] Er hat dann gesagt Wem kann ich denn meinen Kram denn verkaufen und irgendwie Maschinenschlosser oder so was und sich viele Sachen selber gebaut. Die Höhlenforschung 
+[01:38:53-4 @doobee] war lange also irgendwie so Krabbelhöhlen wie wir die hier haben sind vor allem Fleißarbeit, ist schön wenn du Kleider hast die sich nicht vollsaugen und auch nass noch warm sind 
+[01:39:03-4 @doobee] aber im Großen und Ganzen ist das irgendwie Buddeln und dich durchschieben.
+[01:39:07-1 @timpritlove] (ehem) 
+[01:39:07-5 @doobee] Konnste auch schon vor 400 Jahren war mit der Fackel natürlich nen bisschen lästig (ähm) aber ist nur graduell besser geworden. Aber Höhlen wo es viel Senkrecht runter geht 
+[01:39:18-0 @doobee] die sind tatsächlich das Problem gewesen. Der Klassiker war entweder ich lass mich runter, ich sitz auf soner Art Schaukel und Leute oben mit ner Seilwinde lassen mich runter,
+[01:39:29-5 @doobee] wenn ich halt seine Lordschaft war und 10 Träger anheuern konnte konnte ich das machen 
+[01:39:34-3 @timpritlove] (lachen)
+[01:39:35-2 @doobee] oder Strickleitern. Erstmal die die so auf Schiffen sind. Muss man sich mal vorstellen wie viel Meter Strickleiter kann denn eine Person tragen mit den Holzsprossen und so.
+[01:39:46-4 @timpritlove] Ganz schön schwer.
+[01:39:47-5 @doobee] (hm) Und dann wurde das ziemlich schnell optimiert also die typische Höhlenforscherstrickleiter die Sprosse ist außem Aluminiumrohr und so breit wie ein Schuh. 
+[01:39:57-7 @timpritlove] (ehem) 
+[01:39:59-1 @doobee] Mit zwei dünnen Stahlseilen rechts und links. 
+[01:40:02-4 @timpritlove] (ehem) 
+[01:40:02-8 @doobee] (ähm) Ganz toll wenn die Harken der Bergstiefel in die Stahlseile kommen wenn man die klettert. Die (ähm) aber ist auch noch...
+[01:40:11-4 @timpritlove] Was für Harken was hat man da?
+[01:40:12-7 @doobee] Achso die wo die Schnürsenkel durch sind.
+[01:40:14-3 @timpritlove] Achso die Harken
+[01:40:15-1 @doobee] Diese Harken können sich super irgendwie 
+[01:40:17-6 @timpritlove] (hm) ok 
+[01:40:19-7 @doobee] und also Gummistiefel sind wieder bei der optimale Schuh für nen Höhlenforscher.
+[01:40:25-3 @timpritlove] (ehem) 
+[01:40:25-7 @doobee] (ähm) Wenn jetzt jemand schon mal ne Strickleiter die frei hängt hoch geklettert ist weiß er wovon ich rede. Die auf den Spielplätzen sind ja harmlos aber Strickleitern hochklettern 
+[01:40:35-1 @doobee] ist richtig anstrengend.
+[01:40:36-8 @timpritlove] Weil die sich so durchbiegen?
+[01:40:39-8 @doobee] und Gleichgewicht halten und wenn du es nicht gut machst 
+[01:40:41-7 @timpritlove] und schaukeln
+[01:40:41-8 @doobee] hängt dein Hintern als tiefstere Stelle, deine Füße auf Höhe des Kopfes 
+[01:40:45-6 @timpritlove] (lachen)
+[01:40:46-1 @doobee] ganz zur Seite und dein ganzes Gewicht auf den Armen.
+[01:40:48-4 @timpritlove] Ja
+[01:40:48-8 @doobee] Also korrekt klettert man ne Strickleiter ein Fuß vorne und das nächste Bein um die Leiter rum und mit der Hacke von Hinten auf die Strickleiter.
+[01:40:56-6 @timpritlove] (hm) 
+[01:40:57-3 @doobee] (ähm) Aber ist unglaublich kräftezehrend. Ja und wenn wir jetzt mal von der Höhle reden wo der Einstiegsschacht 80m, 100m 200m ist, 200m ne schwankende Strickleiter 
+[01:41:11-5 @doobee] runter wenn man..
+[01:41:12-4 @timpritlove] 200m tief?
+[01:41:13-5 @doobee] Ja 
+[01:41:14-5 @timpritlove] Das gibts?
+[01:41:15-4 @doobee] Ja 
+[01:41:16-3 @timpritlove] Ah es gibt wahrscheinlich alles
+[01:41:17-3 @doobee] (kicher) 
+[01:41:17-8 @timpritlove] (hm) 
+[01:41:18-1 @doobee] Wenn man die dahin geschleppt bekommen hat die Strickleiter also ist ne unglaubliche Kondition nötig um die Dinger runter und wieder rauf zukommen.
+[01:41:26-9 @timpritlove] (hm) 
+[01:41:29-0 @doobee] Und was dann entwickelt wurde wo der Petzel zumindest sehr mit beteilig war, ich denk das muss in den 50. gewesen sein ist die sogenannte Einseiltechnik. (ähm) Und das ist
+[01:41:41-8 @doobee] man ist mit nur einem Seil unterwegs und daran steigt man rauf und runter. Und plötzlich muss man nicht mehr ne Strickleiter mitschleppen sondern nur noch ein Seil 
+[01:41:53-9 @doobee] ist viel leichter und vor allem viel weniger sperrig und obendrein ist die (ähm) Technik also ist das ganz auch noch weniger anstrengend. Das das man an einem Seil runterfahren 
+[01:42:07-1 @doobee] kann kennt man vielleicht son bisschen wenn man in sonem Klettergarten mal war. Da wird man zwar meisten abgelassen aber das Prinzip ähnlich. (ähm) Ich hab einen 
+[01:42:15-7 @doobee] Mechanismus der wo das Seil meistens irgendwie drum oder durch gewickelt wird und der dazu führt das wenn ich das Seil nen bisschen stramm ziehe das nur noch langsam 
+[01:42:24-3 @doobee] durchläuft. 
+[01:42:25-9 @timpritlove] (hm) Also sone Art Flaschenzugsystem oder wie? Mit mehreren Lenkrollen oder wie muss man sich das so vorstellen?
+[01:42:30-7 @doobee] Nja garnicht mehr ne garnicht mehr Lenkrollen mehr Bremsrollen also (ähm) das was die Höhlenforscher typischer Weise einsetzen ist ein Produkt der Firma Petzel. 
+[01:42:40-4 @doobee] Der Petzelsimpel oder der Petzelstop und führt geht das Seil wie so ein "S" eigentlich um zwei Rollen durch und wird dadurch schon sehr vernimmt viel Energie auf und du
+[01:42:51-3 @doobee] nur bisschen das Seil dann läuft das da nicht mehr durch. Das heißt letztendlich lässt du das Seil locker mit der einen Hand, dann fährst du runter und sobald du es nen bisschen 
+[01:42:59-7 @doobee] fest hällst mit ganz geringer Kraft hällst du an. 
+[01:43:02-8 @timpritlove] Verstehe also ist einfach sone pfiffige Seilführung durch Umlenkrollen 
+[01:43:08-4 @doobee] Genau
+[01:43:08-8 @timpritlove] die man so beeinflussen kann.
+[01:43:10-2 @doobee] Das sind nicht mal Rollen also die Dinger drehen sich nicht es erzeugt halt Reibung.
+[01:43:14-3 @timpritlove] Ok
+[01:43:14-7 @doobee] Es geht um Reibung und Verwindung des Seils.
+[01:43:16-7 @timpritlove] Verstehe
+[01:43:18-2 @doobee] (ähm) 
+[01:43:18-4 @timpritlove] Daran kann man sich dann sozusagen einfach (kon) kontrolliert an dem Seil herab lassen.
+[01:43:25-0 @doobee] Genau
+[01:43:25-1 @timpritlove] Man steuert sozusagen wie das Seil nachkommt.
+[01:43:27-2 @doobee] Also das Seil ist oben fest gemacht und man fährt das Seil tatsächlich runter.
+[01:43:30-0 @timpritlove] (ehem) 
+[01:43:30-5 @doobee] (ähm) Das ist übrigens nen Vorteil den die Höhlenforscher zu den Bergsteigern haben. Die Bergsteiger um sich zu sichern (ähm) müssen ja immer irgendwie nen bisschen klettern
+[01:43:38-4 @doobee] dann was reinbohren. Wir Höhlenforscher gehen ja von oben nach unten, was heißt wir machen nen ordentlichen Haken oder zwei, machen unsern Kram da fest und das wars.
+[01:43:47-0 @doobee] Also wir sind auch eigentlich nie ungesichert unterwegs üblicher Weise.
+[01:43:51-4 @timpritlove] Ok aber man muss ja auch erstmal wieder wieder hoch kommen.
+[01:43:53-5 @doobee] Ja genau das ist der andere Teil. Erstmal ist ganz spannend bei längeren Strecken (kichern) wird die ganze Seilsache (ähm) so warm also es gibt den Klassiker ist bei ganz langen 
+[01:44:04-7 @doobee] Abfahrten diese 300m Schächte (äh) du ganz schnell unten das Seil aus dem Bremsgerät raus nehmen muss weil das so heiß ist (ähm) das es sonst anfangen würde zu schmelzen.
+[01:44:17-4 @doobee] solang du fährst nicht weil ja sozusagen immer nur kurz heiß wird jedes Stück Seil und (ähm) so so lange Schächte bin ich noch nie gemacht. Ich glaub den längsten den ich 
+[01:44:27-5 @doobee] gemacht hab war 40m aber der Geruch von warmen Kunstoffseil der da vor deiner Nase aus dem Bremsgerät kommt selbst bei solchen Schächten ist psychologisch nicht 
+[01:44:35-5 @doobee] ganz einfach für den Anfänger.
+[01:44:37-1 @timpritlove] Aber das verstehe ich jetzt garnicht ich ich dachte das Seil läuft da die ganze Zeit durch das heißt es doch immer nur nen ganz kurzen Berührungsmoment.
+[01:44:42-9 @doobee] Ja ja gut aber dabei wirds warm und massive Reibung die dein Gewicht von sagen wir mal (äh) 65 Kilo 
+[01:44:50-6 @timpritlove] Plus Ausrüstung
+[01:44:52-1 @doobee] Ja ja genau Plus Proviant dann sind wir ja schon schnell bei 100 (kichern)
+[01:44:56-6 @timpritlove] Ja
+[01:44:57-5 @doobee] (ähm) 
+[01:44:58-0 @timpritlove] Wenn wir da nicht sowieso schon sind ja.
+[01:44:59-1 @doobee] Die muss jede Menge Energie vernichten 
+[01:45:00-9 @timpritlove] (reusper) (hm) 
+[01:45:01-7 @doobee] und (ähm) zum Beispiel wenn das Seil nass ist und das Bremsgerät häng halt in der Regel ziemlich genau vor deiner Nase und da steig Dampf von auf (kicher) und unter dir 
+[01:45:10-5 @doobee] sind noch 30m (äh) 
+[01:45:13-5 @timpritlove] (lachen) 
+[01:45:13-8 @doobee] Wie gesagt ich hab ja Höhenangst 
+[01:45:14-9 @timpritlove] (lachen) wie passend Höhenangst in der Höhle
+[01:45:18-0 @doobee] von unten krieg man gesagt "Runter kommen sie alle" 
+[01:45:20-4 @timpritlove] (ehem) 
+[01:45:20-7 @doobee] "Ich steh hier" Gut das war aber im Prinzip die (ähm) die Grundtechniken waren schon lange da also auch Seeleute haben ja so Sachen wie die Ankerwinde bremsen 
+[01:45:30-3 @doobee] damit und so Kram.
+[01:45:32-1 @timpritlove] Ja
+[01:45:33-6 @doobee] (ähm) Was dann aber erfunden wurde war (ähm) ne Sache wie ich am Seil wieder hoch komme. Da gabs einmal rafinerte Knotentechniken Posiks die setzen Bergsteiger 
+[01:45:44-5 @doobee] jetzt immer noch zur Sicherheit ein und (ähm) Geräte die Seilklemme heißen. Juma war glaub ich die erste Firma die das erfunden hat wie Puma bloß mit "J" (ähm).
+[01:45:59-5 @doobee] Geräte mit denen ich an nem Seil also sozusagen die ich ans Seil mache und die sind da Stationär und nach oben kann ich sie schieben und nach unten nicht. Das ist jetzt im 
+[01:46:09-3 @doobee] Prinzip das Grundprinzip ich hab zwei dieser Dinger (ähm) dieser Seilklemmen üblicher Weise hat man eine so auf Beckenhöhe sitzen und eine an der Hand und von der an der 
+[01:46:23-4 @doobee] Hand geht nen Seil wo man mit dem Fuß drin steht und was man jetzt einfach macht ist Bein anziehen und Hand hoch also das Ding hoch schieben das obere und das rastet dann ein 
+[01:46:35-9 @timpritlove] (ehem) 
+[01:46:36-8 @doobee] und jetzt stellt man sich hin und hebt sich selber damit 30, 40, 50cm hoch und dabei rutscht dann das Teil was auf Beckenhöhe ist durch. 
+[01:46:45-2 @timpritlove] (ehem) 
+[01:46:46-0 @doobee] Dann löse ich wieder das Obere schiebs hoch, stell mich wieder hin und (äh) gewinn so mit jedem also im Prinzip ist es wie ne ne Leiter hochsteigen die Bewegung einfach 
+[01:46:57-3 @doobee] rauf runter.
+[01:46:58-0 @timpritlove] (ehem) 
+[01:46:58-6 @doobee] Wenn man das schön geübt hat und die längen der ganzen Sachen und Verhältnisse zu einander gut eingestellt hat geht das recht flott (ähm) ist viel weniger anstrengend als ne 
+[01:47:07-9 @doobee] Strickleiter, man kann jederzeit anhalten man ist ja an dem Seil fest (ähm) und sich einfach hängen lassen und damit war eigentlich der Durchbruch gemacht das man diese tiefen 
+[01:47:18-1 @doobee] Höhlen.
+[01:47:18-7 @timpritlove] Also heißt das Seilsteigklemme heißt das ne oder Seil..
+[01:47:22-7 @doobee] Ja ich glaub schon also 
+[01:47:24-1 @timpritlove] Steigklemme
+[01:47:24-5 @doobee] Wikipedia da ist jedenfalls Einseiltechnik oder SRT's single rope technique
+[01:47:28-9 @timpritlove] Ja 
+[01:47:29-6 @doobee] (ähm) auch erklärt. 
+[01:47:32-3 @timpritlove] Ja und auch die Steig teilweise auch als Seilklemme bezeichnet ok alles klar (ehem) das ist das.
+[01:47:38-0 @doobee] Tja das war denn der Durchbruch wo die sich plötzlich an die ganzen großen tiefen Höhlen machen konnten.
+[01:47:43-7 @timpritlove] Das heißt mit so zwei Klemmtechniken im Prinzip also Bremsklemmtechniken konnte man mit einem Seil beliebig weit runter 
+[01:47:52-2 @doobee] Genau
+[01:47:52-6 @timpritlove] also solang das Seil ist sozusagen bzw. wenn man ja weiß nicht mit mehren macht man also überbrückt immer nur das was man mit einem Seil hinkriegt. Man braucht halt ein Seil 
+[01:48:04-1 @timpritlove] was lang genug ist.
+[01:48:04-9 @doobee] Ja genau (äh) das gehört so zu den beliebten 
+[01:48:07-3 @timpritlove] Aber 200m Seil ist ja auch jetzt nicht gerade wenig was man so mitführen muss ne
+[01:48:11-3 @doobee] Ja das sind halt die mörder Höhlen ja.
+[01:48:13-3 @timpritlove] (hm) ok
+[01:48:13-7 @doobee] (ähm) Man kann auch das ist tatsächlich auch das schöne man kann mit diesen Gerätschaften auch über Knoten drüber. Das ist nicht schön aber letztendlich habe ich Sachen 
+[01:48:24-7 @doobee] wo ich das Seil runterfahren kann, ich kann Sachen mit dem am Seil einhängen anhalten kann die Steigklemmen. Das heißt ich fahr mit den Abfahrgerät bis zu dem Knoten 
+[01:48:32-8 @doobee] mach dann das Zeug diese Steigklemmen ans Seil stell mich darein mach mein Runterfahrgerät ab mach das unterm Knoten wieder ran 
+[01:48:43-7 @timpritlove] (ehem) 
+[01:48:44-3 @doobee] und mach die Steigklemmen wieder raus und fahr weiter.
+[01:48:47-0 @timpritlove] Warum warum sollte man einen Knoten dadrin haben?
+[01:48:49-2 @doobee] Also weil dein Seil zu kurz ist wäre jetzt eine Sache 
+[01:48:51-7 @timpritlove] Ach so 
+[01:48:52-6 @doobee] (ähm) oder was typisch ist, so Seile sind gegen Felskanten sehr empfindlich. Man hat nicht nur nen Knoten sondern man hat irgendwo noch nen Karabiner an der Seite in der 
+[01:49:03-5 @doobee] Wand wo das Seil festgeknotet ist 
+[01:49:06-2 @timpritlove] Ja
+[01:49:06-4 @doobee] nennt man dann Umsteigestellen die sind noch relativ harmlos weil man sich irgendwie an der Wand auch abstützen kann. Der Knoten ist schon recht doof mitten im Seil 
+[01:49:14-3 @doobee] und ganz doof ist wenn man bis zu dem Kno auf den Knoten drauf gefahren ist dann kann man das ganze Zeug nicht entlasten um abzukriegen 
+[01:49:21-2 @timpritlove] (hm) 
+[01:49:21-6 @doobee] dann kommt der unter Höhlenforscher sehr beliebte und berühmte einarmiger Klimmzug den machen muss um das Zeug zu entlasten an dem Seil nur 
+[01:49:30-8 @timpritlove] (ehem) 
+[01:49:32-1 @doobee] (ähm) das das sind halt so die the real live wieder (ähm) wo man ganz viel üben muss und aber auch da immer im Prinzip immer die Option hat an dem Seil hängen zu bleiben 
+[01:49:43-9 @doobee] und sagen "rettet mich" 
+[01:49:47-9 @timpritlove] Oder es selber hinzukriegen ja klingt sehr romantisch irgendwie mitten in soner dunklen (äh) Höhle tief (äh) unten. Wirds da eigentlich dann auch signifikant wärmer also
+[01:49:57-8 @timpritlove] nicht wirklich also eher kalt. Da hängt man dann so in dieser Dunkelheit irgendwie und ist auf son Knoten aufgefahren und dann muss man irgendwie auch noch sein eigenes 
+[01:50:06-6 @timpritlove] Gewicht da hochziehen..hach..
+[01:50:08-7 @doobee] Ja 
+[01:50:09-2 @timpritlove] Ok 
+[01:50:10-1 @doobee] Ist halt Sport
+[01:50:10-6 @timpritlove] gut
+[01:50:11-3 @doobee] und (ähm) also
+[01:50:13-2 @timpritlove] Am Ende des Tages ist es dann doch Sport.
+[01:50:14-6 @doobee] Meine erste richtig große Höhlentour also nicht im Lehm im bergischen Land rumkriechen sondern in Frankreich so Höhlen mit Schächten und Flüssen drin und man muss nen 
+[01:50:23-7 @doobee] Neoprenanzug anhaben, klar in dem Fluss ist dann ok im Neoprenanzug aber wenn du dich das Seil wieder hocharbeitest irgendwie dann ölst du aus alles Poren die ja alle 
+[01:50:32-7 @doobee] gut mit neopren verschlossen sind und (ähm) da kamen wir dann zu nem überhängenden Wasserfall. So das war im Prinzip nen Loch in der Decke da stürzte das Wasser 
+[01:50:41-9 @doobee] durch und 3m runter war ein Kämmerchen (ähm) und ja dann sind wir runtergesprungen und hatte mir schon große Mühe gegeben mich locker zu machen, wir gingen davon aus 
+[01:50:56-3 @doobee] das die Höhle am andern Ende auch offen ist wo der Fluss rausfließt. Ja und ne Stunde später stellen wir fest das Loch den Ausgang hat jemand zugeschoben. 
+[01:51:05-7 @timpritlove] Mit Geröll?
+[01:51:07-3 @doobee] Mit nem Bulldoser 
+[01:51:08-2 @timpritlove] Ah
+[01:51:08-7 @doobee] Der Bauer wahrscheinlich der nicht dauernd wollte das da Leute... Muss man auch sagen (äh) schon die Höhle sicher sehr wenn nur noch halb so viele Leute dadurch trampeln 
+[01:51:17-2 @timpritlove] (ehem) 
+[01:51:17-8 @doobee] und dann gings zurück zu dem Wasserfall wie gesagt Loch in der Decke kommt Wasser raus, 
+[01:51:22-2 @timpritlove] (lachen)
+[01:51:23-8 @doobee] (ähm) 
+[01:51:24-9 @timpritlove] und dann musstet ihr durch den Wasserfall durch
+[01:51:26-4 @doobee] Ja der erste irgendwie mit 30 Jahren Höhlenerfahrung hop war er oben, irgendwie Räuberleiter dann der nächste irgendwie nicht ganz so erfahren irgendwie mit allerlei 
+[01:51:37-4 @doobee] rumgeeiere ja dann waren wir nur noch zu zweit, jetzt du... (nuschel) ich glaub ich schaff das nicht... ja willste hier bleiben...
+[01:51:46-7 @timpritlove] (lachen)
+[01:51:48-0 @doobee] so sind sie.. (ähm) gleichzeitig aber doch (ähm) die oben haben gezogen dem unter der noch "willste hierbleiben" sagt dem durfte ich auf die Knie, auf die Hände, auf die Schultern 
+[01:52:00-2 @doobee] und auf den Kopf treten (kichern) irgendwie kommt man dann halt hoch.
+[01:52:03-8 @timpritlove] (ehem) 
+[01:52:04-4 @doobee] Ja aber irgendwie die Option ich bräche jetzt einfach mal ab diese Radtour ist mir zu anstrengend oder der Maraton hat man halt nicht (lachen)
+[01:52:10-7 @timpritlove] (lachen) Ahja ok hat man da auch schon so Angst?
+[01:52:16-9 @doobee] Nee also ich würde nicht sagen (ähm) also nicht angst um sein Leben weil wieder irgendwie ich hätte ja tagelang dableiben könne ne...son bisschen Essen dabei oder 
+[01:52:36-9 @doobee] im Zweifel hätte man dann sagen können, so ihr jetzt alle raus ruft in Frankreich Spelios Sekur an. Die kommen dann letztendlich hätten die nur zum Auto gemusst und ne 
+[01:52:46-9 @doobee] Strickleiter holen
+[01:52:47-7 @timpritlove] Ja 
+[01:52:48-0 @doobee] und zur Not oben nen Haken reinbohren das wäre halt alles mächtig blamabel gewesen 
+[01:52:52-5 @timpritlove] ok
+[01:52:52-9 @doobee] (ähm) 
+[01:52:54-1 @timpritlove] Also ist eher ne Frage der persönlichen Herausforderung 
+[01:52:56-0 @doobee] Ja
+[01:52:56-9 @timpritlove] der wie man da sich selber engagiert.
+[01:52:59-7 @doobee] Und als der typische Nerd bin ich ja so garnicht gewöhnt mir auch physisch was zuzutrauen (äh) so mit Sport und da nicht ausrutschen und so na das ist tatsächlich 
+[01:53:10-5 @doobee] ne totale Erweiterung des Horizonts und gleichzeitig die sind halt nicht Leistungsorientiert (ähm) da wird keiner wo hin getrieben wo er nicht will aber klar wenn man mit 
+[01:53:20-3 @doobee] ner 4er Gruppe sagt ich will nicht und kann nicht weiter gucken die wenn die meinen du bist vorm Nervenzusammenbruch dann drehen sie um und ansonsten sagen die 
+[01:53:30-0 @doobee] drei gut kein Problem bleib hier zwei Stunden allein im Dunkeln sitzen das überlebst du (höhö) 
+[01:53:36-1 @doobee] Wir holen dich aufen Rückweg wieder ab.
+[01:53:37-3 @timpritlove] (ehem) Viel spaß
+[01:53:38-4 @doobee] Genau
+[01:53:40-4 @timpritlove] Das will man dann natürlich auch nicht.
+[01:53:41-5 @doobee] Jaa also würden sie glaub ich nie machen wenn sie das Gefühl hätten man hätte dann halt nen nervliches Problem aber (ähm) ist halt auch kein Ponyhof.
+[01:53:48-9 @timpritlove] (ehem) Noch mal mit diesen klettern also (äh) diese ganze Klettertechnik wurde sozusagen dann wirklich jetzt von Petzel und anderen Höhlenforschern sozusagen erfunden.
+[01:54:00-7 @doobee] Genau und das ganz was man jetzt mit Gebäudeklettern und beim Geochashing und Baumpflege sieht es letztendlich alles von Höhlenforschern übernommen worden 
+[01:54:08-5 @doobee] weil der Petztl da halt auch Produkte draus gemacht hat und die verkauft 
+[01:54:11-3 @timpritlove] (ehem) 
+[01:54:11-8 @doobee] mit seiner Firma (ähm). Nen befreundeter Höhlenforscher hat dadurch aus Probleme mit, der ist Gärtner und heutzutage braucht man ein Baumkletterschein das man 
+[01:54:21-4 @doobee] in Bäume klettern darf und all die Techniken beherrscht.
+[01:54:24-5 @timpritlove] Ein Baumkletterschein?
+[01:54:26-0 @doobee] Ja ein Ausweis das man in Bäumen rumklettern darf um dadrin rumzusägen. 
+[01:54:30-3 @timpritlove] Nein!?
+[01:54:31-5 @doobee] Ja! Das ist Deutschland, Berufsgenossenschaft...
+[01:54:34-5 @timpritlove] Also wenn mans beruflich macht?
+[01:54:36-2 @doobee] Jaja klar als Gärtner halt..
+[01:54:38-6 @timpritlove] Ja ok verstehe
+[01:54:39-7 @doobee] und dreht halt total am Rad weil er sagt ich hab das gemacht da wusste noch garkeiner bei den Gärtner das das geht, ihr wollt jetzt nicht wirklich das ich 2 Wochen auf Schulung 
+[01:54:47-6 @doobee] gehe?
+[01:54:48-2 @timpritlove] (kichern) (ehem) (.....) Seilunterstützte Baumklettertechnik gibts auch 
+[01:54:59-0 @doobee] Genau da gibts auch Zertifikate und dann gibts noch irgendwie den Höhlenarbeiter gibts auch Zertifikate und das ist tatsächlich in weiten Teilen davon gekommen speziell 
+[01:55:08-5 @doobee] bei der Baumklettertechnik hab ich das halt, ich muss den Baum rauf und wieder runter 
+[01:55:11-9 @timpritlove] (ehem) 
+[01:55:12-3 @doobee] beim Höhlenarbeiten kann ja oft irgendwie auf das Fabrikdach drauf laufen, mich abseilen und unten absteigen ich muss nicht wieder hoch..oft. 
+[01:55:23-1 @timpritlove] Also hatte das sozusagen an der Stelle nen relativ großen Einfluss kann man sagen also ich schon 
+[01:55:29-2 @doobee] jaja
+[01:55:29-1 @timpritlove] etwas wo sozusagen aus diesen Miniaturhobby (äh) auf einmal dann doch nen technischer Durchbruch geworden ist der  auch in ganz andern Branchen ne große Rolle gespielt hat.
+[01:55:38-3 @doobee] Ja und (ähm) so war ich ja auch über dieses Urban exploration und so dazu gekommen und von Geocashing, ich hat halt angefangen mit die Techniken drauf zu schaffen 
+[01:55:48-4 @doobee] (ähm) denn ganz viele Absicherungen gehen ja einfach davon aus das du irgendwo nicht hoch kommst. Da ist die im untersten Stockwerk sind zugemauert.
+[01:55:59-9 @timpritlove] Ja
+[01:56:00-6 @doobee] Im 1. vielleicht auch aber im dritten nicht mehr.
+[01:56:02-9 @timpritlove] Ja
+[01:56:03-5 @doobee] (ähm) Wenn du dich aber relativ frei auch vertikal bewegen kannst kannst du plötzlich ganz bequem an Orte wo du sonst nicht hin kommst.
+[01:56:11-8 @timpritlove] Weil du von oben kommst?
+[01:56:12-5 @doobee] Ja oder von unten halt seil drüber werfen also wenn was zum drüber werfen ist.
+[01:56:17-2 @timpritlove] und dann hoch
+[01:56:17-8 @doobee] Genau (ähm) da rechnet halt keiner mit denn selbst wenn du ne Leiter hättest brauchst du ja oft auf der andere Seite wieder ne Leiter so bei so Kraftwerksgebäuden und so.
+[01:56:26-8 @timpritlove] Ja
+[01:56:27-1 @doobee] (ähm) Und da war ich aber auch an den Punkt wo ich dachte jetzt musste eigentlich mal mit Leuten die das können das machen weil alles autodidaktisch bei was wo man sich 
+[01:56:35-5 @doobee] doch ganz gut umbringen kann auch (ähm) und sind halt einfach so Sachen in welcher Reihenfolge mach ich die verschiedenen Karabiner an meinen Gurt und so 
+[01:56:42-2 @timpritlove] (hm) 
+[01:56:42-5 @doobee] (äh) das war was was sicher ein Teil war der mich Richtung Höhlenforscher dann trieb. Denn die Bergsteiger die versuchen ja eigentlich ohne Seile zuarbeiten die haben 
+[01:56:52-0 @doobee] die Seile ja nur als Sicherung (ähm) während das was die Höhlenforscher machen eher so als technisches Klettern genannt wird. Da will man eigentlich garkein Felskontakt haben 
+[01:56:59-9 @doobee] sondern die ganze Zeit nur in dem Seilgedöns sein.
+[01:57:01-8 @timpritlove] (hm) 
+[01:57:02-2 @doobee] Geochasher auch in die Richtung.
+[01:57:03-8 @timpritlove] Gibts dann auch so bisschen so das Äquivalent zu Parkour für so (äh) Klettertypen das man sich jetzt hier ne alte Industriegelände nimmt und über die Dächer...(kichern) 
+[01:57:15-3 @timpritlove] sich überall hoch und wieder herunter seilt?
+[01:57:17-7 @doobee] (ähm) Also diese Parkoursache wüsste ich nicht aber speziell die Belgier sind auch sehr in den Speliosportiv zugange 
+[01:57:26-9 @timpritlove] (ehem) 
+[01:57:27-9 @doobee] (ähm) und da gibts mehrere Höhlenforschertechnik ah Wettbewerbe garnicht so geht nicht so um (äh) Wer größer, schneller, weiter. Einer ist zum Beispiel in Brüssel 
+[01:57:38-9 @doobee] iner Kirche und die spannen unter anderem zwischen den beiden Kirchtürmen nen Seil da kannste dann rüber. 
+[01:57:47-1 @timpritlove] (lachen)
+[01:57:48-5 @doobee] Und halt außen an der Kirche auch solche Sachen 
+[01:57:51-1 @timpritlove] (ehem) 
+[01:57:51-7 @doobee] (äh) Technik üben und das ist ne richtig hohe Kirche mitten in Brüssel. Dann gibts son altes Vor außen 1. Weltkrieg auch mit jeder Menge Tunnel und Kriechgänge 
+[01:58:03-1 @doobee] halt Lüftungsschächte 
+[01:58:04-1 @timpritlove] (ehem) 
+[01:58:04-5 @doobee] da machen die auch son Speliowettbewerb. Dann hast halt solche Sachen du kommst aus sonem Lüftungsschacht raus in nen großen Raum, du kommst da in 5m raus aus der 
+[01:58:14-7 @doobee] Wand und neben dir hängt nen Seil und jetzt musst du aus dem Lüftungsschacht wo du die Arme nur nach vorne halten kannst irgendwie an dem Seil dich befestigen also nicht
+[01:58:21-7 @doobee] wie Tarzan dranspringen sondern deine ganze Ausrüstung einhängen
+[01:58:24-5 @timpritlove] Verstehe 
+[01:58:25-2 @doobee] und dann gibts noch nen Wettbewerb hier in Belgien ich glaub die haben in nem Steinbruch insgesamt so was wie 5km Kletterstrecke ausgelegt und zu den Höhepunkten 
+[01:58:35-9 @doobee] ist du hängst an nem Seil über nen See und auf der Mitte des Seils musst du dich abseilen 
+[01:58:40-1 @timpritlove] (kichern)
+[01:58:40-7 @doobee] und über den fiesen schlammigen Steinbruchsee geht das Seil runter und da ist ein Surfbrett auf das du dich abseilen musst und damits nicht langweilig ist ist 5cm bevor du das 
+[01:58:53-1 @doobee] Surfbrett berührst nen Knoten in dem Seil.
+[01:58:56-8 @doobee] Über den du dich dann rüber arbeiten also sehr sportlicher Ansatz.
+[01:58:59-9 @timpritlove] Versteh und so was gibts in Deutschland garnicht?
+[01:59:01-7 @doobee] Nee wohl weniger.
+[01:59:03-2 @timpritlove] das hier eher diesen
+[01:59:04-8 @doobee] Wissenschaftlichen Ansatz
+[01:59:06-9 @timpritlove] Hier muss geforscht werden
+[01:59:07-6 @doobee] Genau
+[01:59:08-3 @timpritlove] Das ist alles kein Spaß
+[01:59:09-5 @doobee] Ja
+[01:59:10-2 @timpritlove] (ehem) 
+[01:59:10-6 @doobee] Das auch die deutsche Sicht 
+[01:59:13-2 @timpritlove] Könnte aber vielleicht mit dem anstehenden Generationswechsel ja vielleicht (äh) da noch ändern.
+[01:59:17-6 @doobee] Naa wir haben ja auch rechtliche Probleme also wie gesagt die Höhlen sind zu Teil ist das Betreten gesetzlich verboten ja nach Bundesland
+[01:59:23-1 @timpritlove] (ehem) 
+[01:59:23-4 @doobee] (ähm) ist übrigens ganz interessant gibts auch jede Menge DDR-Geschichte. Den waren die Höhlenforscher ganz suspekt und sie vermuteten das der Verband der Deutschen 
+[01:59:32-3 @doobee] Höhlen und Kastforschern ne Deckorganisation vom Militärgeographischen Dienst der Bundesrepublik wären 
+[01:59:38-3 @timpritlove] Kichern)
+[01:59:38-9 @doobee] der die ganzen Hohlräume im Osten nur ausspionieren wollen
+[01:59:43-2 @timpritlove] um um um Wegen und der Mauer durch zu finden oder was
+[01:59:46-5 @doobee] Ja oder irgendwie um Waffen zu lagern oder sonst was oder Zellen...und die haben wohl tatsächlich den Verbandsvorsitzenden hier aus Westdeutschland jahrelang beschattet.
+[01:59:57-0 @timpritlove] Deswegen
+[01:59:57-9 @doobee] Also im Auto vor dessen Haus gesessen
+[01:59:59-6 @timpritlove] Weil sie dachten er könnte irgendwie mit den Höhlenforschern im Osten zusammen hängen 
+[02:00:03-4 @doobee] Na hat er auch der hat ja da also...
+[02:00:05-5 @timpritlove] Ach so es gab freundschaftliche Beziehungen sozusagen aber jetzt nicht mit dem Ziel 
+[02:00:08-5 @doobee] Ja
+[02:00:09-0 @timpritlove] da militärische Lager unterirdisch aufzubauen. Na gut vielleicht hat er das ja auch...
+[02:00:12-9 @doobee] Ja und also die Nazis haben ja auch jede Menge unterirdische Lager gemacht also da sind wir wieder beim Urban explortion (ähm) da um Wuppertal rum gabs nen 
+[02:00:23-0 @doobee] Eisenbahntunnel der in ne Flugzeugfabrik umgebaut wurde oder Flugzeugreparatur...ja die Flügel mussten ab (ähm) wo halt noch die Kräne unter der Decke zumindest die Reste 
+[02:00:32-1 @doobee] davon zusehen sind dann wollten die nen riesiges Hydrierwerk also was (ähm) letztendlich Benzin herstellt da im Sauerland unterirdisch mach da gibts noch riesige Räume von 
+[02:00:44-0 @doobee] natürlich..Doramittelbau ist glaub ich auch die unterirdische Sache ne..also da gabs so einiges. Der Herr Nestor der deutschen Höhlenforschung der letztendlich 
+[02:00:56-1 @doobee] das ganze Thema angeschoben hat und die Vereine gegründet und so (ähm) und das erste deutschlandweite Verzeichnis über Höhleninformation machte. Benno Wolf 
+[02:01:12-1 @doobee] der hatte auch noch das Problem ich glaub der war Justizangestellter im Justizministerium oder so was oder im...also jedenfalls eigentlich arbeitete er bei der Verwaltung.
+[02:01:22-4 @doobee] Naja... war Beamter. Der hatte das Problem auch noch Jude zu sein.
+[02:01:29-9 @timpritlove] (hm) 
+[02:01:32-7 @doobee] Und den haben sie tatsächlich (äh) anscheinend einkassiert um an dessen Bibliothek zukommen. Der ist dann halt (äh) im KZ verschwunden und (äh) die ganzen 
+[02:01:45-6 @doobee] Höhlenforschungsunterlagen wurden halt benutzt um rauszufinden wo man denn noch unterirdische Fabriken und so einrichten kann. Also der das deutsche Höhlenforschung 
+[02:01:53-8 @doobee] und Staat hatten da schon mal nen recht schwierigen 
+[02:01:57-1 @timpritlove] schwieriges Verhältnis
+[02:01:57-5 @doobee] Start (äh) dann in der DDR diese Sache ich glaub das war ein generelles Betretungsverbot von unterirdischen Hohlräumen, in einigen Bundesländern ist das immer noch 
+[02:02:05-9 @doobee] die sind halt absolut geschützt und die Deutschen sind halt so drauf schon singuläre Befahrungen können irreparable Schäden hervorrufen am liebsten geht da garkeiner rein.
+[02:02:15-3 @timpritlove] Gibt auch einen Dr. Benno Wolf Preis der verliehen wird.
+[02:02:20-7 @doobee] Genau 
+[02:02:21-3 @timpritlove] Für besondere Leistungen im Höhlenschutz und der Höhlenforschung.
+[02:02:25-2 @doobee] Den hatten glaub ich die Hessen letztes Jahr bekommen. 
+[02:02:28-3 @timpritlove] (hm) Aber du weißt nicht mehr wofür?
+[02:02:31-7 @doobee] Achja für besondere Verdienste das sie irgendwie was geschützt haben. Na also das (ähm) ist nen bisschen Problematisches Verhältnis andererseits erfrischend anders 
+[02:02:42-2 @doobee] als wir Hacker das so kennen. Weil unser Verhältnis zum Staat ist ja auch immer schwierig und selbst die Odays wollen sie ja eigentlich nicht. 
+[02:02:51-6 @timpritlove] Die serodays die 
+[02:02:52-8 @doobee] Genau die Exployds die noch keiner kennt also so generell irgendwie 
+[02:02:58-4 @timpritlove] Achso du meinst wenn jetzt jemand ne Höhle gefunden hat und oder nen Eingang kennt dann will man das erstmal niemanden mitteilen.
+[02:03:05-8 @doobee] Nja genau da sind wir bei der Geheimhaltung aber beim Staatsverhältnis sind wir da noch an einer anderen Sache wir vermessen halt die Höhlen. Also der Arbeitskreis 
+[02:03:14-8 @doobee] Kluterthöhle hat glaub ich 250 Höhlen oder so vermessen.
+[02:03:17-8 @timpritlove] Wem gehören die denn eigentlich?
+[02:03:19-8 @doobee]Ahh schwierig schwierig schwierig halten sie den Gedanken fest machen wir gleich weiter. Wir vermessen die Dinger
+[02:03:26-8 @timpritlove] (ehem) 
+[02:03:27-5 @doobee] (ähm) Da geht richtig viel Zeit drauf, wir haben richtig viel know how uns drauf geschafft und irgendwie in nem Verein bilden uns halt gegenseitig aus  wie man mit dem 
+[02:03:35-4 @doobee] Freiberger Hängezeug und so weiter und wie unter den Bedingungen Pläne zeichnet und dann Reinzeichnung. Wenn man diese also oft würde man die Vermessung 
+[02:03:47-3 @doobee] überhaupt nicht kaufen können also es gibt kein Dienstleister der es machen würde. (ähm) Zum Beispiel geht glaub ich die Berufsgenossenschaft davon aus das Hohlräume unter 
+[02:03:57-8 @doobee] 60cm Durchmesser da darf keiner rein der in Lohn und Brot steht. Bei 60cm Durchmesser lacht der Höhlenforscher und denk große Halle (ähm) 
+[02:04:07-6 @timpritlove] (lachen)
+[02:04:09-0 @doobee] Also die Behörden wenn die die Höhlen vermessen haben wollten (äh) geht garnicht oder wenn wäre es unbezahlbar, zahlt man halt für so eine einzelne Höhle 50.000 Euro
+[02:04:19-6 @doobee] beim Geologischen Dienstleister und 250 Höhlen brauchen wir garnicht auszurechen. 
+[02:04:27-4 @timpritlove] (hm) 
+[02:04:27-9 @doobee] Kann sich das Geologische Landesamt NRW nicht leisten. Das heißt man ist tatsächlich in der Lage das man nen dicken Stapel Dinge hat den die Behörden gerne von einem hätten
+[02:04:39-9 @doobee] und den man denen nicht geben muss und plötzlich kann man ganz anders mit Behörden zusammenarbeiten.
+[02:04:47-4 @timpritlove] (kichern)
+[02:04:48-1 @doobee] Also wir kennen alle zum Beispiel diese Diskussion um um Kartenmaterial eigentlich habe ja die (äh) Landeskartasterämter oder wie sie grad mal wieder umbenannt worden
+[02:04:59-0 @doobee] (äh) haben ja wunderbare Karten und war ja irgendwie Ende der 90. die große Abmahnwelle wenn man Stadtplandienste eben auf seiner Webseite hatte
+[02:05:07-1 @timpritlove] (ehem) 
+[02:05:07-8 @doobee] zack kostet Geld.
+[02:05:08-6 @timpritlove] (ehem) 
+[02:05:08-7 @doobee] Also irgendwie vor Open Streetmap war es eigentlich immer nen Problem an legale Karten zukommen oder die man in Büchern oder sonst wie verwendet hat. Konnten die 
+[02:05:17-0 @doobee] Höhlenforscher nie versteh warum das ein Problem ist, konnten auch nie verstehen was das mit Open Streetmap soll. Ja wieso denn frag mal beim geologischen Dienst 
+[02:05:25-7 @doobee] ja aber die wollen doch dick Geld haben...nee..klar der geologische Dienst möchte die Höhlenforscherkarten und hat überhaupt nichts dagegen wenn man in dem Buch jetzt mal 
+[02:05:34-4 @doobee] das Messtischblatt oder sonst was von denen verwendet wir sind ja alle Freunde. Haste als Hacker nicht, bei der Behörde anrufen ob du mal eben die Karte in dein Buch abdrucken 
+[02:05:44-2 @doobee] darfst 
+[02:05:45-2 @timpritlove] (hm) 
+[02:05:46-7 @doobee] (ähm) Also das ist ne ganz interessante Beziehung es macht halt ne Gruppe ne Leistung die (ähm) die Gesellschaft nennen wir es mal dann doch immer wieder brauch. 
+[02:05:59-1 @doobee] Kann ich da ne Brücke lang bauen ohne das mir das Ding und das Fundament wegsackt und (ähm) das sind wir Hacker ja garnicht gewöhnt ne. Wir machen ne Leistung 
+[02:06:09-1 @doobee] eigentlich wo wir auch meinen die die Gesellschaft doch öfters mal brauchen könnte und jetzt hat der CCC es einiger Maßen in Deutschland geschafft nicht nur als Haufen 
+[02:06:17-8 @doobee] Harlunken dargestellt zu werden aber im Großen und Ganzen (ähm).. ja de haben mal wichtige Kritikpunkte angebracht aber das wars dann auch und irgendwie jaa diese 
+[02:06:27-4 @doobee] open source Hippys irgendwie die haben auch nen bisschen Software geschrieben aber Microsoft kann das besser. (ähm) 
+[02:06:32-9 @timpritlove] (kichern)
+[02:06:33-6 @doobee] Na in der Lage sind die Höhlenforscher nicht und wir haben das tatsächlich (ähm) in vielen Regionen Deutschlands so hingekriegt das wir für die Behörden und so (ähm) ein 
+[02:06:44-3 @doobee] wichtiger Ansprechpartner sind und Behörden heilfroh sind (ähm) das sich da jemand drum kümmert.
+[02:06:50-3 @timpritlove] Das es sie gibts (hm) 
+[02:06:51-3 @doobee] Also es ist der Arbeitskreis Kluterthöhle ist zum Beispiel (ähm) offiziell Beauftragt von mehreren Städten in der Region alle unterirdischen Phänomenen zu untersuchen.
+[02:07:02-1 @doobee] Da kannste auch mit Grundstückseigentümern ganz anders diskutieren (ähm) 
+[02:07:08-7 @timpritlove] Aber wie wird.. was ich noch nicht ganz verstanden habe wie jetzt damit jetzt umgegangen mit mit soner Erkenntnis? Also angenommen man hat jetzt wirklich mal (äh) die 
+[02:07:16-6 @timpritlove] Rasenmäher (äh) das Rasenmäherloch (äh) sozusagen erfolgreich durchstoßen. Auf einmal tut sich da unten (äh) eine 10km lange (äh) Zauberhöhle wo noch (äh) Dinosaurier 
+[02:07:29-5 @timpritlove] rumlaufen und so weiter auf so 
+[02:07:33-7 @doobee] Ja..hach
+[02:07:35-6 @timpritlove] Gut dann würde man vielleicht anders damit umgehen aber ich meine so mit der normalen Höhle die man jetzt irgendwo im Bergland entdeckt hat, ist ja erstmal die Frage 
+[02:07:43-1 @timpritlove] darf man da überhaupt rein ja was ich mir merken sollte wem gehört das aber vor alle wir geht man mit dieser Entdeckung dann um also legt man sich das jetzt erstmal 
+[02:07:51-0 @timpritlove] ins Regal für den Fall das (äh) mal einer von der Behörde fragt und dann erzählt mans auch und sagt jor da haben wir Erkenntnisse da könnten wir durchaus mal was liefern 
+[02:07:59-2 @timpritlove] und hat so wieder so (äh) Gefangenenaustausch gemacht
+[02:08:03-2 @doobee] Ja und dann Veröffentlicht man in der Zeitschrift der Deutschen Höhlen und Quartsforscher wenns was schönes ist. Das (ähm) aber auch nicht wo es genau ist und es ist alles 
+[02:08:15-3 @doobee] sehr über Beziehungen. Also A. weil die Höhlenforscher ja weniger werden andere Höhlenforscher freuen sie sich immer. Wenn du so die quedentil hast und irgendwo 
+[02:08:25-2 @doobee] anrufst und sagst ich bin jetzt bei euch in der Gegend bin irgendwie von nen andern Verein und du riechst halt wie nen Höhlenforscher (ähm) dann klar kein Problem ich 
+[02:08:34-5 @doobee] nehme mir da können wir mal uns das und das und das angucken zusammen.
+[02:08:42-5 @doobee] Ja genau (ähm) 
+[02:08:44-3 @timpritlove] Ist das die Regel oder ist das jetzt so manchmal oder
+[02:08:46-1 @doobee] Das ist absolut die Regel ist aber regional auch unterschiedlich also in den Alpen wo du vom Tal nen gigantisches Loch oben im Berg siehst da ist natürlich nicht viel mit 
+[02:08:55-1 @doobee] Geheimhaltung.
+[02:08:55-8 @timpritlove] Aber was ist jetzt der Hauptgrund für die Geheimhaltung ist das jetzt hier wirklich (äh) das potenzielle Geisel austauschen mit den Behörden was Informationen (äh) betrifft 
+[02:09:04-9 @timpritlove] und und Zugang zu erhalten oder ist es jetzt um andere Vereine davon abzuhalten oder der Öffentlichkeit die Öffentlichkeit davon abzuhalten?
+[02:09:12-3 @doobee] (ähm) Also zum Teil gibts natürlich so patologische Sachen wo sich (ähm) Vereine untereinander auch bekriegen oder Leute meinen "das ist meine Höhle".
+[02:09:20-9 @timpritlove] Ja
+[02:09:21-3 @doobee] (ähm) Es gibt da ein Fall ich glaub der ist tatsächlich sogar irgendwie bis zum Gefängnis gegangen wo jemand in den Alpen da wo er wohnte und da waren mal andere 
+[02:09:29-8 @doobee] Höhlenforscher unterwegs und hat versucht nen (ähm) Bergfall auszulösen also während die in der Steilwand sich zu dem Höhleneingang hochkletterten von oben Steine runter 
+[02:09:39-7 @doobee] geschmissen.
+[02:09:40-4 @timpritlove] Oh
+[02:09:41-2 @doobee] (ähm) Das ist dann definitiv patologisch. Grundsätzlich gehts aber um die Öffentlichkeit (ähm). Es ist so das Leute einmal irgendwie anscheint in alle Löcher im Boden 
+[02:09:56-0 @doobee] allen Müll rein schmeißen müssen. Loch ist ist von voll (äh) voll Müll also Höhlen entmüllen ist ne große Aufgaben und Tätigkeit auch von uns.
+[02:10:04-9 @timpritlove] Ah verstehe
+[02:10:05-8 @doobee] (ähm) Dann sind zu Teil halt gefährlich oder auch nur potenziell nen bisschen gefährlich aber dann sind wir natürlich gleich (äh) wieder in amerikanischen Verhältnissen 
+[02:10:16-9 @doobee] wer haftet denn? Verkehrssicherung was ist wenn da Kind und dann irgendwie... zum Ausgang muss nen 1,50m hochklettern schafft nen Kind nicht Chaka. Ist natürlich auch 
+[02:10:26-5 @doobee] das findest du nicht so leicht, findeste leichter wenn es sich außen aufen Fels verirrt hat. (ähm) Und dann ne gewisse Zerstörungswut also ich zumindest werde ich auch 
+[02:10:38-4 @doobee] immer irgendwie schief im Verein "ja ja ja kann ich garnicht verstehen Tropfsteine abbrechen und und“ ich kann das schon verstehen.. sone Dachrinne voll Eiszapfen 
+[02:10:46-6 @doobee] mit der Hand lang.. macht schon Spaß. (ähm) Bloß das die Eiszapfen nächstes Jahr wieder kommen und die Tropfsteine halt 20.000 Jahre brauchen. (ähm) Tropfsteine sind 
+[02:10:58-3 @doobee] übrigens auch total (ähm) wichtiges (äh) Klimaarchiv also du kannst aus den Tropfsteinen oft ablesen wie das Klima vorher war 
+[02:11:06-9 @timpritlove] (ehem) 
+[02:11:07-4 @doobee] Also sind tatsächlich auch wertvoll für für die Wissenschaft und nicht nur weil sie hübsch sind 
+[02:11:10-8 @timpritlove] Ja
+[02:11:11-1 @doobee] und selten. (ähm) Es gibt auch tatsächlich nen Fall wo (ähm) Leute so mal beim unsern Verein aufgetaucht sind und zweimal mitgekommen und dann eine der Höhlen aufgebrochen 
+[02:11:22-9 @doobee] und komplett leergeräumt bzw. die Tropfsteine lagen zum Teil noch schön aufgestapelt zum Abtransport im Eingang. Und die sind dann tatsächlich auch erwischt worden 
+[02:11:31-0 @doobee] haben wir auf Ebay gefunden.
+[02:11:33-0 @timpritlove] (ehem) 
+[02:11:33-3 @doobee] (ähm) Und wegen geinschädlicher Sachbeschädigung tatsächlich auch in Bau gegangen. Ist halt auch so als würdest du nen Göthedenkmal kaputt hacken oder so. 
+[02:11:42-4 @timpritlove] (hm) So signifikante Gaffing des Aufendhalt reden wir davon?
+[02:11:47-6 @doobee] Ja 
+[02:11:48-1 @timpritlove] Nen paar Jahre oder was oder wie?
+[02:11:50-4 @doobee] Ja ih glaube es waren 6 Monate oder so aber war halt nicht Bewährung war wahrscheinlich auch jemand der es schonmal gemacht hatte.
+[02:11:55-7 @timpritlove] (ehem) 
+[02:11:55-9 @doobee] (ähm) 
+[02:11:57-2 @timpritlove] Krass
+[02:11:58-5 @doobee] Die 
+[02:11:59-7 @timpritlove] Das heißt man schaut sich die Leute auch schon dreimal an..
+[02:12:02-2 @doobee] Ja genau inzwischen wobei also man ist hin und her gerissen. (ähm) Das mit dem geheim halten hat auch eigentlich ganz gut geklappt also eh a. ist das Internet noch nicht so alt
+[02:12:15-6 @doobee] wo ja so was Katze einmal außen Sack ist
+[02:12:17-8 @timpritlove] (hm) 
+[02:12:18-4 @doobee] wenn in der Zeitung einmal steht wo die Höhle ist findet ja keiner mehr wieder.
+[02:12:21-1 @timpritlove] (kichern)
+[02:12:21-8 @doobee] Also zumindest in den 80. 
+[02:12:22-9 @timpritlove] Ja
+[02:12:22-9 @doobee] Also waren vielleicht drei Dorfjugendliche die das wussten aber schon die nächste Generation nicht mehr.
+[02:12:27-5 @timpritlove] (ehem) 
+[02:12:28-0 @doobee] (ähm) So richtig in Höhle will wollen auch wenige Leute also so durchgehen ja und vielleicht mal auf allen vieren aber wenns halt (ähm) kann man auch bei Wikipedia 
+[02:12:38-9 @doobee] schön nachgucken Schlufen da ist die Schwierigkeitsstufe und ich glaub 4 von 7 ist Körperquerschnitt hat ständig Wandkontakt 
+[02:12:47-7 @timpritlove] (kichern)
+[02:12:48-6 @doobee] und 7 ist dann umfangreiche physische und mentale Vorbereitung auf die Strecke nötig 
+[02:12:53-5 @timpritlove] (lachen)
+[02:12:55-1 @doobee] (ähm) das ist halt der meisten Leute Sache nicht.
+[02:12:57-4 @timpritlove] (ehem) 
+[02:12:58-0 @doobee] Also dieses irgendwie und wir Höhlenforscher kennen uns ja alle untereinander und sind eigentlich auch im Großen und Ganzen nett zueinander und da relativ wenig Bedarf 
+[02:13:04-3 @doobee] gewesen. Die sehen aber auch schon ein (ähm) zum Beispiel das Schimpfworte Schubladenforschung (ähm) ich mach Forschung ich mach den Plan tu den in die Schublade 
+[02:13:16-2 @doobee] und da vergammelt der ist auch nicht gut.
+[02:13:18-3 @timpritlove] Nee
+[02:13:18-9 @doobee] Und (äh) ich denke ich hab son bisschen zumindest in unsern Verein reinbringen können das wir die Geheimhaltung auf Dauer nicht klappen wird also letztendlich wir studieren das 
+[02:13:30-2 @doobee] und immer mehr Höhlenkoordinaten tauchen in Wikipedia auf der Eingänge. Stück für Stück gibt ja dieses Projekt Georeferentzierung (ähm) und ich weiß da brauch ich auch mit 
+[02:13:41-4 @doobee] Wikipedia nicht zu diskutieren im Zweifel gibts die History und Leib und Leben ist nicht in Gefahr (äh). Die sagen macht die Höhlenschutztore fester. 
+[02:13:49-1 @timpritlove] (hm) 
+[02:13:50-7 @doobee] Haben sie wahrscheinlich auch recht. Also gerade bei mir geht (ähm) die Sache zwischen Information for want's to be free und ist besser wir machen ne Klappe drauf sehr auseinander.
+[02:14:05-7 @doobee] Letztendlich ist natürlich die Sache man kann in dem Verein das sind halt alles einfache nette Leute wenn man da vorbeikommt und sagt ich will mal gucken gehen 
+[02:14:12-2 @doobee] nehmen die einen mit klar, (äh) sorgen im Zweifel dafür das man nach der ersten Tour das nen bisschen bereut 
+[02:14:17-4 @timpritlove] (kichern)
+[02:14:17-7 @doobee] Haben wir Auslöse Auslese 
+[02:14:21-6 @doobee] Ach bist du ins Wasser gefallen?
+[02:14:25-2 @timpritlove] War ein bisschen eng.
+[02:14:26-4 @doobee] (ähm) Ja vor allem wenn eng und Pfütze am Boden.
+[02:14:28-4 @timpritlove] Ja
+[02:14:29-6 @doobee] Des (ähm) ist tatsächlich nen richtig schwieriges Thema da es gibt auch Gegenden die sagen nen offener Höhleneingang ist Teil der Natur irgendwie den zu verschließen 
+[02:14:41-9 @doobee] ist ne Sauerei. Sagen andere ja kein Problem machen 3m weiter drin das Tor sieht keiner.
+[02:14:46-9 @timpritlove] (ehem) 
+[02:14:47-5 @doobee] (ähm) Und also in Frankreich (äh) nee in Belgien zum Beispiel wurde ne ach ist 10 Jahre her ne besonders schöne Höhle entdeckt alles voll mit riesigen weißen Tropfsteinen 
+[02:14:59-8 @doobee] oft sind die nämlich lehmig und klein (ähm) und der Verein der das entdeckt hat hat nen Tor vorgemacht und andere Leute fanden das so schlimm das sie das Tor aufgebrochen 
+[02:15:10-0 @doobee] haben und die ganzen Tropfsteine mit Sprühfarbe besprüht damit es keinen Grund mehr gibt nen Tor davor zumachen.
+[02:15:17-8 @timpritlove] Ach oh man 
+[02:15:19-6 @doobee] (ähm) Letztendlich ist aber (ähm) tatsächlich ist die Community dazu gekommen ganz anders also full disclosure oder with postanal disclosure das nen Verschluss
+[02:15:31-2 @doobee] und ne Geheimhaltung besser für die Höhle ist also nur nen Verschluss reicht nicht weil irgendein Tor im Wald gibts immer jemand, ich erinnere an die Schweißgeräte 
+[02:15:38-7 @timpritlove] Ja
+[02:15:39-2 @doobee] (äh) der es aufbricht und (äh) sie halt tatsächlich auch einfach Studien gemacht die haben in Höhlen über 10 Jahre gezählt wie viele Tropfsteine sind abgebrochen bei ner Höhle
+[02:15:49-3 @doobee] die verschlossen ist, bei ner Höhle die offen ist, bei ner Höhle die nur in Begleitung besucht werden darf (äh) und da war schon ganz klar was die beste Lösung ist für die Höhle 
+[02:16:00-6 @doobee] zumindest.
+[02:16:01-3 @timpritlove] Ja
+[02:16:01-7 @doobee] (ähm) Nen Sprüchlein ist auch immer "Eingang verschüttet die Höhle dankts." besseren Höhlenschutz gibts nicht aber will man halt auch nicht. (äh) Hier in Belgien haben 
+[02:16:15-1 @doobee] wir zum Beispiel die Lösung es gibt vom belgischen Höhlenverein das Schloss und als lokaler Verein als Ortsgruppe kriegst du den Schlüssel und damit kannst du in alle belgischen 
+[02:16:28-3 @doobee] Höhlen dann. 
+[02:16:29-3 @timpritlove] (ehem) 
+[02:16:31-1 @doobee] Hat sich aber auch rausgestellt leiden die Höhlen auch sehr drunter das heißt die neuentdeckten schönen da ist auch nicht so sondern dann musst du den Mann kennen der 
+[02:16:39-1 @doobee] den Schlüssel für die Höhle hat und der lässt dich wahrscheinlich da auch nicht alleine rein. Mein Freiheitstrieb findet das doof andererseits (ähm) hätte ich auch ein 
+[02:16:49-3 @doobee] schlechte Gewissen was kaputt zu trampeln tollpatschig wie ich bin und eigentlich wenn ich mal über meine Grundsätzliche Einstellung hinaus gehe finde ich das ganz nett.
+[02:17:00-9 @doobee] #02:16:56-2# Das irgendwie der Piere mich auch noch führt durch seine Höhle 
+[02:17:00-0 @timpritlove] (hm) 
+[02:17:00-5 @doobee] und sagt pass auf da nicht anfassen mit deinen schmierigen Händen und (äh) wahrscheinlich würde ich so alles nicht sehen also ist tatsächlich nen sehr komplexer Bereich
+[02:17:10-3 @doobee] dazu kommt halt auch noch die Fledermäuse sind in den Höhlen. Die Deutschen meinen die Fledermäuse würden total leiden wenn da (ähm) Leute drin rumlaufen
+[02:17:20-3 @doobee] die meiner Erkenntnis nach ist das nicht so also die Kluterthöhle hat 40.000 Besucher im Jahr und im Eingang wohnen Fledermäuse die können das nicht so schlimm finden 
+[02:17:31-7 @doobee] mit den Besuchern.
+[02:17:32-1 @timpritlove] Ok (kichern)
+[02:17:33-5 @doobee] (ähm) Die Höhlenforscher sind da aber auch hin und her gerissen ich hab mal erzählt das die Höhle ist das Geotop und die Viecher sind das Biotop und die Pflanzen 
+[02:17:43-4 @doobee] und der Biotopschutz ist ja ganz hoch und der Geotopschutz ist in Europa nicht ist hoch aufgehängt und wenn ich ne Höhle schützen will finde ich da am besten Fledermäuse 
+[02:17:51-9 @doobee] drin. Mach ich dann nen Fledermausschutztor vor 
+[02:17:55-5 @timpritlove] (lachen)
+[02:17:56-6 @doobee] (ähm) und (ähm) jor..
+[02:18:01-6 @timpritlove] Verstehe (ehem) auch gehackt.
+[02:18:03-2 @doobee] Und dann haben wir das Ennepetaler Modell da sind wir sicher also tatsächlich in Ennepetal haben damit angefangen nicht wir das war 25 Jahre vor meiner Zeit 
+[02:18:14-3 @doobee] die haben also bisher war das so.. Höhle war immer son Graubereich und am besten sagt man nichts steigt da im Dunkeln rein und im Dunkeln wieder raus parkt das Auto 
+[02:18:22-8 @doobee] nen Stück weit weg und gut ist. (ähm) Keiner weiß was, keiner merkt was, keiner, keiner beschwert sich und bisschen anders noch in den Alpen weil da ja zum Teil 
+[02:18:36-1 @doobee] die Behörden auch froh sind wenn du erstmal irgendwie 2.000 Höhenmeter zustieg hast bis zu der Höhle dann sind die Probleme alle anders. 
+[02:18:42-9 @timpritlove] Ja
+[02:18:44-2 @doobee] und die Ennepetaler haben massiv angefangen zu sagen nee  das machen wir so nicht, wir machen das hier alles im hellen. (ähm) Wir schließen mit den Grundstückseigentümern 
+[02:18:56-3 @doobee] wo die Eingänge sind einen Höhlenbetreuungsvertrag ab. Da steht drin wir dürfen in die Höhle und wir sorgen dafür das du irgendwie aus der Haftung raus bist und wir sorgen 
+[02:19:06-7 @doobee] dafür das irgendwie also machen da nen Tor drauf. 
+[02:19:09-6 @timpritlove] Du und der Eigentümer ist aus der Haftung raus.
+[02:19:11-4 @doobee] Genau 
+[02:19:11-8 @timpritlove] (hm) 
+[02:19:11-8 @doobee] und wir sorgen dafür das keine Kinder reinfallen und wir sorgen dafür das der Eingang wieder in Ordnung ist und (ähm) das ist natürlich was was gerade Städte sehr gerne haben 
+[02:19:19-1 @doobee] ne haben nen Problem plötzlich sagt tut sich ein Loch neben der Bundesstraße auf was denn jetzt. Da kommt jemand hier unterschreib und alle deine Probleme sind gelöst.
+[02:19:27-7 @doobee] (ähm) Und dann kommt da ein sehr massives Stahltor rauf was übrigens auch schon wieder sehr anders ist als man sich das vorstellt es hat nämlich 40x40 Durchmesser 
+[02:19:37-2 @doobee] dachte ich auch erstmal spinnen die 
+[02:19:41-2 @timpritlove] Wieso 40x40 jetzt?
+[02:19:43-2 @doobee] (ehem) Kriech mal durch...
+[02:19:45-5 @timpritlove] Ist nen bisschen eng.. ja 
+[02:19:48-3 @doobee] Na oder ist das 50x50 aber Scharniere ragen rein es ist auf jeden Fall unnötig eng aber natürlich dadurch auch viel stabiler.
+[02:19:55-3 @timpritlove] Ja 
+[02:19:56-0 @doobee] Ja 
+[02:19:56-7 @timpritlove] und so teuer..
+[02:19:57-8 @doobee] Ja genau wobei irgendwie bei den Schweißarbeiten also das..
+[02:20:00-9 @timpritlove] Aber da muss man auch erstmal ne Stelle finden wo das auch irgendwie das abdeckt also..
+[02:20:04-4 @doobee] Ja wird im Eingang (nuschel) eigentlich mauern oder betonieren wir den Eingang zu, machen das Tor rein und dann ne Natursteinmauer drum herum.
+[02:20:11-6 @timpritlove] Ah
+[02:20:11-7 @doobee] Das ist so der Klassiker.
+[02:20:13-0 @timpritlove] Verstehe
+[02:20:13-3 @doobee] Also das klappt ganz gut. Ja und (ähm) ganz lustig ist inzwischen sind wir an dem Punkt das die Städte und Grundstückseigentümer und so üblicher Weise sagen 
+[02:20:22-9 @doobee] behaltet ihr den Schlüssel und wir wollen garkeine Kopie die verschlampen wir eh. Also die Grundstückseigentümer noch eher nicht so allein weil man haben will
+[02:20:32-5 @doobee] kennen wir auch, das Passwort brauch ich auch zum dem Druck und Router und sonst was aber (ähm) gerade mit den Städten und Behörden und gleichzeitig wenn du 
+[02:20:42-4 @doobee] eh die ganzen städtischen Grundstücke abklappern darfst im Auftrag der Stadt, kannst du bei dem Grundstückseigentümern (äh) auch wiederum anders auftreten 
+[02:20:51-0 @timpritlove] (hm) 
+[02:20:51-6 @doobee] und wenn du sagst wir haben hier schon mit 200 Leuten einen Vertrag abgeschlossen also man kommt
+[02:20:55-0 @timpritlove] Es ist eher sone kostenlose Pacht?
+[02:20:56-5 @doobee] Ja genau man kommt an den Punkt wo (ähm) wir son positiven Feedbackloop haben. Ich hab hier Loch da verschwinden Steine in der Erde wen ruf ich denn an..ja nicht 
+[02:21:05-6 @doobee] das Bauamt sonder den Arbeitskreis Kluterthöhle. Wir sind inzwischen an Stellen irgendwie also kommt man dahin und sagt hey hier haben sie ja ne Höhle angebaggert 
+[02:21:14-0 @doobee] Bauunternehmen in der Region gerne auch, legen sie die Baustelle jetzt still? 
+[02:21:19-7 @doobee] Nee kriegen wir alles hier alles hier hin irgendwie und dann sind wir wieder bei nen Punkt schweres Gerät, nehmen sie jetzt mal den Bagger und dann machen wir hier mal den 
+[02:21:26-2 @doobee] Eingang schön frei damit wir genau sehen können, junger Mann kommen sie mal (ähm) ja und
+[02:21:31-6 @timpritlove] Dann ist es sozusagen die Höhlenrettung noch mal auf nem ganz andern 
+[02:21:34-9 @doobee] Genau
+[02:21:35-1 @timpritlove] (äh) Level also (hm) 
+[02:21:35-9 @doobee] Das ist auch der Spruch, hab heute schon wieder drei Höhlen gerettet..
+[02:21:38-2 @timpritlove] (lachen)
+[02:21:39-5 @doobee] (äh) Und das ist ein ganz interessantes Modell, es ist natürlich auch in vielen Bereichen das Gegenteil von Freiheit also diese verschlossenen Höhlen ist auch uncool.
+[02:21:46-8 @timpritlove] Ja, na aber es ist natürlich alles sehr nachvollziehbar weil was hat man denn (äh) davon das etwas was uns auch potenziell in der Zukunft noch mal Auskünfte geben kann 
+[02:21:55-9 @timpritlove] von denen wir heute noch garnicht wissen was eigentlich die Frage ist, das man sich das jetzt hier einfach durch Wandalismus oder einfach Unachtsamkeit (äh) kaputt treten lässt
+[02:22:05-0 @timpritlove] zumal es sich ja hierbei auch wirklich um Orte handelt wo man jetzt nicht unbedingt sein muss ja also wir reden jetzt hier nicht über öffentliche Plätze mitten in der Stadt 
+[02:22:14-0 @timpritlove] ja wo irgendwie Privatzeun 
+[02:22:16-0 @doobee] Ja
+[02:22:16-1 @timpritlove] drumrum gezogen wird sonder das sind so Orte wo sagen wir mal ohne diese Community auch niemand wüsste das es die überhaupt gibt. 
+[02:22:22-1 @doobee] Ja und da sind wir nah tatsächlich wieder an dieser Unterwelten Sache 
+[02:22:25-5 @timpritlove] (ehem) 
+[02:22:25-9 @doobee] (äh) könnte man auch sagen den Bunker zumauern der der Bunker freut sich (äh) alles ist nen bisschen schwierig die in bei uns in der Gegend ist halt noch ganz einfach, es gibt da 
+[02:22:36-4 @doobee] Kluterthöhle das ist nen riesen Ding (äh) 5 einhalb Kilometer und gleichzeitig eine Kurstätte und (ähm) also früher wo die Bergleute wegen Asthma gings da viel hin inzwischen 
+[02:22:48-3 @doobee] ist Kur ja nen Luftkur nicht sone Sache also man sitzt in der Höhle atmet und fühlt sich gut und Touristenführungen und die gehen aber nur durch nen kleine Teil der Kluterthöhle 
+[02:22:57-6 @doobee] und dann gibts halt von dem Klutertverein (äh) von der Kur GmbH noch so Abenteuerführung das heißt du kannst dir dies ganze Höhlennummer mit Dreck und dunkel und eng 
+[02:23:08-6 @doobee] (äh) in einem wohl strukturierten Umfeld da erleben und dann kann man den Leuten mal sagen, geht doch dahin (ähm) und gleichzeitig die Kluterthöhle ist halt (äh) auch 
+[02:23:21-2 @doobee] wurde als Luftschutzraum genutzt und ich mein stell dir vor da 4 bis 5.000 Leute drin viele Stunden gelangweilte Jungendliche also alles was abzubrechen ist ist da abgebrochen.
+[02:23:32-6 @timpritlove] (hm) 
+[02:23:33-1 @doobee] Alle Ecken in die reinzukriechen ist mit vertretbaren Aufwand ist reingekrochen (ähm) da also da kann man nicht viel kaputt machen. Es gibt den bösen Spruch von der Opferhöhle
+[02:23:43-8 @doobee] die opfern wir um die andern zu schützen.
+[02:23:46-0 @timpritlove] (hm) 
+[02:23:46-6 @doobee] (ähm) Und es gibt also die Möglichkeiten sich da auszutoben was für die Region ganz praktisch ist und gleichzeitig natürlich Leute ran zuführen an das Thema und vielleicht 
+[02:23:58-8 @doobee] sagen ja, ich  ich will noch enger.
+[02:24:02-9 @timpritlove] Wem gehören den jetzt sozusagen diese Höhlen? Ist so alles was unterirdisch ist automatisch auch immer der Eigentümer der da oben das Sagen hat oder endet das nach nen paar 
+[02:24:11-6 @timpritlove] Metern?
+[02:24:12-2 @doobee] Ja spannend also man könnte erstmal auf das Bergrecht zurück greifen das für Bergwerke ist. Das ist wahnsinnig komplex aber wenn unter deinem Grundstück Kohle gefunden 
+[02:24:24-6 @doobee] wird hast du erstmal nichts davon. Sondern das wird sozusagen separat gehandhabt.
+[02:24:28-6 @timpritlove] (ehem) 
+[02:24:29-1 @doobee] Dann gibts noch solche Sachen zum Beispiel die Erbstollen, wenn du irgendwie ein Stollen in nen Berg gräbst der alle Bergwerke die in dem Berg sind entwässerst also den tiefsten 
+[02:24:38-8 @doobee] sozusagen dann musst irgendwie kriegst von allen Geld oder nen Teil was bei denen gefördert wird. Also alles super komplex.
+[02:24:44-8 @timpritlove] Ja 
+[02:24:45-2 @doobee] Aber du darfst den Erbstollen glaub ich je nach Wasser und Bachrechten..keine Ahnung. Für die Höhlen ist lustiger Weise erstmal nicht das Bergamt zuständig das ist ganz klar 
+[02:24:55-7 @doobee] geklärt zumindest in Nord-Rheinwestfalen. 
+[02:24:58-5 @timpritlove] Aber da ist ja eigentlich auch kein Berg. 
+[02:25:00-7 @doobee] Genau der Antiberg. (äh) Andererseits im Bergwerk ja auch nicht mehr wenn die da fertig gewerkt haben 
+[02:25:07-6 @timpritlove] Das stimmt aber da war zumindest mal welcher.
+[02:25:09-3 @doobee] (äh) Andere Sache wieder lustig für Schauhöhlen also wo Geld Eintritt genommen wird ist wiederum das Bergamt zuständig.
+[02:25:16-3 @timpritlove] (hm) 
+[02:25:17-3 @doobee] Die überhaupt keine Ahnung von Höhlen haben und (äh) 
+[02:25:19-8 @timpritlove] (lachen)
+[02:25:20-0 @doobee] zumindest in den 60., 70. sehr viel Unsinn getrieben haben.
+[02:25:24-5 @timpritlove] (hm) 
+[02:25:25-0 @doobee] (äh) Wie es mit Höhlen ist ist ungeklärt, kurze Zusammenfassung. Wo man sich recht einig ist, ist das der der (ähm) dem das Grundstück mit dem Eingang gehört wohl einiges 
+[02:25:37-6 @doobee] zu reden hat. Zum Beispiel kann er dir ja verweigern zu dem Eingang zugehen. Was ist wenn die Höhle unter nen anderes Grundstück geht? Bei unkooperativen 
+[02:25:47-3 @doobee] Grundstückseigentümern hat ich schonmal drüber nachgedacht warum na die Höhle nicht von hinten anbohrt.
+[02:25:51-6 @timpritlove] (kichern)
+[02:25:53-3 @doobee] (ähm) Wohin die Höhle geht wissen aber natürlich nur wir, weil weiste erst wenn du das Ding vermessen hast.
+[02:26:03-2 @timpritlove] Ja
+[02:26:03-6 @doobee] Wenn wir jetzt irgendwie nen netten Grundstückseigentümer A und schweinebacke B haben und bei A ist der Eingang und wir merken das die zieht sofort unter Grundstück von B 
+[02:26:15-3 @doobee] werden wir wohl kaum den Plan rausgeben.
+[02:26:17-6 @timpritlove] (lachen)
+[02:26:20-8 @doobee] Passiert in der Praxis nicht ganz so häufig aber ist letztendlich (äh) rechtlich unklar.
+[02:26:27-8 @timpritlove] (hm) 
+[02:26:28-3 @doobee] Was (äh) da ist dann wiederum der Arbeitskreis Kluterthöhle in ner guten Situation weil er halt seit 30 Jahren diese Höhlenbetreuungsverträge rechts und links abschließt 
+[02:26:36-8 @doobee] wo einfach mal klar ist wir dürfen da rein, dürfen dir nichts kaputt machen, müssen das alles in Ordnung halten aber du darfst uns auch nicht verweigern da in vernünftigen Umfang 
+[02:26:43-7 @doobee] rein zugehen das ist natürlich auch immer, darf man nicht drauf bestehen und alle müssen sich lieb haben aber es geht. Hingegen wenn du dieses nen Loch im Wald Situation hast 
+[02:26:53-5 @doobee] kannst natürlich immer wohl möglich Äste drüber legst und keinem sagst. Kann natürlich immer passieren das der Waldbesitzer da einfach mal nen Laster Kies oben rein kippt 
+[02:27:02-0 @doobee] und vorbei. Haben auch so, wir haben inzwischen so Situationen na tun wir mal so als wäre sie hypothetisch. Die Person mit der der Betreuungsvertrag abgeschlossen ist 
+[02:27:14-6 @doobee] ist gestorben, wir würden das Grundstück gern kaufen von den Rechtsnachfolgern aber die sind in alle Welt verstreut und Grundbuch und so da kannste nicht einfach mal 
+[02:27:29-9 @doobee] nen Brief aus den USA ich find das auch ok da musst du alles notariell beurkundet haben und wir sind an dem Punkt, da müsste man eigentlich mit dem Notar ein mal um die 
+[02:27:40-3 @doobee] Welt fliegen sich die mit nen Deutschen sich die Unterschriften holen dann könnte man das Grundstück kaufen selbst wenn alle verkaufsbereit sind. Das heißt aber man 
+[02:27:49-2 @doobee] # hat son Grundstück wir haben zumindest ein Vertrag der sagt man darf in die Höhle, das Grundstück ist praktisch unverkäuflich besser kanns nicht sein. Wenn wir jetzt nicht 
+[02:27:58-9 @doobee] den Vertrag hätten könnte uns im Prinzip jeder Zeit jemand den Hahn zu drehen. Der Vertrag ist ja auch der selbst wenn das Grundstück verkauft wird ist der nicht automatisch 
+[02:28:06-4 @doobee] gekündigt die Person die den unterschrieben hat die eigentlich kündigen könnte gibts nicht mehr, es wird sehr verworren.
+[02:28:12-3 @timpritlove] Das heißt der Vertrag gilt jetzt erstmal auf unbestimmte Zeit (äh) weiter 
+[02:28:15-5 @doobee] Ja
+[02:28:15-6 @timpritlove] könnte aber im Prinzip von der (äh) Erbengemeinschaft (ähm) angefochten werden wenn die sich überhaupt mal drum kümmern würden ja 
+[02:28:22-1 @doobee] gekündigt würde genau aber die die können halt garnicht zusammen kommen.
+[02:28:25-9 @timpritlove] (hm) 
+[02:28:26-1 @doobee] Und ist halt in der Regel ja irgendwie nen Stück im Wald ne also auch nix wo man jetzt sagen würde hey da lohnt es sich mal 
+[02:28:34-2 @timpritlove] Ohhr ne Höhle (kichern) Deutschland wollt ich schon immer mal haben.
+[02:28:37-1 @doobee] Und das ist halt die Sache die die Höhlen halten halt länger als alles andere also zumindest länger als Grundstücke (ähm) und Häuser, na gut Grundstücke nicht 
+[02:28:44-7 @doobee] aber Häuser und Wälder.
+[02:28:45-7 @timpritlove] Ja weil diese schon paar tausend Jahre aufen Buckel haben.
+[02:28:48-5 @doobee] Und auch noch haben werden.
+[02:28:49-7 @timpritlove] (hm) Ja und noch haben werden.
+[02:28:51-4 @doobee] Ja und also diese ganze Frage zwischen dem irgendwie wir machen das mal sauber und rechtlich abgesichert und mit nem dicken Stahltor davor und (äh) Information and cafe 
+[02:29:00-1 @doobee] want to be free (äh) da ist ne weite Spannbreite und da gibts halt diese ganze hässliche Welt der Geheimhalterei und ich sag dir nicht (ähm) das ist alles nicht schön in der 
+[02:29:11-8 @doobee] Praxis sagen sich die Höhlenforscher halt alle gegeneinander (äh) oder gegenseitig aber (ähm) da sind wir wieder bei den Mailboxen und den Foren irgendwie musste schon 
+[02:29:22-1 @doobee] reputation haben und (äh) auch doof. 
+[02:29:29-1 @timpritlove] Jetzt würde ich so nach dem jemand mal so ausführlich sein (äh äh) Hobby und die Aktivitäten (äh) geschildert hat eigentlich am Schluss dann immer erstmal dazu aufrufen 
+[02:29:37-5 @timpritlove] das sich da jetzt mal jeder der da nen bisschen Blut geleckt hat sich dann auch gleich reinwirft aber jetzt weiß ich garnicht ob es überhaupt so gewollt ist (kichern) die den 
+[02:29:45-5 @timpritlove] Geheimclub irgendwelche daher gelaufenen Nerds die mal nen Podcast gehört haben irgendwie
+[02:29:51-2 @doobee] Reinwerfen gerade in die Schachthöhlen (lachen)
+[02:29:54-2 @timpritlove] Ja ja ich meine gut das mag jetzt hier eh schon sone kleine Firewall errichtet worden sein weil jeder der der sich da jetzt interessiert davon ausgehen darf das er erstmal ne Stunde 
+[02:30:02-5 @timpritlove] lang durch irgendwie Pfützen mit 20cm Bödenhöhe (ähm) gezogen wird aber wen das nicht abschreckt.
+[02:30:10-1 @doobee] In NRW ich meine in Berlin seit ihr eh gekniffen (äh) 
+[02:30:13-2 @timpritlove] Ja gibts nichts 
+[02:30:14-3 @doobee] (ähm) In Süddeutschland gibts jede Menge wo man auch bequem durchlaufen kann (ähm) da ist auch die Einstellung also es gibt glaub ich zum Beispiel (ähm) Höhlen wandern 
+[02:30:25-1 @doobee] mir Kinder in den Franken als Buch bei Amazon. Ganz andere Einstellung als das Ennepetaler Modell (ähm) aber wir sagen manchmal lustig immer hinten im Auto nen 
+[02:30:38-1 @doobee] Höhlenschutztor liegen und wenn du nen Loch im Boden findest Tor drauf Zettel dran Schlüssel gibts bei uns. (ähm) Also in Süddeutschland ist das zum Teil kann man 
+[02:30:48-8 @doobee] einfach so rein und wenn die richtig gefährlich sind steht das da auch dran ansonsten kann ich jedem empfehlen mal bei sonem Höhlenverein vorbei zugehen der auch nur nen
+[02:30:55-6 @doobee] bisschen Interesse hat die freuen sich in der Regel nen Ast (ähm). Nen Problem ist das die Vereine zum Teil sehr disfunktional sind also im Prinzip schon auf nen absteigenden 
+[02:31:06-1 @doobee] Ast. Zum Beispiel wenn man nach Höhlenverein und Aachen sucht dann findet man nach vielen suchen die Saga Speleologisch Arbeitsgemeinschaft Aachen. Webseite ist irgendwie 
+[02:31:17-0 @doobee] von 97 oder so hab ich das Gefühl. Da steht wir treffen uns jeden zweiten Dienstag oder sonst was in einem Restaurant das es lang nicht mehr gibt (ähm) und bis man mit den 
+[02:31:27-4 @doobee] Saga-Leuten mal Kontakt aufgenommen hat (äh) ist es richtig bitter dann sind aber nett und freuen sich (äh) und das ist tatsächlich bei ganz vielen Gruppen so. Also man muss 
+[02:31:37-7 @doobee] nen bisschen nachbohren und dann interpretiert man ja gerne auch das sie sich nicht melden als ein (ähm) abschieben wollen oder nichts mit einem zutun haben wollen 
+[02:31:45-1 @doobee] das halt einfach richtig wenige Leute und zum Teil halt (ähm) auch schon ausgestorben oder so halt wo die Leute sagten so jetzt bin ich 65, jetzt nicht mehr 
+[02:31:55-6 @timpritlove] (ehem) 
+[02:31:56-3 @doobee] (ähm) Aber wenn man dann ne Gruppe findet die nehmen einen eigentlich immer gern mit.
+[02:32:00-6 @timpritlove] Aber wenn diese Gruppen so weg sterben dann nehmen die ja unter Umständen auch ne ganze Menge Wissen mit.
+[02:32:06-7 @doobee] Ja 
+[02:32:07-9 @timpritlove] Bei all der Geheimhaltung und so.
+[02:32:10-1 @doobee] Einerseits tatsächlich das das richtige Wissen das im Kopf drin ist 
+[02:32:15-1 @timpritlove] Vertrage vielleicht?
+[02:32:16-5 @doobee] Nja die sind ja noch auf Papier und da bin ich eigentlich noch relativ unbesorgt also wenn mein
+[02:32:23-6 @timpritlove] Warum?
+[02:32:23-4 @doobee] Opa stirbt und komm an nen riesigen Schrank mit Plänen von Höhlen und irgendwie Ordnern mit Verträgen da werde ich wahrscheinlich auf die Idee kommen das das nen bisschen 
+[02:32:34-0 @doobee] was Wert ist und ich rum telefonieren sollte ob das jemand haben will.
+[02:32:37-0 @timpritlove] Ja
+[02:32:37-3 @doobee] Wenn das Zeug aufen PC ist ob ich das finde überhaupt, ob ich die Kiste nicht einfach mit (äh) wegschmeiße so wie sie ist also und wir kommen da an ne (ähm) die digitale 
+[02:32:47-7 @doobee] Gedächnislücke also irgendwo so zwischen 2005 und 2008 sind hier zum Beispiel alle auf Digitalfotografie umgestiegen, vorher gabs halt Diakästen und tatsächlich haben die 
+[02:32:58-8 @doobee] Höhlenforscher auch (ähm) das Problem mit dem Verlust hatten die durchaus im Kopf die wussten das ist viel Arbeit. Schön sind halt die Sachen die nach dem man sie vermessen hat 
+[02:33:06-2 @doobee] einstürzen oder so (kichern) da weiß man halt das ist unwiederbringlich.
+[02:33:09-7 @timpritlove] (hm) 
+[02:33:10-4 @doobee] (äh) Oder wenn man so Bergwerksteile sagt da geht nie wieder jemand rein das ist uns zu gefährlich die noch mal zu vermessen, das hat einfach tatsächlich unwiederbringlich 
+[02:33:18-3 @doobee] die haben oft schon die Pläne bei mehreren Leuten gelagert und oder von Dias immer noch Abzüge machen lassen. Also in der in der Hardwarewelt gibts das alles 
+[02:33:29-6 @doobee] die Redundanz nen bisschen in der Digitalen Welt zum Teil machen sie auch ich kopier das mal aufen Stick und gib das den andern aber trotzdem Spruch ja digitale Daten 
+[02:33:40-6 @doobee] die man nicht mindestens dreifach hat sind schon verloren (ähm) wo das alles ist und wie sich das wieder finden lässt und und wie die Gemeinschaft der Höhlenforscher 
+[02:33:50-6 @doobee] all zum Beispiel diese Digitalen Fotos und andere Vereine machen halt digitale Pläne. Aufheben ist nen Problem (ähm) ich programmier son bisschen rum an der Speicherplattform 
+[02:34:01-1 @doobee] weil bisher ist immer die die Dias gabs die Fotos Postet einmal auf die Mailingliste und hat die bei Google+ oder sonst was und dann zwei Jahre später sind sie weg. (ähm) 
+[02:34:10-8 @doobee] Da Fehlt uns was wo wir jetzt als Verein beschlossen haben das Problem anzugehen das wir wollen jetzt wieder Jahrbücher machen wo halt unsern ganzen Kram zumindest 
+[02:34:20-5 @doobee] weite Teile davon vielleicht nicht die Koordinaten der Eingänge alle zwei drei Jahre als gebundenes Buch raus geben (ähm) davon irgendwie ne 200ter Auflage drucken 
+[02:34:29-7 @doobee] der Deutschen Bibliothek nen paar Exemplare schicken, den andere Vereinen und dann ist man schon mal ne ganzes Stück sicherer. Das ist übrigens eine der schönen Lagen 
+[02:34:37-4 @doobee] der Überalterung. hat unsere Hackerszene auch son bisschen (ähm) sind genug Leute mit Geld da. Also wenn du jetzt sagst hier unsere Arbeit der letzten drei Jahre 
+[02:34:50-8 @doobee] müssen nen Buch drucken und wir müssen jetzt 5.000 Euro Druckkosten
+[02:34:54-2 @timpritlove] Lasst mal zusammenlegen 
+[02:34:55-2 @doobee] die finden sich schon irgendwie und jemand kennt auch jemand von der Sparkasse die auch noch aus ihrem Gemeinnützigen Fond da machen, das war halt in andern Zeiten 
+[02:35:03-5 @doobee] irgendwie ne riesen Nummer das ging dann halt einfach nicht.
+[02:35:06-6 @timpritlove] (hm) Ja Doobee haben wir es oder?
+[02:35:14-6 @doobee] Ein unterirdischen Hobby ja 
+[02:35:16-3 @timpritlove] Ja sehr (lachen) und den Dingen auf die Spur kommen mal auf ne ganz (äh) andere Art und Weise gedacht. Noch irgendwas ganz wichtiges (äh) vergessen?
+[02:35:26-4 @doobee] Ah vielleicht zum Abschied (ähm) ob jetzt in Höhlen Kanalisation stinkt übrigens sucht euch was anderes. (ähm) Lüftungsschächte und sonst was (äh) Fernwärmeschächte 
+[02:35:37-9 @doobee] sind sehr spannend weil da immer der Dampf austritt irgendwo. Hat sehr Doom mäßiges fealing (ähm) von den Höhlen gibts (ähm) irgendwie son Sprüchlein. Hinterlass nichts 
+[02:35:48-6 @doobee] außer deine Fußspuren und die möglichst auch nicht, (äh) schlag nichts tot außer deiner Zeit, nimm nichts raus außer Fotos und Erinnerungen, (ähm) aber außer dem Schutz
+[02:36:03-0 @doobee] der Geotope und tatsächlich auch der Fernwärmetunnel und so dieser Welt denkt auch dran müsst ihr es wirklich komplett im Internet veröffentlichen, müsst ihr das so 
+[02:36:11-4 @doobee] veröffentlichen das jeder Idiot es sofort findet, verhaltet euch am Eingang unauffällig, also produziert nicht zu allen interessanten Orten dieser Welt direkt ein Trampelpfad 
+[02:36:21-0 @doobee] und tut nen Geochatch rein (ähm) die Wahrscheinlichkeit das der Ort dann schnell nicht mehr zugänglich ist ist doch sehr hoch. Vielleicht sind manche Sachen einfach nicht 
+[02:36:30-0 @doobee] fürs Internet geeignet ich weiß es nicht (äh) aber zumindest drüber nachdenken und wenn ihr es dann trotzdem in euerm Block samt Koordinaten und Fotos von Eingang 
+[02:36:37-9 @doobee] posten müsst und den Zaun total verbiegen beim reinsteigen dann seit so aber machts wenigstens mit bedenken.
+[02:36:46-6 @timpritlove] M;it schlechtem Gewissen zumindest.
+[02:36:48-1 @doobee] Ja oder sagen Information must be free, Opfer im Wege der Informatrionsfreiheit müssen auch die Höhlen und Bunker und Fernwärmetunnel sein, ist mir lieber als 
+[02:36:56-8 @doobee] aus Wurstigkeit und Dummheit und nicht dran gedacht.
+[02:36:59-3 @timpritlove] (hm) (lachen) Ja Überzeugungstäter kann dann wahrscheinlich sowieso wenig beeinflussen.
+[02:37:05-8 @doobee] Schweßt die Türen hinter euch wieder zu.
+[02:37:07-5 @timpritlove] Ja aber so dieses Urban Exploration das haben wir jetzt garnicht so sehr in den Mittelpunkt gestellt aber das ist im Prinzip so bisschen Höhlenforschung light (ähm) wo man 
+[02:37:17-7 @timpritlove] sozusagen auch in seinem Urbanen Umfeld (ähm) kundig werden kann und wo man glaub ich auch ne ganze Menge lernen kann auch so über unsere Gesamtinfrastrucktur 
+[02:37:28-1 @timpritlove] über die man sich sonst eigentlich immer nicht so viele Gedanken macht ne.
+[02:37:30-6 @doobee] Wir sind ja eigentlich ne Postindustrielle Gesellschaft also Industrie ist nicht mehr so wichtig und viel, Berlin ist für mich nen super Beispiel dafür. Es gibt jede Menge 
+[02:37:39-2 @doobee] Industriereste noch und der Unterschied ist, als Höhlenforscher muss ich mich ja kaum mit Menschen beschäftigen außer ich versuch gerade Verträge zu machen (ähm) 
+[02:37:48-6 @doobee] in der5 Stadt hab ich halt viel mehr diese Sachen (äh) wie verhalte ich mich so als müsst ich da hin, als gehörte ich da hin (äh) wie begegne ich den Wachmann, wie komm
+[02:37:59-7 @doobee] ich über unauffällig über den Zaun also sind noch nen Set anderer Techniken (ähm) aber ist natürlich schon cool ne wenn man in der Fußgängerzone den Kanaldeckel 
+[02:38:09-7 @doobee] von unten aufmacht daraus steigt, sich nen bisschen abstaubt 
+[02:38:13-1 @doobee] und das Ding wieder zuschiebt (äh) 
+[02:38:16-1 @timpritlove] So wie Superman aus seiner Telefonzelle ne...
+[02:38:18-3 @doobee] Jaja genau irgendwie ist schon.. da fühlt man sich schon cool. 
+[02:38:24-7 @doobee] Und wenn man dann cool genug ist auch noch den Guckenden Passanten nen blöden Spruch rein zudrücken 
+[02:38:33-3 @timpritlove] Ja ja wahrscheinlich sagst du.. was sagte denn so was wie ja (äh) mein Raumschiff darf nicht jm (äh) Licht stehen bleiben da gehts kaputt (lachen)
+[02:38:40-3 @doobee] Ja ein typischen C-Base Problem.. (äh) Also der Klassiker in den Höhlenvereinen ist immer "was machen sie da? - Ich suche Höhlen oder wollen sie das machen?"
+[02:38:52-6 @doobee] Dann drückt man ihm die Brechstange in die Hand..
+[02:38:56-9 @timpritlove] Ja machen sie doch ist ganz einfach.. wenn sie mit dem mit Schleim klar kommen 
+[02:39:05-1 @timpritlove] und den und den Fledermäusen... Na gut genug ins Gewissen geredet, genug berichtet vielen Dank Doobee (ähm) das wars hier CRE 201 (äh) die Höhlenforschung einmal 
+[02:39:19-2 @timpritlove] von A bis Z (äh) vielen Dank fürs zuhören und (äh) Tschüss und bis bald.
+[02:39:24-0 @timpritlove]
